@@ -1,0 +1,16 @@
+{
+    "*": [
+        {
+            "name": "爱贝支付",
+            "paytype": "iappay",
+            "tips": "爱贝安全支付",
+            "isDefault": "1"
+        },
+        {
+            "name": "话费支付",
+            "paytype": "yisdkpay",
+            "tips": "直接从话费中扣减，通信费由运营商代收",
+            "isDefault": "2"
+        }
+    ]
+}

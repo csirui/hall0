@@ -1,0 +1,10 @@
+{
+    "*": [
+        {
+            "name": "duoku支付",
+            "paytype": "duoku",
+            "tips": "duoku支付",
+            "isDefault": "1"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "*": [
+        {
+            "name": "支付宝",
+            "paytype": "alipay.app",
+            "tips": "支付宝安全支付",
+            "specialTips": "极速支付",
+            "strategy": "minimal_strategy"
+        },
+        {
+            "name": "微信",
+            "paytype": "weixin",
+            "strategy": "minimal_strategy"
+        },
+        {
+            "name": "苹果支付",
+            "paytype": "tuyooios",
+            "tips": "有卡就能付"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "com.eapoker.ddz.single":{
+        "game":{
+            "package":"com.eapoker.ddz.single",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6597\u5730\u4e3b"
+        },
+        "xyzs":{
+            "appkey":"rZkmaFD1f9DYmNLzz9zJOFO5BjTAcDFg",
+            "paykey":"S3xdvxzNHqc1brCBwiRjLGAa54C2PX1P",
+            "name":"xyzs"
+        }
+    }
+}

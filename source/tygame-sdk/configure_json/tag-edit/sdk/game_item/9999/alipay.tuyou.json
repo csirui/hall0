@@ -1,0 +1,19 @@
+{
+    "com.sdk.test.otherAlinew":{
+        "alipay":{
+            "partnerId":"2088901481292394",
+            "sellerId":"2088901481292394",
+            "rsaPrivateKey":"MIICeAIBADANBgkqhkiG9w0BAQEFAASCAmIwggJeAgEAAoGBAOIc0bKk2wj6nA2Fzd59LDfhXJGlurRs+GzYPKtKKjyMLVxq/PDLOahkiYNzaOBeWFa4smtdFZdd39sgHCyqoMkVTSR1KGZHiiPrlUEoIdwYI+iS7vRvwPk4RkN7C/gL1OKZ1P6/EhCb/R5wJ1zfymiRd1iv3ztDL+0dLOlOcbklAgMBAAECgYEAtSPNQkYbSugpmBO3RyQUBng+Blg0aFJb+iaJA9gYWgUaWc1D8Ut9V0+jcnFEdWpfbqnsFWKu52JG8W6Z45aV0sADvoMHe0DzB+OD4nqgObG/lFZif3vSWEyN+UIxmW+Eu+nOyR/PHUD6W0Etg5B47W2rqzpXEzU2zfknwM7uWsECQQDytNtBxeMg2Y5w82WU+GuMtaFNIAe6g+YreEKEn6TmbU266x8HCktXsSP1jKSt4GpvkLDUB5zOa+HZobnuVkmZAkEA7n9J+iP7JcMPU+X8O1nxzsMe103gfzQaGyiIVtPLoHHkZU/2kJ8O3WBAcS4glJ8ZBoqQJs3yel+GNSar2MNbbQJBAKondVgFXhjXrW8ulNb92pjJdY5WmFSAyEtNgoTsT3VkyAv1bslGxE90Vxt9QK7OGJCixfXAaISnSa2EHpAjWnECQGzeNgq1OgO20txdc5I0MKlNcFqf9gaa5f/XtMTN0XngA34rzkWeFc8ADOqdP8oYBfhyb/MGt9UcncrNaEx+gNECQQDXYEhXZEptZMm3nb2tj0u//kOEgfnVqu18/pfFbJOyXjRqoIya46hMvzEcEvq0dND5bdhP8mIud7No5ZelmAPn",
+            "rsaPubKey":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCnxj/9qwVfgoUh/y2W89L6BkRAFljhNhgPdyPuBV64bfQNN1PjbCzkIM6qRdKBoLPXmKKMiFYnkd6rAoprih3/PrQEB/VsW8OoM8fxn67UDYuyBTqA23MML9q1+ilIZwBC2AQ2UBVOrFXfFl75p6/B5KsiNG9zpgmLCUYuLkxpLQIDAQAB",
+            "AppId":"2016012101112179",
+            "MD5":"p6pyopwqnt3589w9w0ycbcmu1swmuu4u",
+            "name":"alipay"
+        },
+        "game":{
+            "package":"com.sdk.test.otherAlinew",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u652f\u4ed8\u5bf6\u6e2c\u8a66"
+        }
+    }
+}

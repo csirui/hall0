@@ -1,0 +1,23 @@
+{
+    "com.sdk.test.pengyouwan":{
+        "tuyoosdk":{
+            "name":"tuyoosdk",
+            "LoginSDK":"pyw",
+            "PaySDKs":"pyw",
+            "defaultSDKs":"tyOneKey,tyAccount,tyCard,weixinWap,alipayweb",
+            "force_login":"pyw",
+            "version":"1.0"
+        },
+        "game":{
+            "package":"com.sdk.test.pengyouwan",
+            "tuyoo_appId":"10049",
+            "name":"game",
+            "app_name":"\u6c38\u6052\uff08\u5b89\u5353\uff092"
+        },
+        "pengyouwan":{
+            "pyw_appKey":"287022eb",
+            "pyw_payKey":"c94427e45bb0477e",
+            "name":"pengyouwan"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{"10000": {
+    "auto_reply": "是",
+    "subscribe": ["XW", "10660145"],
+    "unsubscribe": ["000000", "10660145"]
+}, "150000": {
+    "auto_reply": "是",
+    "subscribe": ["XW", "10660145"],
+    "unsubscribe": ["00000", "10660145"]
+}, "200000": {
+    "auto_reply": "是",
+    "subscribe": ["10", "10660672"],
+    "unsubscribe": ["00000", "10660672"]
+}, "210000": {
+    "auto_reply": "是",
+    "subscribe": ["XW", "10660145"],
+    "unsubscribe": ["00000", "10660145"]
+}, "230000": {
+    "auto_reply": "是",
+    "subscribe": ["XW", "10660145"],
+    "unsubscribe": ["00000", "10660145"]
+}, "250000": {
+    "auto_reply": "是",
+    "subscribe": ["10", "10660672"],
+    "unsubscribe": ["000000", "10660672"]
+}, "30000": {
+    "auto_reply": "是",
+    "subscribe": ["XW", "10660145"],
+    "unsubscribe": ["000000", "10660145"]
+}, "300000": {
+    "auto_reply": "是",
+    "subscribe": ["10", "10660672"],
+    "unsubscribe": ["00000", "10660672"]
+}, "430000": {
+    "auto_reply": "是",
+    "subscribe": ["10", "10660672"],
+    "unsubscribe": ["00000", "10660672"]
+}, "450000": {
+    "auto_reply": "是",
+    "subscribe": ["XW", "10660145"],
+    "unsubscribe": ["000000", "10660145"]
+}, "550000": {
+    "auto_reply": "是",
+    "subscribe": ["XW", "10660145"],
+    "unsubscribe": ["00000", "10660145"]
+}, "570000": {
+    "auto_reply": "是",
+    "subscribe": ["10", "10660672"],
+    "unsubscribe": ["00000", "10660672"]
+}, "650000": {
+    "auto_reply": "是",
+    "subscribe": ["XW", "10660145"],
+    "unsubscribe": ["00000", "10660145"]
+}, "710000": {
+    "auto_reply": "是",
+    "subscribe": ["XW", "10660145"],
+    "unsubscribe": ["000000", "10660145"]
+}, "830000": {
+    "auto_reply": "是",
+    "subscribe": ["XW", "10660145"],
+    "unsubscribe": ["00000", "10660145"]
+}, "850000": {
+    "auto_reply": "是",
+    "subscribe": ["XW", "10660145"],
+    "unsubscribe": ["00000", "10660145"]
+}}

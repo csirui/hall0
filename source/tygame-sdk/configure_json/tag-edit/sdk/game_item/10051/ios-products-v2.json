@@ -1,0 +1,58 @@
+[
+    {
+        "name": "10051",
+        "clientIds": [
+            "^IOS_3.*$"
+        ],
+        "products": [
+            {
+                "tyid": "com.360.game.godness.1",
+                "name": "60元宝包",
+                "price": 60,
+                "iosid": "com.360.game.godness.1"
+            },
+            {
+                "tyid": "com.360.game.godness.2",
+                "name": "300元宝包",
+                "price": 300,
+                "iosid": "com.360.game.godness.2"
+            },
+            {
+                "tyid": "com.360.game.godness.3",
+                "name": "980元宝包",
+                "price": 980,
+                "iosid": "com.360.game.godness.3"
+            },
+            {
+                "tyid": "com.360.game.godness.4",
+                "name": "1980元宝包",
+                "price": 1980,
+                "iosid": "com.360.game.godness.4"
+            },
+            {
+                "tyid": "com.360.game.godness.5",
+                "name": "3280元宝包",
+                "price": 3280,
+                "iosid": "com.360.game.godness.5"
+            },
+            {
+                "tyid": "com.360.game.godness.6",
+                "name": "6480元宝包超级豆",
+                "price": 6480,
+                "iosid": "com.360.game.godness.6"
+            },
+            {
+                "tyid": "com.360.game.godness.7",
+                "name": "军团红包30",
+                "price": 300,
+                "iosid": "com.360.game.godness.7"
+            },
+            {
+                "tyid": "test_1",
+                "name": "测试",
+                "price": 1,
+                "iosid": "test_1"
+            }
+        ]
+    }
+]

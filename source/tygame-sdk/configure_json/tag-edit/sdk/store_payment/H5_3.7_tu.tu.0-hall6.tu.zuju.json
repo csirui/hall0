@@ -1,0 +1,71 @@
+{
+    "payment": {
+        "more_categories": "CAT_LIST_360",
+        "default_category": [
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0002001",
+                "paytype": "h5.youku"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0006001",
+                "paytype": "h5.youku"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0030001",
+                "paytype": "h5.youku"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0050001",
+                "paytype": "h5.youku"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0100001",
+                "paytype": "h5.youku"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0300001",
+                "paytype": "h5.youku"
+            }
+            ,{
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D1000001",
+                "paytype": "h5.youku"
+            }
+            ,{
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0000102",
+                "paytype": "h5.youku"
+            }
+            ,{
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999R0000101",
+                "is_diamond": 1,
+                "paytype": "h5.youku"
+            }
+            ,{
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999R0006001",
+                "is_diamond": 1,
+                "paytype": "h5.youku"
+            }
+            ,{
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999R0050001",
+                "is_diamond": 1,
+                "paytype": "h5.youku"
+            }
+            ,{
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999R0100001",
+                "is_diamond": 1,
+                "paytype": "h5.youku"
+            }
+        ]
+    }
+}

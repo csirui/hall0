@@ -1,0 +1,9 @@
+{
+    "*": [
+        {
+            "name": "ysdk",
+            "paytype": "ysdk",
+            "isDefault": "1"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+	"name" : "tyhallvm101",
+	"mode" : 3,
+	"redis.port" : 6401,
+	"projects" : [{
+				"path" : "./../tyframework"
+			}, {
+				"path" : "./../tygame-hall"
+			}],
+	"servers" : [{
+				"id" : "vm101",
+				"internet" : "192.168.56.101",
+				"user" : "root", "pwd" :"Zqh775120"
+			}, {
+				"id" : "vm102",
+				"internet" : "192.168.56.102",
+				"user" : "root", "pwd" : "Zqh775120"
+			}, {
+				"id" : "vm103",
+				"internet" : "192.168.56.103",
+				"user" : "root", "pwd" : "Zqh775120"
+			}],
+	"process" : [{
+				"type" : "robot",
+				"id" : 0,
+				"server" : "vm101"
+			}, {
+				"type" : "robot",
+				"id" : 1,
+				"server" : "vm101"
+			}, {
+				"type" : "http",
+				"id" : 2,
+				"server" : "vm101"
+			}, {
+				"type" : "conn",
+				"id" : 10,
+				"server" : "vm102"
+			}, {
+				"type" : "conn",
+				"id" : 11,
+				"server" : "vm102"
+			}, {
+				"type" : "entity",
+				"id" : 30,
+				"server" : "vm103"
+			}, {
+				"type" : "account",
+				"id" : 50,
+				"server" : "vm103"
+			}, {
+				"type" : "quick",
+				"id" : 98,
+				"server" : "vm103"
+			}, {
+				"type" : "heart",
+				"id" : 991,
+				"server" : "vm103"
+			}, {
+				"type" : "game",
+				"id" : 10000,
+				"server" : "vm103"
+			}, {
+				"type" : "game",
+				"id" : 10001,
+				"server" : "vm103"
+			}]
+}

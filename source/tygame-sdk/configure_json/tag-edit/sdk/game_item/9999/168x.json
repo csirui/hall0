@@ -1,0 +1,16 @@
+{
+    "com.sdk.168x.default":{
+        "168x":{
+            "game_appKey":"098413BB3FD44E7F",
+            "game_appid":"100137",
+            "game_sceret":"C04777B77000476EB4CE07591E958E97",
+            "name":"168x"
+        },
+        "game":{
+            "package":"com.sdk.168x.default",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u6b22\u4e50\u9014\u6e38\u6597\u5730\u4e3b"
+        }
+    }
+}

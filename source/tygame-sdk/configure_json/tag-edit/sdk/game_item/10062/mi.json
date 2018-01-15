@@ -1,0 +1,24 @@
+{
+    "com.shediao.cnyxw.mi":{
+        "tuyoosdk":{
+            "name":"tuyoosdk",
+            "LoginSDK":"mi",
+            "PaySDKs":"mi",
+            "defaultSDKs":"mi",
+            "force_login":"mi",
+            "version":"1.0"
+        },
+        "game":{
+            "package":"com.shediao.cnyxw.mi",
+            "tuyoo_appId":"10062",
+            "name":"game",
+            "app_name":"\u8d85\u80fd\u6e38\u620f\u738b"
+        },
+        "xiaomi":{
+            "name":"xiaomi",
+            "xiaomi_appID":"2882303761517485614",
+            "xiaomi_appKey":"5521748528614",
+            "xiaomi_payKey":"vHCnFAM7XY1shVxoTGjteQ=="
+        }
+    }
+}

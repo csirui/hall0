@@ -1,0 +1,16 @@
+{
+    "com.blyx.kkhlddz.mi":{
+        "game":{
+            "package":"com.blyx.kkhlddz.mi",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"KK\u6b22\u4e50\u6597\u5730\u4e3b"
+        },
+        "midanji":{
+            "xiaomidanji_appID":"2882303761517272414",
+            "xiaomidanji_appKey":"5921727268414",
+            "xiaomidanji_payKey":"Z+tvt2k1ITL6hmdKIzxxng==",
+            "name":"midanji"
+        }
+    }
+}

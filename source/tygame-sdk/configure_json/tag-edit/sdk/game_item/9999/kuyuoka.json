@@ -1,0 +1,14 @@
+{
+    "com.sdk.more.default":{
+        "game":{
+            "package":"com.sdk.more.default",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u6d4b\u8bd5\u6e38\u620f"
+        },
+        "more":{
+            "more_appid":"80000008",
+            "more_appkey":"A6E4B0FDC04AB03AC29117A395743E44"
+        }
+    }
+}

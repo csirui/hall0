@@ -1,0 +1,10 @@
+{
+    "*": [
+        {
+            "name": "爱贝支付",
+            "paytype": "iappay",
+            "tips": "爱贝安全支付",
+            "isDefault": "1"
+        }
+    ]
+}

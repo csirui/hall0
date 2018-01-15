@@ -1,0 +1,10 @@
+{
+    "*": [
+        {
+            "name": "vivo支付",
+            "paytype": "vivo",
+            "tips": "vivo支付",
+            "isDefault": "1"
+        }
+    ]
+}

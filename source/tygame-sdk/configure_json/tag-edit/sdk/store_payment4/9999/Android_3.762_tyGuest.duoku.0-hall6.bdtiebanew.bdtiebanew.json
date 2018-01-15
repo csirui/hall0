@@ -1,0 +1,10 @@
+{
+    "*": [
+        {
+            "name": "Vivo",
+            "paytype": "duoku",
+            "tips": "支付宝安全支付",
+            "specialTips": "极速支付"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "com.tuyoo.fish.baidu":{
+        "game":{
+            "package":"com.tuyoo.fish.baidu",
+            "tuyoo_appId":"10063",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6355\u9c7c"
+        },
+        "bdgame":{
+            "bdgame_appId":"8928835",
+            "bdgame_appKey":"NcgpGyQsDNqEGfL1yvCGPspa",
+            "bdgame_secretKey":"plDV3jaQAuFMxyPgjhLwakbHZPzgdedb"
+        }
+    }
+}

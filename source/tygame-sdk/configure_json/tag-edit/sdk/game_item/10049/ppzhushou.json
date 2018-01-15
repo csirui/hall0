@@ -1,0 +1,24 @@
+{
+    "com.sdk.test.pp":{
+        "tuyoosdk":{
+            "name":"tuyoosdk",
+            "LoginSDK":"tyGuest",
+            "PaySDKs":"ppzhushou",
+            "defaultSDKs":"tyOneKey,tyAccount,tyCard,weixinWap,alipayweb",
+            "force_login":"",
+            "version":"1.0"
+        },
+        "game":{
+            "package":"com.sdk.test.pp",
+            "tuyoo_appId":"10049",
+            "name":"game",
+            "app_name":"\u6c38\u6052"
+        },
+        "ppzhushou":{
+            "PPZHUSHOUAPPID":"1021",
+            "PPZHUSHOU_GAME":"\u4e2d\u570b\u8c61\u68cb",
+            "PPZHUSHOU_md5key":"nstjae9dPzYLQM8EZE1ZLvHMmpeB7D8ab56IOaEpBXZsxnsMeiaKGHH4jgG0JDF2",
+            "name":"ppzhushou"
+        }
+    }
+}

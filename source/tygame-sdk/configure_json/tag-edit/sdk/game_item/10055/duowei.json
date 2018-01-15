@@ -1,0 +1,21 @@
+{
+    "com.sdk.aidongman.test":{
+        "game":{
+            "package":"com.sdk.aidongman.test",
+            "tuyoo_appId":"10055",
+            "name":"game",
+            "app_name":"\u6e2c\u8a66"
+        },
+        "aidongman":{
+            "name":"aidongman",
+            "channelId":"131000MO000001",
+            "products":[
+                {
+                    "diamondId":"1213213",
+                    "smscodes":"2332423",
+                    "smsports":"234234234"
+                }
+            ]
+        }
+    }
+}

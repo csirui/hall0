@@ -1,0 +1,16 @@
+{
+    "chinaMobile": [
+        {"channel": "gefu", "share": 100, "precedence": 10 },
+        {"channel": "yipay", "share": 0, "precedence": 30 },
+        {"channel": "linkyun.api", "share": 0, "precedence": 40 },
+        {"channel": "linkyun", "share": 0, "precedence": 50 }
+    ],
+    "chinaUnion": [
+        {"channel": "yipay", "share": 0, "precedence": 20 },
+        {"channel": "EFT.api", "share": 0, "precedence": 30 }
+    ],
+    "chinaTelecom": [
+        {"channel": "yipay", "share": 0, "precedence": 20 },
+        {"channel": "EFT.api", "share": 0, "precedence": 30 }
+    ]
+}

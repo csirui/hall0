@@ -1,0 +1,18 @@
+{
+    "com.buyu.newdwby.samsung":{
+        "tuyoosdk":{
+            "LoginSDK":"tyGuest,tyAccount,tyOneKey",
+            "PaySDKs":"sanxing",
+            "defaultSDKs":"weixinWap,alipayweb,tySdkSkins_dwby",
+            "force_login":"",
+            "ThirdExitSDKName":"",
+            "protocol_url":""
+        },
+        "game":{
+            "package":"com.buyu.newdwby.samsung",
+            "tuyoo_appId":"10071",
+            "name":"game",
+            "app_name":"\u7535\u73a9\u6355\u9c7c"
+        }
+    }
+}

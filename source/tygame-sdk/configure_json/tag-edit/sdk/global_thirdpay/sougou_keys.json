@@ -1,0 +1,11 @@
+{"1510": {
+    "appKey": "2f0be9a8a5bbf9c3f7668fa09d659fa0524d66e18232de284072eb1db7d3cfbf",
+    "appSecret": "3ca69938b08a7e7c00a38a853142e174b0137339fd7abcb4a7dca56cfb18548a",
+    "package": "com.tuyoo.tudoudizhu.sougou",
+    "paySecret": "{881A82BC-80ED-4704-AEA6-806B8C3C7650}"
+}, "1511": {
+    "appKey": "8d6551e53154dbbf8c47266672962e1cda3d3aa287b25ecf68252d25e7412504",
+    "appSecret": "f06865a65a19fdc05272ab02daabb38b220a6fe65cdfab68ffd01d42926d9695",
+    "package": "com.tuyoo.texas.sougou",
+    "paySecret": "{66661557-8AEF-412E-9B0B-A7CACE2328DD}"
+}}

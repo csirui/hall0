@@ -1,0 +1,74 @@
+[
+    {
+        "id": "com.xingai.tutu.coint1",
+        "name": "测试1柠檬",
+        "desc": "",
+        "price": 0.1,
+        "diamondPrice": 1,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.xingai.tutu.coin70",
+        "name": "70柠檬",
+        "desc": "",
+        "price": 1,
+        "diamondPrice": 10,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.xingai.tutu.coin560",
+        "name": "560柠檬",
+        "desc": "",
+        "price": 8,
+        "diamondPrice": 80,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.xingai.tutu.coin3500",
+        "name": "3500柠檬",
+        "desc": "",
+        "price": 50,
+        "diamondPrice": 500,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.xingai.tutu.coin6860",
+        "name": "6860柠檬",
+        "desc": "",
+        "price": 98,
+        "diamondPrice": 980,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.xingai.tutu.coin13160",
+        "name": "13160柠檬",
+        "desc": "",
+        "price": 188,
+        "diamondPrice": 1880,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.xingai.tutu.coin20860",
+        "name": "20860柠檬",
+        "desc": "",
+        "price": 298,
+        "diamondPrice": 2980,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.xingai.tutu.coin27160",
+        "name": "27160柠檬",
+        "desc": "",
+        "price": 388,
+        "diamondPrice": 3880,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.xingai.tutu.coin139860",
+        "name": "139860柠檬",
+        "desc": "",
+        "price": 1998,
+        "diamondPrice": 19980,
+        "is_diamond": 0
+    }
+]

@@ -1,0 +1,7 @@
+{
+    "shouWeChat": false,
+    "weChatParam": "weixin",
+    "showQuickStart": false,
+    "quickStartParam": "tyGuest",
+    "showChannel": false
+}

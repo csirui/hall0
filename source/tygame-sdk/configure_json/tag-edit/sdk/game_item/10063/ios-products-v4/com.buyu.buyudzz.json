@@ -1,0 +1,105 @@
+[
+    {
+        "clientIds": [
+            "^IOS_3.*hall28.appStore.bydzz$"
+        ],
+        "products": [
+            {
+                "tyid": "TY28C000610101",
+                "name": "60000金币",
+                "price": 6,
+                "iosid": "com.buyu.buyudzz.c60"
+            },
+            {
+                "tyid": "TY28C001210102",
+                "name": "140000金币",
+                "price": 12,
+                "iosid": "com.buyu.buyudzz.c120"
+            },
+            {
+                "tyid": "TY28C003010103",
+                "name": "360000金币",
+                "price": 30,
+                "iosid": "com.buyu.buyudzz.c300"
+            },
+            {
+                "tyid": "TY28C009810104",
+                "name": "1400000金币",
+                "price": 98,
+                "iosid": "com.buyu.buyudzz.c980"
+            },
+            {
+                "tyid": "TY28C019810105",
+                "name": "3000000金币",
+                "price": 198,
+                "iosid": "com.buyu.buyudzz.c1980"
+            },
+            {
+                "tyid": "TY28C032810106",
+                "name": "5500000金币",
+                "price": 328,
+                "iosid": "com.buyu.buyudzz.c3280"
+            },
+            {
+                "tyid": "TY28C064810107",
+                "name": "12000000金币",
+                "price": 648,
+                "iosid": "com.buyu.buyudzz.c6480"
+            },
+            {
+                "tyid": "TY28D000610201",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "com.buyu.buyudzz.d60"
+            },
+            {
+                "tyid": "TY28D001210202",
+                "name": "120钻石",
+                "price": 12,
+                "iosid": "com.buyu.buyudzz.d120"
+            },
+            {
+                "tyid": "TY28D003010203",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "com.buyu.buyudzz.d300"
+            },
+            {
+                "tyid": "TY28D009810204",
+                "name": "1100钻石",
+                "price": 98,
+                "iosid": "com.buyu.buyudzz.d980"
+            },
+            {
+                "tyid": "TY28D019810205",
+                "name": "2400钻石",
+                "price": 198,
+                "iosid": "com.buyu.buyudzz.d1980"
+            },
+            {
+                "tyid": "TY28D032810206",
+                "name": "4000钻石",
+                "price": 328,
+                "iosid": "com.buyu.buyudzz.d3280"
+            },
+            {
+                "tyid": "TY28D064810207",
+                "name": "8000钻石",
+                "price": 648,
+                "iosid": "com.buyu.buyudzz.d6480"
+            },
+            {
+                "tyid": "TY28_MEMBER",
+                "name": "30天会员",
+                "price": 28,
+                "iosid": "com.buyu.buyudzz.member0"
+            },
+            {
+                "tyid": "TY28D002810209",
+                "name": "超值钻石礼包",
+                "price": 28,
+                "iosid": "com.buyu.buyudzz.member0"
+            }
+        ]
+    }
+]

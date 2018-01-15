@@ -1,0 +1,260 @@
+{"6": {
+    "CARDMATCH10": {
+        "name": "参赛券X10",
+        "price": "2"
+    },
+    "MOONKEY": {
+        "name": "月光之钥",
+        "price": "2"
+    },
+    "MOONKEY3": {
+        "name": "月光之钥X3",
+        "price": "5"
+    },
+    "PRIVILEGE_30": {
+        "name": "会员（30天）",
+        "price": "100"
+    },
+    "PVIP": {
+        "name": "VIP普通礼包",
+        "price": "30"
+    },
+    "PVIP_BIG": {
+        "name": "VIP豪华礼包",
+        "price": "50"
+    },
+    "RAFFLE": {
+        "name": "50000金币",
+        "price": "5"
+    },
+    "RAFFLE_NEW": {
+        "name": "80000金币",
+        "price": "8"
+    },
+    "T100K": {
+        "name": "110000金币",
+        "price": "10"
+    },
+    "T10M": {
+        "name": "12000000金币",
+        "price": "1000"
+    },
+    "T1M": {
+        "name": "1500000金币",
+        "price": "100"
+    },
+    "T300K": {
+        "name": "400000金币",
+        "price": "30"
+    },
+    "T3M": {
+        "name": "4500000金币",
+        "price": "300"
+    },
+    "T500K": {
+        "name": "700000金币",
+        "price": "50"
+    },
+    "T50K": {
+        "name": "50000金币",
+        "price": "5"
+    },
+    "T60K": {
+        "name": "60000金币",
+        "price": "6"
+    },
+    "T80K": {
+        "name": "80000金币",
+        "price": "8"
+    },
+    "TEHUI1Y": {
+        "name": "1元特惠",
+        "price": "1"
+    },
+    "VIP30": {
+        "name": "VIP（30天）",
+        "price": "30"
+    },
+    "VOICE100": {
+        "name": "语音小喇叭",
+        "price": "1"
+    },
+    "ZHUANYUN": {
+        "name": "转运礼包",
+        "price": "5"
+    },
+    "ZHUANYUN_BIG": {
+        "name": "转运大礼包",
+        "price": "6"
+    },
+    "ZHUANYUN_MEZZO": {
+        "name": "8元转运礼包",
+        "price": "8"
+    }
+}, "7": {
+    "C10": {
+        "name": "10万金",
+        "price": "10"
+    },
+    "C100": {
+        "name": "100万金",
+        "price": "100"
+    },
+    "C1000": {
+        "name": "1000万金",
+        "price": "1000"
+    },
+    "C100_MEMBER": {
+        "name": "月会员，立得100万, 每天再赠3万",
+        "price": "100"
+    },
+    "C10_LUCKY": {
+        "name": "10元转运礼包",
+        "price": "10"
+    },
+    "C2": {
+        "name": "2万金",
+        "price": "2"
+    },
+    "C30": {
+        "name": "30万金",
+        "price": "30"
+    },
+    "C300": {
+        "name": "300万金",
+        "price": "300"
+    },
+    "C30_MEMBER": {
+        "name": "周会员, 立得30万, 每天再送3万",
+        "price": "30"
+    },
+    "C5": {
+        "name": "5万金",
+        "price": "5"
+    },
+    "C50": {
+        "name": "50万金",
+        "price": "50"
+    },
+    "C5_LUCKY": {
+        "name": "5元转运礼包",
+        "price": "5"
+    },
+    "C5_RAFFLE": {
+        "name": "5元礼包",
+        "price": "5"
+    },
+    "C6": {
+        "name": "6万金",
+        "price": "6"
+    },
+    "C6_RAFFLE": {
+        "name": "6元礼包",
+        "price": "6"
+    },
+    "C8": {
+        "name": "8万金",
+        "price": "8"
+    },
+    "C8_LUCKY": {
+        "name": "8元转运礼包",
+        "price": "8"
+    },
+    "C8_RAFFLE": {
+        "name": "8元礼包",
+        "price": "8"
+    }
+}, "8": {
+    "TEXAS_COIN1": {
+        "name": "2万筹码",
+        "price": "2"
+    },
+    "TEXAS_COIN2": {
+        "name": "10万筹码",
+        "price": "10"
+    },
+    "TEXAS_COIN3": {
+        "name": "30万筹码+额外赠3万",
+        "price": "30"
+    },
+    "TEXAS_COIN4": {
+        "name": "50万筹码+额外赠5万",
+        "price": "50"
+    },
+    "TEXAS_COIN5": {
+        "name": "100万筹码+额外赠15万",
+        "price": "100"
+    },
+    "TEXAS_COIN6": {
+        "name": "5万筹码",
+        "price": "5"
+    },
+    "TEXAS_COIN7": {
+        "name": "300万筹码+额外赠45万",
+        "price": "300"
+    },
+    "TEXAS_COIN8": {
+        "name": "1000万筹码+额外赠200万",
+        "price": "1000"
+    },
+    "TEXAS_COIN_LUCKY_R100": {
+        "name": "115万",
+        "price": "100"
+    },
+    "TEXAS_COIN_LUCKY_R1000": {
+        "name": "1200万",
+        "price": "1000"
+    },
+    "TEXAS_COIN_LUCKY_R30": {
+        "name": "33万",
+        "price": "30"
+    },
+    "TEXAS_COIN_LUCKY_R300": {
+        "name": "345万",
+        "price": "300"
+    },
+    "TEXAS_COIN_LUCKY_R50": {
+        "name": "55万",
+        "price": "50"
+    },
+    "TEXAS_COIN_LUCKY_R6": {
+        "name": "10万",
+        "price": "6"
+    },
+    "TEXAS_COIN_R12": {
+        "name": "12万筹码",
+        "price": "10"
+    },
+    "TEXAS_COIN_R6": {
+        "name": "6万筹码",
+        "price": "6"
+    },
+    "TEXAS_COIN_R8": {
+        "name": "8万筹码",
+        "price": "8"
+    },
+    "TEXAS_ITEM_RENAME_CARD": {
+        "name": "改名卡",
+        "price": "100"
+    },
+    "TEXAS_ITEM_SEND_LED": {
+        "name": "喇叭",
+        "price": "50"
+    },
+    "TEXAS_VIP1": {
+        "name": "会员(30天)",
+        "price": "30"
+    },
+    "TEXAS_VIP2": {
+        "name": "会员(30天)",
+        "price": "100"
+    },
+    "TEXAS_VIP3": {
+        "name": "会员(30天)",
+        "price": "300"
+    },
+    "TEXAS_VIP4": {
+        "name": "会员(30天)",
+        "price": "1000"
+    }
+}}

@@ -1,0 +1,15 @@
+{
+    "com.letv.test":{
+        "game":{
+            "package":"com.letv.test",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u6597\u5730\u4e3b"
+        },
+        "leshi":{
+            "name":"leshi",
+            "letv_appId":"250219",
+            "letv_appKey":"847af8dbc94a45fa9e65f7d44c5b30b8"
+        }
+    }
+}

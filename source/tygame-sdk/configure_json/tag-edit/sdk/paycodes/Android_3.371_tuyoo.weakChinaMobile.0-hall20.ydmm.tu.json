@@ -1,0 +1,11 @@
+{
+    "ydmm": {
+        "appid": "300009208052",
+        "appkey": "125BA41E63DD40EA440143B65D7F7CFB",
+        "paydata": [
+            {"prodid": "TY9999D0006001", "msgOrderCode": "30000920805201" },
+            {"prodid": "TY9999R0008001", "msgOrderCode": "30000920805202" },
+            {"prodid": "TY9999D0008001", "msgOrderCode": "30000920805203" }
+    ]
+    }
+}

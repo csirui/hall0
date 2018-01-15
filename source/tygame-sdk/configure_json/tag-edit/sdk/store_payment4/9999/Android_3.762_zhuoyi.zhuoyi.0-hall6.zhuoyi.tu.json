@@ -1,0 +1,10 @@
+{
+    "*": [
+        {
+            "name": "华为支付",
+            "paytype": "zhuoyi",
+            "tips": "支付宝安全支付",
+            "specialTips": "极速支付"
+        }
+    ]
+}

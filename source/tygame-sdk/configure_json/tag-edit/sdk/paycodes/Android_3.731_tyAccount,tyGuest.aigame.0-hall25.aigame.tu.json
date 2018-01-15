@@ -1,0 +1,18 @@
+{
+    "aigame": {
+        "appid": "5093594",
+        "appkey": "40c9e41d31a526a4d819f0371e0b6020",
+        "paydata": [
+	    {"prodid": "TY9999D0001003", "fake": "" },
+	    {"prodid": "TY9999D0002001", "fake": "" },
+	    {"prodid": "TY9999D0005003", "fake": "" },
+            {"prodid": "TY9999D0006016", "fake": "" },
+	    {"prodid": "TY9999D0008027", "fake": "" },
+	    {"prodid": "TY9999D0008001", "fake": "" },
+            {"prodid": "TY9999D0008025", "fake": "" },
+            {"prodid": "TY9999D0008026", "fake": "" },
+            {"prodid": "TY9999R0008005", "fake": "" },
+	    {"prodid": "TY9999D0010001", "fake": "" }
+            ]
+    }
+}

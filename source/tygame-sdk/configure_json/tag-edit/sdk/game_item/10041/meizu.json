@@ -1,0 +1,16 @@
+{
+    "com.tencent.tmgp.tuyoo.yh.mz":{
+        "game":{
+            "package":"com.tencent.tmgp.tuyoo.yh.mz",
+            "tuyoo_appId":"10041",
+            "name":"game",
+            "app_name":"\u6c38\u6052"
+        },
+        "meizu":{
+            "mz_appId":"3088637",
+            "mz_appKey":"3e7a0826655a4876a6c0604ecae058d9",
+            "mz_appSecret":"9NM8wL9afdpTEeOgdUQnTvv0lX2e1jJL",
+            "name":"meizu"
+        }
+    }
+}

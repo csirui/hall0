@@ -1,0 +1,22 @@
+{
+    "com.tencent.tmgp.t3card":{
+        "game":{
+            "package":"com.tencent.tmgp.t3card",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u4e09\u5f20\u724c"
+        },
+        "ysdk":{
+            "ysdk_appId":"1105770051",
+            "ysdk_qq_appId":"1105770051",
+            "ysdk_qq_appKey":"xR044RHcNhnOjcYL",
+            "ysdk_wx_appId":"wxc2185d618f8be309",
+            "ysdk_wx_appKey":"11009175f28ec0a374b1a8a68705dc6a",
+            "ysdk_sandbox_appKey":"is51oqj5m2VV0oNW4sc14TEh6DTudVyH",
+            "ysdk_release_appKey":"PXzFBrOwIpWilKfwigZ9gfKInAlTLSOA",
+            "ysdk_model":"release",
+            "ysdk_release_url":"ysdk.qq.com",
+            "ysdk_sandbox_url":"ysdktest.qq.com"
+        }
+    }
+}

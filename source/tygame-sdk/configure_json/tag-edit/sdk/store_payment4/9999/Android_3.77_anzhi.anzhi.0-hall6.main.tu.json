@@ -1,0 +1,10 @@
+{
+    "*": [
+        {
+            "name": "anzhi",
+            "paytype": "anzhi",
+            "tips": "anzhi",
+            "isDefault": "1"
+        }
+    ]
+}

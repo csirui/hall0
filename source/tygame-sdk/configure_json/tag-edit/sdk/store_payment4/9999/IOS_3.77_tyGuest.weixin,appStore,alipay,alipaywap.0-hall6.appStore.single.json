@@ -1,0 +1,23 @@
+{
+    "*": [
+        {
+            "name": "苹果支付",
+            "paytype": "tuyooios",
+            "tips": "使用苹果AppStore支付",
+            "bonus": "0",
+            "collapsed": "0"
+        },
+        {
+            "name": "微信支付",
+            "paytype": "weixin",
+            "tips": "使用微信",
+            "bonus": "0"
+        },
+        {
+            "name": "支付宝",
+            "paytype": "tuyou.ali",
+            "tips": "使用支付宝",
+            "bonus": "0"
+        }
+    ]
+}

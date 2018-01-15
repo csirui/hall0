@@ -1,0 +1,14 @@
+{
+    "*": [
+        {
+            "name": "支付宝",
+            "paytype": "tuyou.ali",
+            "tips": "pengyouwan",
+            "isDefault": "1"
+        },
+        {
+            "name": "支付宝网页",
+            "paytype": "alipaywap"
+        }
+    ]
+}

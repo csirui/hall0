@@ -1,0 +1,58 @@
+[
+  {
+    "force": "0",
+    "des": "value1",
+    "path": "http://125.39.218.101/6/update_package1.0.zip",
+    "md5": "ZZZZZZZZZZZZZZZZZZZZZZZZZZ",
+    "id": 2,
+    "size": "891KB"
+  },
+  {
+    "force": "0",
+    "des": "dfsadfs",
+    "path": "http://125.39.218.101/6/update_package2.0.zip",
+    "md5": "ZZZZZZZZZZZZZZZZZZZZZZZZZZ",
+    "id": 3,
+    "size": "1MB"
+  },
+  {
+    "force": "1",
+    "des": "1.test2.test",
+    "path": "http://125.39.218.101/6/update_package3.0.zip",
+    "md5": "TTTTTTTTTTTTTTTTTTTTT",
+    "id": 4,
+    "size": "1.3MB"
+  },
+  {
+    "force": "0",
+    "des": "sdfasd",
+    "path": "http://125.39.218.101/6/update_package4.0.zip",
+    "md5": "wwwwwwwwwwww",
+    "id": 5,
+    "size": "1.3MB"
+  },
+  {
+    "force": "1",
+    "des": "kjkjkjk",
+    "path": "http://125.39.218.101/6/update_package5.0.zip",
+    "md5": "ZBUB1HYBGJAKL3JINBHJB",
+    "id": 6,
+    "size": "10.1MB"
+  },
+  {
+    "force": "0",
+    "des": "cdn",
+    "path": "http://ddz.dl.tuyoo.com/update/update_package5.0.zip",
+    "md5": "YHNNBGGHNNNN",
+    "id": 7,
+    "size": "10.1MB"
+  },
+  {
+    "force": "0",
+    "des": "safkkjs",
+    "path": "http://ddz.dl.tuyoo.com/update/update_package6.0.zip",
+    "md5": "AJKJSFELMQWIJAZCMWDJWWS",
+    "id": 8,
+    "size": "600KB"
+  }
+]

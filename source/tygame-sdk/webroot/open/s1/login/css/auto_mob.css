@@ -1,0 +1,82 @@
+body {font-family:"微软雅黑"; font-size:12px; line-height:24px; color:#1d1d1d;background: url(../img/content_bg.jpg) no-repeat center 44px #fcf1d9}
+img{ border:0; vertical-align:middle;}
+a{ color:#333; text-decoration:none;}
+a:hover{ color:#f00; text-decoration:underline;}
+*{ margin:0; padding:0;}
+ul,li{ list-style:none; list-style-position:outside;}
+.clear{ clear:both; overflow:hidden; height:0; line-height:0; font-size:0;}
+.clearfix:after{content:"\020";display:block;height:0;clear:both;}
+.clearfix{zoom:1;}
+.float_right{ float:right;}
+.float_left{ float:left;}
+header{ background:url(../img/header.jpg) repeat center top; background-size:contain; line-height:44px; color:#fff; position:relative; height:44px;}
+.back{ position:absolute; left:15px; top:4px;}
+.back img{height:36px;}
+.finish{ position:absolute; right:10px; top:0px; display: none;}
+.finish img{height:36px;}
+.title{ font-size:16px; font-weight:bold; line-height:44px; text-align:center;}
+.title img{ vertical-align:middle; margin-right:4px; height:33px;}
+.content{ padding:20px 10px; margin:0 auto; width: 450px;}
+.log_sign .float_left{ float:left;}
+.share_pic{ background:url(../img/share_bg.png) no-repeat center top; background-size:auto 50%;}
+.log_sign2{ border:solid 2px #bcb5a3; border-radius:10px; background:#fff; padding:8px 10px;}
+.sign_txt{color:#7f7f7d; line-height:21px; font-size:14px; margin:0 0 20px;}
+.log_tr{line-height:40px; font-size:16px;}
+.log_tr span {width: 20%;}
+.log_tr input{border:0px; height:40px; width:65%; color:#666;}
+.tr_line{background:#b7b4b3; overflow:hidden; height:1px; line-height:0; font-size:0;}
+.share_title{clear:both; font-size:16px; margin:0 0 10px;}
+.share_pic{border:solid 2px #bcb5a3; border-radius:10px; background:#fff; padding:10px 10px; float:left;}
+.share_pic img{margin:0 10px; width:50px;}
+.log_sign .float_left{ border:solid 2px #bcb5a3; border-radius:10px; background:#fff; padding:8px 10px; width:60%;}
+.op_dl{float:left;}
+.op_dl img{height:45px;}
+.op_dl li{padding:5px 0 0 10px;}
+.log_sign{overflow:hidden; zoom:1; margin:0 0 20px;}
+#divreg {display: none;}
+@media screen and (height: 640px)  { 
+	.content {
+		margin-top: 50px;	
+	}
+}
+.fix {
+	position: relative;
+}
+
+.down {
+	background: url(../img/down.png) no-repeat 0 -22px;
+	position: absolute;
+	right: 0px;
+	top: 7px;
+	width: 28px;
+	height: 22px;
+}
+
+#accountlist {
+	overflow-y: scroll;
+	background-color: #f3f4f5;
+	-webkit-border-radius: 8px;
+	-webkit-box-shadow: 1px 1px 4px #333333;
+}
+
+#accountlist a {
+	display: block;
+	padding: 5px 10px;
+}
+
+#divaccounts {
+	display: none;
+	position: absolute;
+	left: 10px;
+	top: 113px;
+	width: 300px;
+	height: 160px;
+	font-size: 21px;
+	z-index: 100;
+	overflow-y: scroll;
+	background-color: #f3f4f5;
+	-webkit-border-radius: 8px;
+	-webkit-box-shadow: 1px 1px 4px #333333;
+}
+
+

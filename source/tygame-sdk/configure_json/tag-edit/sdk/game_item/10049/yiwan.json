@@ -1,0 +1,16 @@
+{
+    "com.yiwan.sdk.test":{
+        "game":{
+            "package":"com.yiwan.sdk.test",
+            "tuyoo_appId":"10049",
+            "name":"game",
+            "app_name":"\u6c38\u6052"
+        },
+        "yiwan":{
+            "yiwan_appId":"yiwan_123434",
+            "yiwan_signKey":"yiwan_5y6df8383",
+            "yiwan_packetId":"yiwan_22222",
+            "name":"yiwan"
+        }
+    }
+}

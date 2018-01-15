@@ -1,0 +1,32 @@
+{
+    "*": [
+        {    "name":"支付宝",
+            "paytype": "alipay",
+            "bonus":"20",
+            "tips":"支付宝钱包支付",
+            "specialTips":"一键支付"
+        },
+        {    "name":"微信",
+            "paytype": "weixin",
+            "bonus":"30",
+
+            "tips":"微信安全支付",
+            "specialTips":"极速支付"
+        },
+        {
+            "name":"话费支付",
+            "paytype": "yisdkpay",
+            "collapsed": 1
+        },
+        {
+            "name":"话费充值卡",
+            "paytype": "tuyoo.card",
+            "collapsed": 0
+        },
+        {
+            "name":"短信支付",
+            "paytype": "smspay",
+            "collapsed": 0
+        }
+    ]
+}

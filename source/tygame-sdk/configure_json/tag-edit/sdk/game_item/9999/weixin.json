@@ -1,0 +1,17 @@
+{
+    "com.weixin.test":{
+        "weixin":{
+            "name":"weixin",
+            "WXAPPID":"11111",
+            "WXAPPKEY":"22222",
+            "partnerId":"333333",
+            "partnerKey":"44444"
+        },
+        "game":{
+            "package":"com.weixin.test",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u5fae\u4fe1\u6e2c\u8a66"
+        }
+    }
+}

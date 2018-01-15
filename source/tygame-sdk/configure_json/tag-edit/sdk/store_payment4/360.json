@@ -1,0 +1,37 @@
+{
+    "parent":"universal:store_payment:360",
+    "*": [
+        {    "name":"支付宝",
+            "paytype": "tuyou.ali",
+            "bonus":"0",
+            "tips":"支付宝安全支付",
+            "specialTips":""
+        },
+        {   "name":"微信",
+            "paytype": "weixin",
+            "bonus":"0",
+            "tips":"微信安全支付",
+            "specialTips":""
+        },
+        {    "name":"银联支付 ",
+            "paytype": "unionpay",
+            "bonus":"0",
+            "tips":"",
+            "specialTips":""
+        },
+        {
+            "name":"360支付",
+            "tips":"使用360支付",
+            "paytype": "360pay",
+            "collapsed": 0,
+            "filter": "price_le_12"
+        },
+        {
+            "name":"话费支付",
+            "tips":"直接从话费中扣减，通信费由运营商代收",
+            "paytype": "yisdkpay",
+            "collapsed": 0,
+            "filter": "price_le_12"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "*": [
+        {
+            "name": "微信",
+            "paytype": "wxwap",
+            "tips": "微信安全支付"
+        },
+        {
+            "name": "支付宝",
+            "paytype": "alipaywap",
+            "tips": "支付宝安全支付"
+        },
+        {
+            "name": "银联支付",
+            "paytype": "unionpay",
+            "tips": "银行卡和信用卡都可以支付"
+        }
+    ],
+    "TY9999D0100W01": [
+        {
+            "name": "支付宝",
+            "paytype": "alipaywap",
+            "tips": "支付宝安全支付"
+        }
+    ]
+}

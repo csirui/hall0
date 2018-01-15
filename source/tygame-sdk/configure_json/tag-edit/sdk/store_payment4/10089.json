@@ -1,0 +1,19 @@
+{
+    "*": [
+        {
+            "name": "苹果支付",
+            "paytype": "tuyooios",
+            "tips": "使用支付宝支付"
+        },
+        {
+            "name": "微信支付",
+            "paytype": "weixin",
+            "strategy": "minimal_strategy"
+        },
+        {
+            "name": "支付宝支付",
+            "paytype": "pingxiang.aliwap",
+            "strategy": "minimal_strategy"
+        }
+    ]
+}

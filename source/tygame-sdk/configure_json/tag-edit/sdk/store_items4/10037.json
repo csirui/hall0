@@ -1,0 +1,50 @@
+[
+    {
+        "id": "com.naughtycat.jellymaniacn.gold1",
+        "name": "少量金币",
+        "desc": "",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.naughtycat.jellymaniacn.gold5",
+        "name": "较多金币",
+        "desc": "",
+        "price": 30,
+        "diamondPrice": 300,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.naughtycat.jellymaniacn.gold50",
+        "name": "一大堆金币",
+        "desc": "",
+        "price": 328,
+        "diamondPrice": 3280,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.naughtycat.jellymaniacn.gold10",
+        "name": "很多金币",
+        "desc": "",
+        "price": 68,
+        "diamondPrice": 680,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.naughtycat.jellymaniacn.gold100",
+        "name": "一箱金币",
+        "desc": "",
+        "price": 648,
+        "diamondPrice": 6480,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.naughtycat.jellymaniacn.goldtest",
+        "name": "测试金币",
+        "desc": "",
+        "price": 0.1,
+        "diamondPrice": 1,
+        "is_diamond": 0
+    }
+]

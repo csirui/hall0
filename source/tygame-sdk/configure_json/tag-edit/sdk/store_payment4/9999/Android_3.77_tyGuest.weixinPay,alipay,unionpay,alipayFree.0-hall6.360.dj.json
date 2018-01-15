@@ -1,0 +1,28 @@
+{
+    "*": [
+        {
+            "name": "支付宝",
+            "paytype": "tuyou.ali",
+            "tips": "支付宝钱包支付",
+            "bonus": "0"
+        },
+        {
+            "name": "支付宝(\b免密)",
+            "paytype": "alipayFree",
+            "tips": "支付宝快付",
+            "bonus": "0"
+        },
+        {
+            "name": "银联支付",
+            "paytype": "unionpay",
+            "bonus": "0"
+        },
+        {
+            "name": "微信",
+            "paytype": "weixin",
+            "tips": "微信安全支付",
+            "bonus": "0",
+            "default": 1
+        }
+    ]
+}

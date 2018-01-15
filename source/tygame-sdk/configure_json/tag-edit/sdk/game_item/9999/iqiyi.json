@@ -1,0 +1,16 @@
+{
+    "com.tuyoo.doudizhu.pps":{
+        "pps":{
+            "pps_appId":"816",
+            "pps_appKey":"74974bf301ff7e270d0e1e6860735f38",
+            "pps_payKey":"TYDDZ895993d90b7e83db722bbJ816",
+            "name":"pps"
+        },
+        "game":{
+            "package":"com.tuyoo.doudizhu.pps",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6597\u5730\u4e3b"
+        }
+    }
+}

@@ -1,0 +1,82 @@
+[
+    {
+        "id": "test_1",
+        "name": "测试道具",
+        "desc": "",
+        "price": 1,
+        "diamondPrice": 1,
+        "is_diamond": 0
+    },
+    {
+        "id": "qyjyb006",
+        "name": "60元宝",
+        "desc": "",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0
+    },
+    {
+        "id": "qyjyb018",
+        "name": "180元宝",
+        "desc": "",
+        "price": 18,
+        "diamondPrice": 180,
+        "is_diamond": 0
+    },
+    {
+        "id": "qyjyb068",
+        "name": "680元宝",
+        "desc": "",
+        "price": 68,
+        "diamondPrice": 680,
+        "is_diamond": 0
+    },
+    {
+        "id": "qyjyb098",
+        "name": "980元宝",
+        "desc": "",
+        "price": 98,
+        "diamondPrice": 980,
+        "is_diamond": 0
+    },
+    {
+        "id": "qyjyb198",
+        "name": "1980元宝",
+        "desc": "",
+        "price": 198,
+        "diamondPrice": 1980,
+        "is_diamond": 0
+    },
+    {
+        "id": "qyjyb328",
+        "name": "3280元宝",
+        "desc": "",
+        "price": 328,
+        "diamondPrice": 3280,
+        "is_diamond": 0
+    },
+    {
+        "id": "qyjyb648",
+        "name": "6480元宝",
+        "desc": "",
+        "price": 648,
+        "diamondPrice": 6480,
+        "is_diamond": 0
+    },
+    {
+        "id": "qyjjl050",
+        "name": "剑灵",
+        "desc": "",
+        "price": 50,
+        "diamondPrice": 500,
+        "is_diamond": 0
+    },
+    {
+        "id": "qyjyb030",
+        "name": "30天月卡",
+        "desc": "",
+        "price": 30,
+        "diamondPrice": 300,
+        "is_diamond": 0
+    }
+]

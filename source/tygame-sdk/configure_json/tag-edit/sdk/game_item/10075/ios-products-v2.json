@@ -1,0 +1,64 @@
+[
+    {
+        "name": "10075",
+        "clientIds": [
+            "^IOS_1.*$"
+        ],
+        "products": [
+            {
+                "tyid": "test",
+                "name": "测试1",
+                "price": 1,
+                "iosid": ""
+            },
+            {
+                "tyid": "93pk.xljszcgx.coins6",
+                "name": "60元宝",
+                "price": 6,
+                "iosid": "93pk.xljszcgx.coins6"
+            },
+            {
+                "tyid": "93pk.xljszcgx.coins30",
+                "name": "300元宝",
+                "price": 30,
+                "iosid": "93pk.xljszcgx.coins30"
+            },
+            {
+                "tyid": "93pk.xljszcgx.coins98",
+                "name": "980元宝",
+                "price": 98,
+                "iosid": "93pk.xljszcgx.coins98"
+            },
+            {
+                "tyid": "93pk.xljszcgx.coins198",
+                "name": "1980元宝",
+                "price": 198,
+                "iosid": "93pk.xljszcgx.coins198"
+            },
+            {
+                "tyid": "93pk.xljszcgx.coins328",
+                "name": "3280元宝",
+                "price": 328,
+                "iosid": "93pk.xljszcgx.coins328"
+            },
+            {
+                "tyid": "93pk.xljszcgx.coins648",
+                "name": "6480元宝",
+                "price": 648,
+                "iosid": "93pk.xljszcgx.coins648"
+            },
+            {
+                "tyid": "93pk.xljszcgx.card30",
+                "name": "福利礼包",
+                "price": 30,
+                "iosid": "93pk.xljszcgx.card30"
+            },
+            {
+                "tyid": "93pk.xljszcgx.card98",
+                "name": "至尊礼包",
+                "price": 98,
+                "iosid": "93pk.xljszcgx.card98"
+            }
+        ]
+    }
+]

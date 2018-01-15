@@ -1,0 +1,16 @@
+{
+    "com.doudizhu.mainhuanle.mz":{
+        "game":{
+            "package":"com.doudizhu.mainhuanle.mz",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u6b22\u4e50\u9014\u6e38\u6597\u5730\u4e3b"
+        },
+        "meizu":{
+            "mz_appId":"2578615",
+            "mz_appKey":"9de7689780834602b86ad6e7180eac07",
+            "mz_appSecret":"wp4dYVGvYd4EzHNkiC4kmFSIBfvk9ccr",
+            "name":"meizu"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "chinaTelecom": [
+    {
+      "share": 100,
+      "precedence": 10,
+      "channel": "aigame_120115024888"
+    }
+  ],
+  "chinaMobile": [
+    {
+      "share": 0,
+      "precedence": 10,
+      "channel": "ydmm_300008414393"
+    },
+    {
+      "share": 100,
+      "precedence": 20,
+      "channel": "ydjd_621216032461"
+    }
+  ],
+  "chinaUnion": [
+    {
+      "share": 100,
+      "precedence": 10,
+      "channel": "liantong.wo_9014273345620140808164846951100"
+    }
+  ]
+}

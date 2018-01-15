@@ -1,0 +1,15 @@
+{
+    "com.tencent.tmgp.tuyoo.fish":{
+        "game":{
+            "package":"com.tencent.tmgp.tuyoo.fish",
+            "tuyoo_appId":"10056",
+            "name":"game",
+            "app_name":"\u6355\u9c7c"
+        },
+        "alipayapp":{
+            "alipay_id":"2016122704663814",
+            "alipay_private_key":"MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAJwENZCgk32XPTsEsuJSOiTGQf7nlReRg0sWj/7+PfXsdIDHM/4pG/kiS7uwcJbPnICZnMveSlF6efuvB3GbSyCvws+HhOxECvcXs6LcZBK3W5vA6cX9bGGSgFhUVWfzIKCkKd49wD8+NfIs24nVobvLvTZ1ba4c5e+ZjEZb4T7NAgMBAAECgYB4/kawP+fCKW0h/RXhsNVIubxqvByC56WDsR7BKVjSBKuhR1uKC0WXY0KKb14RhzafAQJ5lI3cPHineGj0cPPEUl83PPJj6FANu6ZX2xQHL0XguFbOITodsXIUPlBGyuu8OL3+YxceRb+i5N15rLgj2DrGtRVMGCXOe3PdYvRPIQJBANEOzfKx34eYcUWyqPas6N5CN9QXuhbU8gAEIgI8iLm0GgHm9j9Y7Atd9EEAzIPoq/J/l9ewpNOH/kvmwvw3j8kCQQC/DHIlHPJcAt/xHxBiilGWbO/xzKEkx+LWsN6SLxbTV/g6euu8WjEmX3IdZTx4M11noB3HOi6WarKnNKwp0KDlAkEArQZEu8YtzAsGTPo2T5sCTNmfXUGZ+cWa2RqSjylMu+3szIA8dGeDTVEglCA2JEKQ9W5W3ORNNunKNUWzQY42yQJAEBjqXTotKZeMavKlHMhuy2/uX79QLJsy/8fzWPniwHf/EF5fEoW+8m7EXLm0+KPLUPnqyGicmEvxNal4gCV2CQJAO1Gjgewk2ukd25FlL48DLF92n5n//QdYyZUP9nV+06WYT50HZTaQgIvyNrHPpxYr1Gc1Wab+NOI/oYMRfyzJcA==",
+            "alipay_publick_key":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDDI6d306Q8fIfCOaTXyiUeJHkrIvYISRcc73s3vF1ZT7XN8RNPwJxo8pWaJMmvyTn9N4HQ632qJBVHf8sxHi/fEsraprwCtzvzQETrNRwVxLO5jVmRGi60j8Ue1efIlzPXV9je9mkjzOmdssymZkh2QhUrCmZYI/FCEa3/cNMW0QIDAQAB"
+        }
+    }
+}

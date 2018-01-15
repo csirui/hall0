@@ -1,0 +1,10 @@
+{
+    "*": [
+        {
+            "name": "掌阅支付",
+            "paytype": "zhangyue",
+            "tips": "掌阅支付",
+            "isDefault": "1"
+        }
+    ]
+}

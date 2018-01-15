@@ -1,0 +1,182 @@
+{
+    "payment": {
+        "default_category": [
+	    {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999R00020DJ",
+                "paytype":"huawei"
+            },
+	    {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0008027",
+                "paytype":"huawei"
+            },
+	    {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999R0000101",
+                "paytype":"huawei"
+            },
+            {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0001003",
+                "paytype":"huawei"
+            },
+            {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0002001",
+                "paytype":"huawei"
+            },
+	    {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0005003",
+                "paytype":"huawei"
+            },
+	    {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0006016",
+                "paytype":"huawei"
+            },
+            {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0008005",
+                "paytype":"huawei"
+            },
+	    {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999R0008005",
+                "paytype":"huawei"
+            },
+	    {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0008001",
+                "paytype":"huawei"
+            },
+            {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0008025",
+                "paytype":"huawei"
+            },
+            {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0008026",
+                "paytype":"huawei"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0010001",
+                "paytype":"huawei"
+            },
+	    {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0012003",
+		"paytype":"huawei"
+            },
+	    {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0030001",
+		"paytype":"huawei"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0030011",
+		"paytype":"huawei"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0030012",
+		"paytype":"huawei"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0300001",
+		"paytype":"huawei"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY0006D0030002",
+		"paytype":"huawei"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999R0050001",
+		"paytype":"huawei"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0050001",
+		"paytype":"huawei"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0050007",
+		"paytype":"huawei"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0050008",
+		"paytype":"huawei"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0100001",
+		"paytype":"huawei"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999R0100001",
+		"paytype":"huawei"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0100011",
+		"paytype":"huawei"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0100012",
+		"paytype":"huawei"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0300001",
+		"paytype":"huawei"
+            },
+	    {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D1000001",
+		"paytype":"huawei"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0010001",
+		"paytype":"huawei"
+            }
+        ],
+        "more_categories": "CAT_LIST_huawei"
+    },
+    "store": [
+        {
+            "displayName": "道具商城",
+            "name": "item",
+            "products": [
+                "TY9999D0006001",
+                "TY9999D0030001",
+                "TY9999D0050001",
+                "TY9999D0300001",
+                "TY9999D1000001",
+                "TY0006D0030002",
+                "TY0006D0100002"
+            ],
+            "visible": 1
+        },
+        {
+            "displayName": "钻石商城",
+            "name": "diamond",
+            "products": [
+                "TY9999D0006001",
+                "TY0007D0300001"
+            ],
+            "visible": 1
+        }
+    ]
+}

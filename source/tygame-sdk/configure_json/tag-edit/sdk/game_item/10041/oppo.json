@@ -1,0 +1,18 @@
+{
+    "com.tencent.tmgp.tuyoo.yh.sd":{
+        "game":{
+            "package":"com.tencent.tmgp.tuyoo.yh.sd",
+            "tuyoo_appId":"10041",
+            "name":"game",
+            "app_name":"\u6c38\u6052"
+        },
+        "nearme":{
+            "name":"nearme",
+            "nearme_isSingle":false,
+            "nearme_appId":"5843",
+            "nearme_appKey":"8eGwdai6h5cS80ss8k4SC0oo",
+            "nearme_appSecret":"d1Cb4b26ee6ca21eF679fc396E02e5B7",
+            "products":[]
+        }
+    }
+}

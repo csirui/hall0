@@ -1,0 +1,20 @@
+{
+    "*": [
+        {
+            "name": "支付宝",
+            "paytype": "alipaywap",
+            "tips": "支付宝安全支付",
+            "specialTips": "极速支付"
+        },
+        {
+            "name": "微信",
+            "paytype": "wxwap",
+            "collapsed": "1"
+        },
+        {
+            "name": "银联支付",
+            "paytype": "unionpay",
+            "tips": "有卡就能付"
+        }
+    ]
+}

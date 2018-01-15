@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1",
+        "name": "钻石x60",
+        "price": 6,
+        "diamondPrice": 60
+    },
+    {
+        "id": "2",
+        "name": "钻石x300",
+        "price": 30,
+        "diamondPrice": 300
+    },
+    {
+        "id": "3",
+        "name": "钻石x680",
+        "price": 68,
+        "diamondPrice": 680
+    },
+    {
+        "id": "4",
+        "name": "钻石x1280",
+        "price": 128,
+        "diamondPrice": 1280
+    },
+    {
+        "id": "5",
+        "name": "钻石x3280",
+        "price": 328,
+        "diamondPrice": 3280
+    },
+    {
+        "id": "6",
+        "name": "钻石x6480",
+        "price": 648,
+        "diamondPrice": 6480
+    },
+    {
+        "id": "d_1",
+        "name": "钻石x60",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 1
+    },
+    {
+        "id": "d_2",
+        "name": "钻石x300",
+        "price": 30,
+        "diamondPrice": 300,
+        "is_diamond": 1
+    },
+    {
+        "id": "d_3",
+        "name": "钻石x680",
+        "price": 68,
+        "diamondPrice": 680,
+        "is_diamond": 1
+    },
+    {
+        "id": "d_4",
+        "name": "钻石x1280",
+        "price": 128,
+        "diamondPrice": 1280,
+        "is_diamond": 1
+    },
+    {
+        "id": "d_5",
+        "name": "钻石x3280",
+        "price": 328,
+        "diamondPrice": 3280,
+        "is_diamond": 1
+    },
+    {
+        "id": "d_6",
+        "name": "钻石x6480",
+        "price": 648,
+        "diamondPrice": 6480,
+        "is_diamond": 1
+    }
+]

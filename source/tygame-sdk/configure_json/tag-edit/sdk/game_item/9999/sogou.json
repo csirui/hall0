@@ -1,0 +1,17 @@
+{
+    "com.doudizhu.main.sogou":{
+        "sogou":{
+            "sogou_gid":"1510",
+            "sogou_appKey":"2f0be9a8a5bbf9c3f7668fa09d659fa0524d66e18232de284072eb1db7d3cfbf",
+            "sogou_appSecret":"3ca69938b08a7e7c00a38a853142e174b0137339fd7abcb4a7dca56cfb18548a",
+            "sogou_paySecret":"{881A82BC-80ED-4704-AEA6-806B8C3C7650}",
+            "name":"sogou"
+        },
+        "game":{
+            "package":"com.doudizhu.main.sogou",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6597\u5730\u4e3b"
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "payment": {
+        "default_category": [
+	    {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0008038",
+                "paytype":"sogou"
+            },
+            {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0030024",
+                "paytype":"sogou"
+            },
+            {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0050011",
+                "paytype":"sogou"
+            },
+	    {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0100021",
+                "paytype":"sogou"
+            },
+	    {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0300004",
+                "paytype":"sogou"
+            },
+	    {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D1000012",
+                "paytype":"sogou"
+            },
+	    {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999R0000101",
+                "paytype":"sogou"
+            },
+            {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0001003",
+                "paytype":"sogou"
+            },
+            {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0002001",
+                "paytype":"sogou"
+            },
+	    {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0005003",
+                "paytype":"sogou"
+            },
+	    {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0006016",
+                "paytype":"sogou"
+            },
+            {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0008005",
+                "paytype":"sogou"
+            },
+	    {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999R0008005",
+                "paytype":"sogou"
+            },
+	    {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0008001",
+                "paytype":"sogou"
+            },
+            {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0008025",
+                "paytype":"sogou"
+            },
+            {
+                "category":"CAT_THIRDPAY",
+                "id": "TY9999D0008026",
+                "paytype":"sogou"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0010001",
+                "paytype":"sogou"
+            },
+	    {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0030001",
+		"paytype":"sogou"
+            },
+	    {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0050001",
+		"paytype":"sogou"
+            },
+	    {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0100001",
+		"paytype":"sogou"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0300001",
+		"paytype":"sogou"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D1000001",
+		"paytype":"sogou"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999R0050001",
+		"paytype":"sogou"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D5000001",
+		"paytype":"sogou"
+            },
+            {
+                "category": "CAT_THIRDPAY",
+                "id": "TY9999D0100019",
+		"paytype":"sogou"
+            }
+        ],
+        "more_categories": "sogou"
+    }
+}

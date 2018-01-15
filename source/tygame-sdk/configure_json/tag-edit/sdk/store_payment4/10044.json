@@ -1,0 +1,12 @@
+{
+    "*": [
+        {
+            "name": "苹果支付",
+            "paytype": "tuyooios",
+            "tips": "有卡就能付",
+            "specialTips": "极速支付",
+            "collapsed": "1",
+            "strategy": "minimal_strategy"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "*": [
+        {
+            "name": "bluePaySms",
+            "paytype": "bluepaySms",
+            "tips": "有卡就能付",
+            "specialTips": "极速支付",
+            "collapsed": "1",
+            "strategy": "minimal_strategy"
+        },
+        {
+            "name": "coda.7-eleven",
+            "paytype": "coda.7-eleven",
+            "tips": "有卡就能付",
+            "specialTips": "极速支付",
+            "collapsed": "1",
+            "strategy": "minimal_strategy"
+        },
+        {
+            "name": "bluePay_12call",
+            "paytype": "bluepay.12call",
+            "tips": "有卡就能付",
+            "specialTips": "极速支付",
+            "collapsed": "1",
+            "strategy": "minimal_strategy"
+        },
+        {
+            "name": "MOL",
+            "tips": "MOL支付",
+            "specialTips": "极速支付",
+            "collapsed": "1",
+            "strategy": "minimal_strategy"
+        },
+        {
+            "name": "MyCard",
+            "tips": "MyCard支付"
+        },
+        {
+            "name": "Payssion测试",
+            "paytype": "payssion.sofort",
+            "tips": "MyCard支付"
+        },
+        {
+            "paytype": "tuyooios"
+        }
+    ]
+}

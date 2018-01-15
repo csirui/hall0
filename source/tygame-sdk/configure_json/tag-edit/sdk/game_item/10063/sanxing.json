@@ -1,0 +1,23 @@
+{
+    "com.tuyoo.fish.samsung":{
+        "game":{
+            "package":"com.tuyoo.fish.samsung",
+            "tuyoo_appId":"10063",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6355\u9c7c"
+        },
+        "iappay":{
+            "samsung_clientId":"o0czk5opql",
+            "samsung_clientSecret":"8BB3873E8600E7B2137D19709543B8C2",
+            "iappay_appid":"5000232825",
+            "iappay_appKey":"MIICXAIBAAKBgQCscfTLqZvEc3cNnAyEU9OW/GkIj1KFTsWjwB5EQs8BpUf+Z6zj2Ccj1pU6zmXjPot5ZyszCdqBmp15I8D3c2Vskt1RrIclwsIuh5aRy6dNif1SAL5PwWGW/keXTr1Y/UMNHLz+GtbxBbvXi/8BhVEYCajwRRxO6xUKc1FtQA7fAQIDAQABAoGAZlUdqrpU2IiYrrfa6bABEUlqXw0GMFulh14b1/A5fcWCaqNFgtQjre3KEuKmrerQw9OIXDpNs7l4F4ozGeUd2wnmmU/dBlxpDFFS3/8JuYK2IYcSa9DppJ8V/xL2b9K510OV5mTk5mfawVWo8o1DiXDofV/1gilrWkCRRrVRSxECQQD8MerkvHPSAPLYunzR4fYS0893mCk4nz+83AieOTJ4sSfi+DL8LIJ9EfUS95GW2XRCpgdCKp9OEu8vDh9pbMTFAkEArwwC7W2ktO4sdIz2+tNuYgPS0jcRey7ZjtOG47fWcM+7QmkUYLZuAJUg+IsbB28meFFq9dNwSJdC8/xgNM1tDQJBALnlQbPhha4irN88d41t9ijioGcTbi8ik6TuvBuFJcL5MuGG+m4PkRAIEJIuks6S87O9FlSbflnacxxIWLcpSdECQHVAq3lU114mp/qOLiYHmEnpW79aCciksjA8un8wtmCslTe/4VmC+Z5ERmiV7U4GgxNXHjl6Hx1QzRVXuS3FaMUCQDws8PCUgPVL450r1tDpuwpIdqzwRYTvmTdeJFCZPmgEmeIfwaMfD4XOjPOI2diqgdiOkm8Anf/8lpPWPlsDi7I=",
+            "iappay_pubKey":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCqCo014e4N9kF5wl93Gm8mcw8R2lKftknAyoUzyNsoCS6NMpZ5h2Ei+KwgyyPCYYjXZerqlitIgck05lelDTUxPTfvfmafkWXTH+sAPatzlx5PLkk4JxWgXOyV+4InhwN3aksi4ZZRKNUuyqboh2/soez4gJUo9IrqeWsH3kUEaQIDAQAB",
+            "products":[
+                {
+                    "prodId":"TY28C000610101",
+                    "feecode":"1"
+                }
+            ]
+        }
+    }
+}

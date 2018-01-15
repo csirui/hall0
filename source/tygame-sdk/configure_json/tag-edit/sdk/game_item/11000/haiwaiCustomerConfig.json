@@ -1,0 +1,10 @@
+{
+    "ReviewVersion": "审核版本号",
+    "GSURL": "facebook.com",
+    "FacebookFanPage": "facebook.com",
+    "LicenseUrl": "http://www.baidu.com/",
+    "StoreURL": "",
+    "ShowSDKIcon": true,
+    "EnableIAP": true,
+    "EnableTP": true
+}

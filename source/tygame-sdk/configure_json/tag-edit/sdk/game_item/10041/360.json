@@ -1,0 +1,17 @@
+{
+    "com.tencent.tmgp.tuyoo.yh.qihoo":{
+        "game":{
+            "package":"com.tencent.tmgp.tuyoo.yh.qihoo",
+            "tuyoo_appId":"10041",
+            "name":"game",
+            "app_name":"\u6c38\u6052"
+        },
+        "360":{
+            "QHOPENSDK_APPID":"202979001",
+            "QHOPENSDK_APPKEY":"979a7748f55d237453a7382888b5adfe",
+            "QHOPENSDK_APPSECRET":"d5d555f59a784af466d83ccbb27af4e0",
+            "QHOPENSDK_PRIVATEKEY":"6bef3517a98bdc66be09766bb739e4b8",
+            "name":"360"
+        }
+    }
+}

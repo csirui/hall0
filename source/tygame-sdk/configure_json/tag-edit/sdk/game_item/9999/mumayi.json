@@ -1,0 +1,14 @@
+{
+    "com.tuyoo.doudizhu.mumayi":{
+        "game":{
+            "package":"com.tuyoo.doudizhu.mumayi",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6597\u5730\u4e3b"
+        },
+        "mumayi":{
+            "mumayi_appKey":"b626b6307849bdde9MhztvphLbM6JjUCCs09tdKKkUEHKNRnzGVQLl5iLPijKew5nuY",
+            "name":"mumayi"
+        }
+    }
+}

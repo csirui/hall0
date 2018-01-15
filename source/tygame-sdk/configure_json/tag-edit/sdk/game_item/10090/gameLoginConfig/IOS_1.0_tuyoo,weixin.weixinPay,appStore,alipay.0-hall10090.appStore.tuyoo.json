@@ -1,0 +1,9 @@
+{
+    "showWeChat": false,
+    "weChatParam": "weixin",
+    "showQuickStart": false,
+    "quickStartParam": "tyGuest",
+    "showChannel": false,
+    "channelParam": "duoku",
+    "showLocalAccount": true
+}

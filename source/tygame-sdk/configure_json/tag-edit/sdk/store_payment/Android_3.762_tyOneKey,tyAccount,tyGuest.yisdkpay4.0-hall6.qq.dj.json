@@ -1,0 +1,190 @@
+{
+    "payment": {
+        "more_categories": "huawei",
+        "default_category": [
+            {
+                "id": "TY9999D0002001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999R00020DJ",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0006001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0008001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999R0008001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi",
+                "is_diamond": 1
+            },
+            {
+                "id": "TY9999D0008002",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0050001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0100001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0300001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY0006D0030002",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY0006D0100002",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0000102",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999R0050001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi",
+                "is_diamond": 1
+            },
+            {
+                "id": "TY0006D0002001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY0006D0005001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY0006D0002002",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY0006D0010001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0030001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D1000001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0008011",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0008006",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0008007",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0008009",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0008008",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0008010",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0012001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0002003",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0006008",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0030004",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0006009",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0030005",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0100002",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0100003",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999D0100004",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            },
+            {
+                "id": "TY9999R0100001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi",
+                "is_diamond": 1
+            },
+            {
+                "id": "TY9999D0020003",
+                "category": "CAT_THIRDPAY",
+                "paytype": "midashi"
+            }
+        ]
+    }
+}

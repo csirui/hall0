@@ -1,0 +1,13 @@
+{
+    "ydjd": {
+        "appid": "621216015822",
+        "cpid": "779165",
+        "paydata": [
+            {"prodid": "TY9999D0002001", "msgOrderCode": "001" },
+            {"prodid": "TY9999D0006001", "msgOrderCode": "002" },
+            {"prodid": "TY9999R0008001", "msgOrderCode": "003" },
+            {"prodid": "TY9999D0008002", "msgOrderCode": "004" },
+            {"prodid": "TY9999D0008001", "msgOrderCode": "005" }
+        ]
+    }
+}

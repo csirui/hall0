@@ -1,0 +1,22 @@
+{
+    "*": [
+        {
+            "name": "微信支付",
+            "paytype": "weixin",
+            "tips": "微信安全支付",
+            "isDefault": "2",
+            "strategy": "buyu_30m_strategy"
+        },
+        {
+            "name": "支付宝支付",
+            "paytype": "tuyou.ali",
+            "tips": "支付宝安全支付",
+            "strategy": "buyu_30m_strategy"
+        },
+        {
+            "name": "苹果支付",
+            "paytype": "tuyooios",
+            "tips": "使用苹果AppStore支付"
+        }
+    ]
+}

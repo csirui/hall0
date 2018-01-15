@@ -1,0 +1,70 @@
+[
+    {
+        "name": "10061",
+        "clientIds": [
+            "^IOS_3.*$"
+        ],
+        "products": [
+            {
+                "tyid": "test_1",
+                "name": "测试",
+                "price": 10,
+                "iosid": "test_1"
+            },
+            {
+                "tyid": "qyjyb006",
+                "name": "60元宝",
+                "price": 60,
+                "iosid": "1135838868"
+            },
+            {
+                "tyid": "qyjyb018",
+                "name": "180元宝",
+                "price": 180,
+                "iosid": "1135838888"
+            },
+            {
+                "tyid": "qyjyb068",
+                "name": "680元宝",
+                "price": 680,
+                "iosid": "1135840994"
+            },
+            {
+                "tyid": "qyjyb098",
+                "name": "980元宝",
+                "price": 980,
+                "iosid": "1135841002"
+            },
+            {
+                "tyid": "qyjyb198",
+                "name": "1980元宝",
+                "price": 1980,
+                "iosid": "1135841009"
+            },
+            {
+                "tyid": "qyjyb328",
+                "name": "3280元宝",
+                "price": 3280,
+                "iosid": "1135842404"
+            },
+            {
+                "tyid": "qyjyb648",
+                "name": "6480元宝",
+                "price": 6480,
+                "iosid": "1135842414"
+            },
+            {
+                "tyid": "qyjjl050",
+                "name": "0元宝",
+                "price": 500,
+                "iosid": "1135843673"
+            },
+            {
+                "tyid": "qyjyb030",
+                "name": "30天月卡",
+                "price": 300,
+                "iosid": "1135842426"
+            }
+        ]
+    }
+]

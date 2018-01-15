@@ -1,0 +1,8 @@
+{
+    "expire": "30",
+    "succTips": "邮件发送成功,请在%d分钟内进入邮箱验证",
+    "subject": "主题",
+    "content": "<html>\n<head></head>\n<body>\n\t\t<p>亲爱的玩家，您正在%(dosth)s</p>\n\t\t<a href=\"%(url)s\">点击这里验证</a>\n\t\t<p>此邮件有效期为30分钟，过期将无效。</p>\n</body>\n</html>",
+    "bindTipsSucc": "<html>\n<head></head>\n<body>\n\t\t</p>%s</p>\n</body>\n</html>",
+    "bindTipsFail": "<html>\n<head></head>\n<body>\n\t\t</p>邮箱绑定失败。</p>\n                </p>失败原因：%(reason)s</p>\n\n</body>\n</html>"
+}

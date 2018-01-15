@@ -1,0 +1,137 @@
+[
+    {
+        "id": "p19",
+        "name": "测试道具",
+        "desc": "",
+        "price": 0.1,
+        "diamondPrice": 1,
+        "is_diamond": 0,
+        "is_monthly": 0
+    },
+    {
+        "id": "p1",
+        "name": "贵族礼包",
+        "desc": "",
+        "price": 28,
+        "diamondPrice": 280,
+        "is_diamond": 0,
+        "is_monthly": 0
+    },
+    {
+        "id": "p4",
+        "name": "首冲礼包",
+        "desc": "",
+        "price": 1,
+        "diamondPrice": 10,
+        "is_diamond": 0,
+        "is_monthly": 0
+    },
+    {
+        "id": "p6",
+        "name": "30000金币",
+        "desc": "",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0,
+        "is_monthly": 0
+    },
+    {
+        "id": "p7",
+        "name": "60000金币",
+        "desc": "",
+        "price": 12,
+        "diamondPrice": 120,
+        "is_diamond": 0,
+        "is_monthly": 0
+    },
+    {
+        "id": "p8",
+        "name": "140000金币",
+        "desc": "",
+        "price": 28,
+        "diamondPrice": 280,
+        "is_diamond": 0,
+        "is_monthly": 0
+    },
+    {
+        "id": "p9",
+        "name": "250000金币",
+        "desc": "",
+        "price": 50,
+        "diamondPrice": 500,
+        "is_diamond": 0,
+        "is_monthly": 0
+    },
+    {
+        "id": "p10",
+        "name": "540000金币",
+        "desc": "",
+        "price": 108,
+        "diamondPrice": 1080,
+        "is_diamond": 0,
+        "is_monthly": 0
+    },
+    {
+        "id": "p11",
+        "name": "1640000金币",
+        "desc": "",
+        "price": 328,
+        "diamondPrice": 3280,
+        "is_diamond": 0,
+        "is_monthly": 0
+    },
+    {
+        "id": "p12",
+        "name": "60钻石",
+        "desc": "",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0,
+        "is_monthly": 0
+    },
+    {
+        "id": "p13",
+        "name": "120钻石",
+        "desc": "",
+        "price": 12,
+        "diamondPrice": 120,
+        "is_diamond": 0,
+        "is_monthly": 0
+    },
+    {
+        "id": "p15",
+        "name": "280钻石",
+        "desc": "",
+        "price": 28,
+        "diamondPrice": 280,
+        "is_diamond": 0,
+        "is_monthly": 0
+    },
+    {
+        "id": "p16",
+        "name": "500钻石",
+        "desc": "",
+        "price": 50,
+        "diamondPrice": 500,
+        "is_diamond": 0,
+        "is_monthly": 0
+    },
+    {
+        "id": "p17",
+        "name": "1080钻石",
+        "desc": "",
+        "price": 108,
+        "diamondPrice": 1080,
+        "is_diamond": 0,
+        "is_monthly": 0
+    },
+    {
+        "id": "p18",
+        "name": "3280钻石",
+        "desc": "",
+        "price": 328,
+        "diamondPrice": 3280,
+        "is_diamond": 0,
+        "is_monthly": 0
+    }
+]

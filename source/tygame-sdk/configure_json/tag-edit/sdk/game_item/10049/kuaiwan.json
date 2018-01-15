@@ -1,0 +1,23 @@
+{
+    "com.sdk.test.kuaiwan":{
+        "tuyoosdk":{
+            "name":"tuyoosdk",
+            "LoginSDK":"kuaiwan",
+            "PaySDKs":"kuaiwan",
+            "defaultSDKs":"tyOneKey,tyAccount,tyCard,weixinWap,alipayweb",
+            "force_login":"kuaiwan",
+            "version":"1.0"
+        },
+        "game":{
+            "package":"com.sdk.test.kuaiwan",
+            "tuyoo_appId":"10049",
+            "name":"game",
+            "app_name":"\u6c38\u6052"
+        },
+        "kuaiwan":{
+            "kuaiwan_appId":"284",
+            "kuaiwan_appKey":"85bhsfofuxpwrvvhst4zv1ol764vt24f",
+            "name":"kuaiwan"
+        }
+    }
+}

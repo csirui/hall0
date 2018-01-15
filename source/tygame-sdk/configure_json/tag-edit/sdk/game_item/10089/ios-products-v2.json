@@ -1,0 +1,65 @@
+[
+    {
+        "name": "葫芦娃",
+        "clientIds": [
+            "IOS_1.0_tuyoo,weixin.weixinPay,appStore,alipay.0-hall10089.appStore.tuyoo",
+            "^IOS_1.*$"
+        ],
+        "products": [
+            {
+                "tyid": "tuyouhuluwa_6",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "tuyouhuluwa_6"
+            },
+            {
+                "tyid": "tuyouhuluwa_30",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "tuyouhuluwa_30"
+            },
+            {
+                "tyid": "tuyouhuluwa_60",
+                "name": "600钻石",
+                "price": 60,
+                "iosid": "tuyouhuluwa_60"
+            },
+            {
+                "tyid": "tuyouhuluwa_98",
+                "name": "980钻石",
+                "price": 98,
+                "iosid": "tuyouhuluwa_98"
+            },
+            {
+                "tyid": "tuyouhuluwa_198",
+                "name": "1980钻石",
+                "price": 198,
+                "iosid": "tuyouhuluwa_198"
+            },
+            {
+                "tyid": "tuyouhuluwa_328",
+                "name": "3280钻石",
+                "price": 328,
+                "iosid": "tuyouhuluwa_328"
+            },
+            {
+                "tyid": "tuyouhuluwa_648",
+                "name": "6480钻石",
+                "price": 648,
+                "iosid": "tuyouhuluwa_648"
+            },
+            {
+                "tyid": "tuyouhuluwa_18",
+                "name": "180钻石",
+                "price": 18,
+                "iosid": "tuyouhuluwa_18"
+            },
+            {
+                "tyid": "tuyouhuluwa_488",
+                "name": "4880钻石",
+                "price": 488,
+                "iosid": "tuyouhuluwa_488"
+            }
+        ]
+    }
+]

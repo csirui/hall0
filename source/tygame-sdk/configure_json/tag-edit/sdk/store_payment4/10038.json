@@ -1,0 +1,26 @@
+{
+    "*": [
+        {
+            "name": "支付宝",
+            "paytype": "tuyou.ali",
+            "tips": "支付宝安全支付",
+            "specialTips": "极速支付"
+        },
+        {    "name":"谷歌商店",
+            "paytype": "googleiab",
+            "bonus":"0",
+            "tips":"GooglePay",
+            "specialTips":""
+        },
+        {
+            "name": "银联支付",
+            "paytype": "unionpay",
+            "tips": "有卡就能付"
+        },
+        {
+            "name": "充值卡",
+            "paytype": "tuyoo.card",
+            "collapsed": 1
+        }
+    ]
+}

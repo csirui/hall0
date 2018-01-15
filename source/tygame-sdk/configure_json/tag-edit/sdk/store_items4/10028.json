@@ -1,0 +1,132 @@
+[
+    {
+        "id": "d_1",
+        "name": "钻石x100",
+        "price": 10,
+        "diamondPrice": 100,
+        "is_diamond": 1
+    },
+    {
+        "id": "d_2",
+        "name": "钻石x300",
+        "price": 30,
+        "diamondPrice": 300,
+        "is_diamond": 1
+    },
+    {
+        "id": "d_3",
+        "name": "钻石x500",
+        "price": 50,
+        "diamondPrice": 500,
+        "is_diamond": 1
+    },
+    {
+        "id": "d_4",
+        "name": "钻石x1000",
+        "price": 100,
+        "diamondPrice": 1000,
+        "is_diamond": 1
+    },
+    {
+        "id": "d_5",
+        "name": "钻石x2000",
+        "price": 200,
+        "diamondPrice": 2000,
+        "is_diamond": 1
+    },
+    {
+        "id": "d_6",
+        "name": "钻石x5000",
+        "price": 500,
+        "diamondPrice": 5000,
+        "is_diamond": 1
+    },
+    {
+        "id": "d_7",
+        "name": "钻石x10000",
+        "price": 1000,
+        "diamondPrice": 10000,
+        "is_diamond": 1
+    },
+    {
+        "id": "d_8",
+        "name": "钻石x20000",
+        "price": 2000,
+        "diamondPrice": 20000,
+        "is_diamond": 1
+    },
+    {
+        "id": "d_9",
+        "name": "钻石x50000",
+        "price": 5000,
+        "diamondPrice": 50000,
+        "is_diamond": 1
+    },
+    {
+        "id": "d_0",
+        "name": "钻石x1",
+        "price": 0.1,
+        "diamondPrice": 1,
+        "is_diamond": 1
+    },
+    {
+        "id": "yb1",
+        "name": "元宝x1",
+        "price": 0.1,
+        "diamondPrice": 1
+    },
+    {
+        "id": "yb100",
+        "name": "元宝x100",
+        "price": 10,
+        "diamondPrice": 300
+    },
+    {
+        "id": "yb300",
+        "name": "元宝x300",
+        "price": 30,
+        "diamondPrice": 300
+    },
+    {
+        "id": "yb500",
+        "name": "元宝x500",
+        "price": 50,
+        "diamondPrice": 500
+    },
+    {
+        "id": "yb1000",
+        "name": "元宝x1000",
+        "price": 100,
+        "diamondPrice": 1000
+    },
+    {
+        "id": "yb2000",
+        "name": "元宝x2000",
+        "price": 200,
+        "diamondPrice": 2000
+    },
+    {
+        "id": "yb5000",
+        "name": "元宝x5000",
+        "price": 500,
+        "diamondPrice": 5000
+    },
+    {
+        "id": "yb10000",
+        "name": "元宝x10000",
+        "price": 1000,
+        "diamondPrice": 10000
+    },
+    {
+        "id": "yb20000",
+        "name": "元宝x20000",
+        "price": 2000,
+        "diamondPrice": 20000
+    },
+    {
+        "id": "yb50000",
+        "name": "元宝x50000",
+        "price": 5000,
+        "diamondPrice": 50000
+    }
+]

@@ -1,0 +1,37 @@
+{"64eb3d23f0183178e4f6ee7645c7dd55": {
+    "TY0006D0002001": {
+        "feecode": "game_item_qy6k2B",
+        "name": "月光之钥",
+        "price": "200"
+    },
+    "TY0006D0005001": {
+        "feecode": "game_item_MdiSWw",
+        "name": "月光之钥x3",
+        "price": "500"
+    },
+    "TY9999D0002001": {
+        "feecode": "game_item_EftU6j",
+        "name": "20000金币",
+        "price": "200"
+    },
+    "TY9999D0006001": {
+        "feecode": "game_item_3XS4Qr",
+        "name": "60000金币",
+        "price": "600"
+    },
+    "TY9999D0008002": {
+        "feecode": "game_item_sp0OAS",
+        "name": "8元转运礼包",
+        "price": "800"
+    },
+    "TY9999D0100001": {
+        "feecode": "game_item_2fBpwl",
+        "name": "1000000金币",
+        "price": "10000"
+    },
+    "TY9999R0008001": {
+        "feecode": "game_item_aStvyN",
+        "name": "80钻石",
+        "price": "800"
+    }
+}}

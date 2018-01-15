@@ -1,0 +1,46 @@
+{
+        "id" : 9998,
+        "name" : "tysdk",
+        "mode" : 1,
+        "redis.host" : "10.3.0.3",
+        "redis.port" : 6379,
+        "redis.dbid" : 1,
+        "projects" : [{
+                                "path" : "../tyframework"
+                        }, {
+                                "path" : "../game-sdk"
+                        }],
+        "servers" : [{
+                                "id" : "srv1",
+                                "internet" : "125.39.220.70",
+                                "intrant" : "10.3.0.3",
+                                "user" : "", "pwd" :""
+                        }],
+        "process" : [{"type" : "http", "subtype" : "sdk", "id" : 10, "http" : 8010, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "sdk", "id" : 11, "http" : 8011, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "sdk", "id" : 12, "http" : 8012, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "sdk", "id" : 13, "http" : 8013, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "gateway", "id" : 20, "http" : 8020, "server" : "srv1"},
+                     {"type" : "http", "subtype" : "gateway", "id" : 21, "http" : 8021, "server" : "srv1"},
+                     {"type" : "http", "subtype" : "gateway", "id" : 22, "http" : 8022, "server" : "srv1"},
+                     {"type" : "http", "subtype" : "gateway", "id" : 23, "http" : 8023, "server" : "srv1"},
+                     {"type" : "http", "subtype" : "sdk", "id" : 14, "http" : 8014, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "sdk", "id" : 15, "http" : 8015, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "sdk", "id" : 16, "http" : 8016, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "sdk", "id" : 17, "http" : 8017, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "sdk", "id" : 31, "http" : 8031, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "sdk", "id" : 32, "http" : 8032, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "sdk", "id" : 33, "http" : 8033, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "sdk", "id" : 34, "http" : 8034, "server" : "srv1"}, 
+
+                     {"type" : "http", "subtype" : "sdk", "id" : 35, "http" : 8035, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "sdk", "id" : 36, "http" : 8036, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "sdk", "id" : 37, "http" : 8037, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "sdk", "id" : 38, "http" : 8038, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "sdk", "id" : 39, "http" : 8039, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "sdk", "id" : 40, "http" : 8040, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "sdk", "id" : 41, "http" : 8041, "server" : "srv1"}, 
+                     {"type" : "http", "subtype" : "sdk", "id" : 42, "http" : 8042, "server" : "srv1"} 
+
+                    ]
+}

@@ -1,0 +1,25 @@
+{
+    "*": [
+        {
+            "name": "微信支付",
+            "paytype": "weixin",
+            "tips": "微信安全支付",
+            "isDefault": "1"
+        },
+        {
+            "name": "支付宝快付",
+            "paytype": "alifree",
+            "tips": "支付宝安全快捷支付"
+        },
+        {
+            "name": "银行卡支付",
+            "paytype": "unionpay",
+            "tips": "支持储蓄卡和信用卡, 无需开通网银"
+        },
+        {
+            "name": "支付宝",
+            "paytype": "tuyou.ali",
+            "tips": "支付宝钱包支付"
+        }
+    ]
+}

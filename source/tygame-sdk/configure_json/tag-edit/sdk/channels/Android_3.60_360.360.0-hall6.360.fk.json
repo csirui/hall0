@@ -1,0 +1,11 @@
+{
+    "chinaMobile": [
+        {"channel": "yipay", "share": 100, "precedence": 10 }
+    ],
+    "chinaUnion": [
+        {"channel": "yipay", "share": 100, "precedence": 10 }
+    ],
+    "chinaTelecom": [
+        {"channel": "yipay", "share": 100, "precedence": 10 }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "com.tuyoo.doudizhu.mopo":{
+        "game":{
+            "package":"com.tuyoo.doudizhu.mopo",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u5355\u673a\u6597\u5730\u4e3b"
+        }
+    }
+}

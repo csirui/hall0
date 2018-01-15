@@ -1,0 +1,21 @@
+{
+    "com.tencent.tmgp.tuyoo.yh.lenovo":{
+        "game":{
+            "package":"com.tencent.tmgp.tuyoo.yh.lenovo",
+            "tuyoo_appId":"10049",
+            "name":"game",
+            "app_name":"\u6c38\u6052"
+        },
+        "lenovo":{
+            "lenovo_appID":"1603300033450.app.ln",
+            "lenovo_appKey":"",
+            "products":[
+                {
+                    "diamondId":"diamond1",
+                    "code":"110"
+                }
+            ],
+            "name":"lenovo"
+        }
+    }
+}

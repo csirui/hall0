@@ -1,0 +1,32 @@
+{
+  "*": [
+    {
+      "bonus": "0",
+      "tips": "\u7231\u8d1d\u652f\u4ed8",
+      "specialTips": "",
+      "name": "\u7231\u8d1d\u652f\u4ed8",
+      "paytype": "iappay"
+    },
+    {
+      "bonus": "0",
+      "tips": " \u652f\u4ed8\u5b9d\u5b89\u5168\u652f\u4ed8",
+      "specialTips": "",
+      "name": "\u652f\u4ed8\u5b9d(WAP)",
+      "paytype": "alipaywap"
+    },
+    {
+      "bonus": "0",
+      "tips": "\u5fae\u4fe1\u5b89\u5168\u652f\u4ed8",
+      "specialTips": "",
+      "name": "\u5fae\u4fe1(WAP)",
+      "paytype": "wxwap"
+    },
+    {
+      "filter": "price_le_12",
+      "collapsed": 0,
+      "tips": "\u76f4\u63a5\u4ece\u8bdd\u8d39\u4e2d\u6263\u51cf\uff0c\u901a\u4fe1\u8d39\u7531\u8fd0\u8425\u5546\u4ee3\u6536",
+      "name": "\u8bdd\u8d39\u652f\u4ed8",
+      "paytype": "yisdkpay"
+    }
+  ]
+}

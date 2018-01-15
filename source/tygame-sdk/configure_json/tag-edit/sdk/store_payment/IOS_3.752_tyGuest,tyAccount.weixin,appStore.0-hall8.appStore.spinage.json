@@ -1,0 +1,89 @@
+{
+    "payment": {
+        "more_categories": "fake",
+        "default_category": [
+            {
+                "id": "TY9999D0006007",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "texas_strategy"
+            },
+            {
+                "id": "TY9999R0006001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "is_diamond": 1,
+                "strategy": "texas_strategy"
+            },
+            {
+                "id": "TY9999D0030007",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "texas_strategy"
+            },
+            {
+                "id": "TY9999R0030001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "is_diamond": 1,
+                "strategy": "texas_strategy"
+            },
+            {
+                "id": "TY9999D0098007",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "texas_strategy"
+            },
+            {
+                "id": "TY9999R0128001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "is_diamond": 1,
+                "strategy": "texas_strategy"
+            },
+            {
+                "id": "TY9999D0198007",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "texas_strategy"
+            },
+            {
+                "id": "TY9999D0328007",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "texas_strategy"
+            },
+            {
+                "id": "TY9999D0648007",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "texas_strategy"
+            }
+        ]
+    },
+    "store": [
+        {
+            "displayName": "道具商城",
+            "products": [
+                "TY9999D0006001",
+                "TY9999D0030001",
+                "TY9999D0050001",
+                "TY9999D0300001",
+                "TY9999D1000001",
+                "TY0006D0030002",
+                "TY0006D0100002"
+            ],
+            "name": "item",
+            "visible": 1
+        },
+        {
+            "displayName": "钻石商城",
+            "products": [
+                "TY9999D0006001",
+                "TY0007D0300001"
+            ],
+            "name": "diamond",
+            "visible": 1
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "payment": {
+        "default_category": [
+            {
+                "category": "CAT_DUANDAI",
+                "id": "TY9999R0000101"
+            },
+            {
+                "category": "CAT_DUANDAI",
+                "id": "TY9999D0001003"
+            },
+            {
+                "category": "CAT_DUANDAI",
+                "id": "TY9999D0002001"
+            },
+            {
+                "category": "CAT_DUANDAI",
+                "id": "TY9999D0008005"
+            },
+            {
+                "category": "CAT_DUANDAI",
+                "id": "TY9999D0008025"
+            },
+            {
+                "category": "CAT_DUANDAI",
+                "id": "TY9999D0008026"
+            },
+            {
+                "category": "CAT_DUANDAI",
+                "id": "TY9999R0008005",
+                "nohint": "0"
+            },
+            {
+                "category": "CAT_DUANDAI",
+                "id": "TY9999D0010001",
+                "nohint": "0"
+            },
+            {
+                "category": "CAT_DUANDAI",
+                "id": "TY9999D0006001",
+                "nohint": "0"
+            },
+            {
+                "category": "CAT_DUANDAI",
+                "id": "TY9999D0008001",
+                "nohint": "0"
+            },
+            {
+                "category": "CAT_DUANDAI",
+                "id": "TY9999D0008002",
+                "nohint": "0"
+            },
+            {
+                "category": "CAT_DUANDAI",
+                "id": "TY9999R0008001"
+            },
+            {
+                "category": "CAT_DUANDAI",
+                "id": "TY9999R00020DJ"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0050001"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0100001"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0300001"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY0006D0030002"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY0006D0100002"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0000102"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999R0050001"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY0006D0002001"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY0006D0005001"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY0006D0002002"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY0006D0010001"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0030001"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0010001"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0008011"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0008006"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0008007"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0008009"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0008008"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0008010"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0012001"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0002003"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0006008"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0030004"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0006009"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0030005"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0100002"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0100003"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0100004"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999R0100001"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0020003"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0030011"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0050007"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0100011"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0030012"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0050008"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0100012"
+            },
+            {
+                "category": "CAT_ALIPAY",
+                "id": "TY9999D0012003"
+            }
+        ],
+        "more_categories": "CAT_LIST_TUYOU"
+    },
+    "store": [
+        {
+            "displayName": "道具商城",
+            "name": "item",
+            "products": [
+                "TY9999D0006001",
+                "TY9999D0030001",
+                "TY9999D0050001",
+                "TY9999D0300001",
+                "TY9999D1000001",
+                "TY0006D0030002",
+                "TY0006D0100002"
+            ],
+            "visible": 1
+        },
+        {
+            "displayName": "钻石商城",
+            "name": "diamond",
+            "products": [
+                "TY9999D0006001",
+                "TY0007D0300001"
+            ],
+            "visible": 1
+        }
+    ]
+}

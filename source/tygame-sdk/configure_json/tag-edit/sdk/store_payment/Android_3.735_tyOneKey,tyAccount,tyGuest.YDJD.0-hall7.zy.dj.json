@@ -1,0 +1,89 @@
+{
+    "payment": {
+        "more_categories": "ydjd",
+        "default_category": [
+            {
+                "id": "TY9999R0000101",
+                "category": "CAT_THIRDPAY",
+                "paytype": "ydjd",
+                "is_diamond": 1
+            },
+            {
+                "id": "TY9999D0001003",
+                "category": "CAT_THIRDPAY",
+                "paytype": "ydjd"
+            },
+            {
+                "id": "TY9999D0002001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "ydjd"
+            },
+            {
+                "id": "TY9999D0005003",
+                "category": "CAT_THIRDPAY",
+                "paytype": "ydjd"
+            },
+            {
+                "id": "TY9999D0006016",
+                "category": "CAT_THIRDPAY",
+                "paytype": "ydjd"
+            },
+            {
+                "id": "TY9999D0008027",
+                "category": "CAT_THIRDPAY",
+                "paytype": "ydjd"
+            },
+            {
+                "id": "TY9999D0008001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "ydjd"
+            },
+            {
+                "id": "TY9999D0008025",
+                "category": "CAT_THIRDPAY",
+                "paytype": "ydjd"
+            },
+            {
+                "id": "TY9999D0008026",
+                "category": "CAT_THIRDPAY",
+                "paytype": "ydjd"
+            },
+            {
+                "id": "TY9999R0008005",
+                "category": "CAT_THIRDPAY",
+                "paytype": "ydjd",
+                "is_diamond": 1
+            },
+            {
+                "id": "TY9999D0010001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "ydjd"
+            }
+        ]
+    },
+    "store": [
+        {
+            "displayName": "道具商城",
+            "products": [
+                "TY9999D0006001",
+                "TY9999D0030001",
+                "TY9999D0050001",
+                "TY9999D0300001",
+                "TY9999D1000001",
+                "TY0006D0030002",
+                "TY0006D0100002"
+            ],
+            "name": "item",
+            "visible": 1
+        },
+        {
+            "displayName": "钻石商城",
+            "products": [
+                "TY9999D0006001",
+                "TY0007D0300001"
+            ],
+            "name": "diamond",
+            "visible": 1
+        }
+    ]
+}

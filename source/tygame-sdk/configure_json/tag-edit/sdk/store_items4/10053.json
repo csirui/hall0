@@ -1,0 +1,74 @@
+[
+    {
+        "id": "6729",
+        "name": "1000金币",
+        "desc": "1000金币",
+        "price": 0.1,
+        "diamondPrice": 1,
+        "is_diamond": 0
+    },
+    {
+        "id": "6730",
+        "name": "2万金币",
+        "desc": "2万金币",
+        "price": 2,
+        "diamondPrice": 20,
+        "is_diamond": 0
+    },
+    {
+        "id": "6731",
+        "name": "6.6万金币",
+        "desc": "6.6万金币",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0
+    },
+    {
+        "id": "6733",
+        "name": "36万金币",
+        "desc": "36万金币",
+        "price": 30,
+        "diamondPrice": 300,
+        "is_diamond": 0
+    },
+    {
+        "id": "6734",
+        "name": "65万金币",
+        "desc": "65万金币",
+        "price": 50,
+        "diamondPrice": 500,
+        "is_diamond": 0
+    },
+    {
+        "id": "6735",
+        "name": "150万金币",
+        "desc": "150万金币",
+        "price": 100,
+        "diamondPrice": 1000,
+        "is_diamond": 0
+    },
+    {
+        "id": "6736",
+        "name": "500万金币",
+        "desc": "500万金币",
+        "price": 300,
+        "diamondPrice": 3000,
+        "is_diamond": 0
+    },
+    {
+        "id": "6737",
+        "name": "2000万金币",
+        "desc": "2000万金币",
+        "price": 1000,
+        "diamondPrice": 10000,
+        "is_diamond": 0
+    },
+    {
+        "id": "6738",
+        "name": "首充礼包",
+        "desc": "首充礼包15万金币",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0
+    }
+]

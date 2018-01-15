@@ -1,0 +1,155 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <title>apps</title>
+    <link rel="stylesheet" href="css/mobi.common.css">
+    <link rel="stylesheet" href="css/cross.css">
+    <script src="js/jq.mobi.min.js"></script>
+    <script src="js/mobi.common.min.js"></script>
+    <script type="text/javascript">
+        var appId, userId, authorCode, clientId = null
+        var applist
+
+        $().ready(function(){
+
+            appId = TY.getUrlParam('appId')
+            userId = TY.getUrlParam('userId')
+            authorCode = TY.getUrlParam('authorCode')
+            clientId = TY.getUrlParam('clientId')
+
+            reqAppList();
+        });
+
+        function downapp(app) {
+            var url = app['url']
+//            var action = {
+//                callback : onAppListReceive,
+//                method : 'open/v3/cross/downapp',
+//                params : {
+//                    appId : appId,
+//                    clientId : clientId,
+//                    authorCode: authorCode,
+//                    userId: userId,
+//                    url: url,
+//                    pkg: app['pkg'],
+//                    down_app_id: app['appid']
+//                }
+//            };
+//            TY.doRequest(action, 'json', 'GET');
+
+            var fullurl = TY.domain + 'open/v3/cross/downapp'
+            fullurl += '?appId=' + appId + '&clientId=' + clientId + '&authorCode=' + authorCode + '&url=' + url
+                    + '&userId=' + userId + '&pkg=' + app['pkg'] + '&down_app_id=' + app['appid']
+            TY.callNative('common', 'DownApp', {'url':fullurl, 'apkurl': url});
+        }
+
+        function reqAppList() {
+            var action = {
+                callback : onAppListReceive,
+                method : 'open/v3/cross/getAppList',
+                params : {
+                    appId : appId,
+                    clientId : clientId,
+                    authorCode: authorCode,
+                    userId: userId
+                }
+            };
+            TY.doRequest(action, 'json', 'GET');
+            TY.showWaiting('正在加载...');
+        }
+
+        function onAppListReceive(data, action, ret) {
+            if(!ret){
+                return
+            }
+            applist=data['result']['data'];
+//            alert(JSON.stringify(applist))
+            TY.hideWaitting()
+            refreshApps()
+
+            $('.list_down').click(function(){
+                var index = $('.list_down').index(this)
+                var app = applist[index]
+                downapp(app)
+            })
+        }
+
+        function refreshApps(){
+            var html = ''
+            for(var i=0; i<applist.length; i++){
+                var app = applist[i]
+                var icon = app['icon']
+                icon = TY.domain + 'open/img/' + icon
+                var title = app['title']
+                if(i%2 == 0){
+                    html += '<div class="container"><div class="fdd">'
+                } else {
+                    html += '<div class="odd">'
+                }
+                html += '<div class="left">'
+                    + '<img class="s-icon" src="' + icon + '">'
+                    + '</div>'
+                    + '<div class="item_c">'
+                    + '    <div class="list_title">'+title+'</div>'
+                    + '   <div class="list_describe">'+app['desc']+'</div>'
+                    + '    <div class="sub_seach_time"></div>'
+                    + '</div>'
+                    + '<div class="list_r_w" >'
+                    + '    <button class="ui-btn-up-b list_down ui-shadow">下载</button>'
+                    + '</div>'
+                    + '</div>'
+                if(i%2 == 1){
+                    html += '</div>'
+                }
+                else {
+                    if(i == applist.length - 1) {
+                        html += '<div class="odd odd_null"></div></div>'
+                    }
+                }
+            }
+            $('.dataList').html(html)
+            for(var i=0;i<applist.length;i++){
+                var app = applist[i]
+                TY.callNative('common', 'IsAppInstalled', {'pkg': app['pkg']}, IsInstallResult);
+            }
+//            var param='{"appName":"'+applist[0]['pkg']+'","IsInstall":true}';
+//            IsInstallResult(param);
+        }
+
+        function IsInstallResult(param) {
+            var info = param
+            var apk=info['pkg'];
+            var i=0;
+            for(i=0;i<applist.length;i++){
+                if(apk==applist[i]['pkg']) break;
+            }
+            if(info!=null && info['installed']==1){
+                var node=$($('.list_down')[i]);
+                node.text('打开')
+                //node.css('background-color','green');
+                node.removeClass('ui-btn-up-b').addClass('ui-btn-up-green');
+                node.unbind()
+                node.click(function(){
+                    TY.callNative('common', 'OpenApp', {'pkg': apk} );
+                })
+            }
+        }
+    </script>
+</head>
+<body>
+
+<div class="content game_content">
+    <div class="cate_list">
+        <div class="dataList cls">
+
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

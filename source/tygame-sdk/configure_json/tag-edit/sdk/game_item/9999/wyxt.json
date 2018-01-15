@@ -1,0 +1,27 @@
+{
+    "com.tuyoo.doudizhu.main":{
+        "game":{
+            "package":"com.tuyoo.doudizhu.main",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6597\u5730\u4e3b"
+        },
+        "wyxt":{
+            "name":"wyxt",
+            "app_config_10":{
+                "app_name":"途游斗地主",
+                "channel_id":"0079",
+                "itemid":"904",
+                "price":"10"
+            },
+            "app_config_15":{
+                "app_name":"途游斗地主",
+                "channel_id":"0079",
+                "itemid":"904",
+                "price":"10"
+            }
+
+
+        }
+    }
+}

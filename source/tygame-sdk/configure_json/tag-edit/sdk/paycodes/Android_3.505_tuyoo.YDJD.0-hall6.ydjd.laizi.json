@@ -1,0 +1,17 @@
+{
+    "ydjd": {
+        "appid": "621216043142",
+        "cpid": "772212",
+        "paydata": [
+            {"prodid": "TY9999R0000101", "msgOrderCode": "006" },
+            {"prodid": "TY9999D0001003", "msgOrderCode": "007" },
+            {"prodid": "TY9999D0002001", "msgOrderCode": "001" },
+            {"prodid": "TY9999D0008005", "msgOrderCode": "008" },
+            {"prodid": "TY9999D0008001", "msgOrderCode": "005" },
+            {"prodid": "TY9999D0008025", "msgOrderCode": "009" },
+            {"prodid": "TY9999D0008026", "msgOrderCode": "010" },
+            {"prodid": "TY9999R0008005", "msgOrderCode": "003" },
+            {"prodid": "TY9999D0010001", "msgOrderCode": "011" }
+        ]
+    }
+}

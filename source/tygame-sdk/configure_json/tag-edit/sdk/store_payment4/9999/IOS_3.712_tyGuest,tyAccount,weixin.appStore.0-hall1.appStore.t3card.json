@@ -1,0 +1,28 @@
+{
+    "*": [
+        {    "name":"支付宝",
+            "paytype": "tuyou.ali",
+            "bonus":"0",
+            "tips":"支付宝安全支付",
+            "specialTips":""
+        },
+        {   "name":"微信",
+            "paytype": "weixin",
+            "bonus":"0",
+            "tips":"微信安全支付",
+            "specialTips":""
+        },
+        {   "name":"支付宝",
+            "paytype": "alipaywap",
+            "bonus":"0",
+            "tips":"支付宝安全支付",
+            "specialTips":""
+        },
+        {
+            "name":"苹果支付",
+            "tips":"使用苹果AppStore支付",
+            "paytype": "tuyooios",
+            "collapsed": 0
+        }
+    ]
+}

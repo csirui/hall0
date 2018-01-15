@@ -1,0 +1,15 @@
+{
+    "com.tuyoo.doudizhu.zy":{
+        "game":{
+            "package":"com.tuyoo.doudizhu.zy",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u6d4b\u8bd5\u6e38\u620f"
+        },
+        "zhangyue":{
+            "zhangyue_appId":"e2344a538d765fc5792b",
+            "zhangyue_md5_key":"eded69385",
+            "zhangyue_rsa_key":"MIICXAIBAAKBgQCaj3KFDPNa/HrSqj81RWYKq4EwMWIZDNWLZyzRmcHXyHZ/POOAsHJpFsVvTiAifLnuXXfU1SnnfY7tbnSDQ/Do+RJfgWFUj57+RD+O5EZuqg1nGpkcqVEYR851hgoe6ezNbbsjlLEZ7m8s14iGHaZP1LQPhZJ0rps8/igR88XybQIDAQABAoGBAIalcumv940LKOC/iaMZ2yRudnQKgWA7SwlPj77lSPZ336tG2xawIGumd8dYcyw4Ji4e5RbXwNK3Ej2LnRsBpCumAOOq7A4KXf9l3nTUDZsqH1q9RpCKZbXGZU+i48+nStckO4/oXbmRle0CH9AO7FdNrUqNFAm+HErUpjmhSZGBAkEAuib5SV40JjwWnToWikDNIOgo0Q+0cvhOx2ec4rUGFgkNGkM4xcdXkz4yP5ulEmN06J5lKmj5eOGbWRgxoUvPoQJBANSN4mERcsnIBKaGOPghuw8y3I/iK+LK4ABZi/wRKKalD0vfvv3lrwG54QfLlKqM41V9Yb3xyG5ex1Y4nIFUH00CQCwvfBSSK8a3lJaVZyxB3W7mLGoTVD3F+s0SJwcY+OzaESYetqcbfgoRRVQb2b7XpLRihJjgefbbdkhbmcwzdoECQHyPoWiNFx3Uz5Te96fB7KNdhQ/01Q8VIOxTjctsKsxt0mb+eijEXyi9y3gL/9Vqtxa0YYE0nebAOET47A6GQ8kCQBtICjHg0NZdMGBjrUZO+4aQptwVnjhHHkTssgAs/x/unw4Mngvh216QFg2gwgSThZiBFld+zqS4BDAoZoGvhAc="
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{"default_strategy": {
+    "operator": "or",
+    "today": 600,
+    "total": 3600
+}, "main_strategy": {
+    "operator": "or",
+    "today": 1800,
+    "total": 3600
+}, "texas_strategy": {
+    "day7": 10800,
+    "operator": "or",
+    "today": 3600
+}, "weixin_products": ["TY9999R0328001", "TY9999D0328001", "TY9999R0648001", "TY9999D0648001"], "weixin_totaltime_threshold": 1800}

@@ -1,0 +1,132 @@
+[
+    {
+        "id": "d_1",
+        "name": "钻石x100",
+        "price": 1,
+        "diamondPrice": 10,
+        "is_diamond": 1
+    },
+    {
+        "id": "1",
+        "name": "钻石1",
+        "price": 1,
+        "diamondPrice": 10
+    },
+    {
+        "id": "d_2",
+        "name": "钻石x100",
+        "price": 10,
+        "diamondPrice": 100,
+        "is_diamond": 1
+    },
+    {
+        "id": "2",
+        "name": "10钻石",
+        "price": 10,
+        "diamondPrice": 100
+    },
+    {
+        "id": "d_3",
+        "name": "钻石x200",
+        "price": 20,
+        "diamondPrice": 200,
+        "is_diamond": 1
+    },
+    {
+        "id": "3",
+        "name": "200钻石",
+        "price": 20,
+        "diamondPrice": 200
+    },
+    {
+        "id": "d_4",
+        "name": "钻石x500",
+        "price": 50,
+        "diamondPrice": 500,
+        "is_diamond": 1
+    },
+    {
+        "id": "4",
+        "name": "500钻石",
+        "price": 50,
+        "diamondPrice": 500
+    },
+    {
+        "id": "d_5",
+        "name": "钻石x1000",
+        "price": 100,
+        "diamondPrice": 1000,
+        "is_diamond": 1
+    },
+    {
+        "id": "5",
+        "name": "1000钻石",
+        "price": 100,
+        "diamondPrice": 1000
+    },
+    {
+        "id": "d_6",
+        "name": "钻石x3000",
+        "price": 300,
+        "diamondPrice": 3000,
+        "is_diamond": 1
+    },
+    {
+        "id": "6",
+        "name": "钻石x3000",
+        "price": 300,
+        "diamondPrice": 3000
+    },
+    {
+        "id": "d_7",
+        "name": "钻石x5000",
+        "price": 500,
+        "diamondPrice": 5000,
+        "is_diamond": 1
+    },
+    {
+        "id": "7",
+        "name": "钻石x5000",
+        "price": 500,
+        "diamondPrice": 5000
+    },
+    {
+        "id": "d_8",
+        "name": "钻石x10000",
+        "price": 1000,
+        "diamondPrice": 10000,
+        "is_diamond": 1
+    },
+    {
+        "id": "8",
+        "name": "钻石x10000",
+        "price": 1000,
+        "diamondPrice": 10000
+    },
+    {
+        "id": "d_9",
+        "name": "钻石x30000",
+        "price": 3000,
+        "diamondPrice": 30000,
+        "is_diamond": 1
+    },
+    {
+        "id": "9",
+        "name": "钻石x30000",
+        "price": 3000,
+        "diamondPrice": 30000
+    },
+    {
+        "id": "d_0",
+        "name": "1",
+        "price": 0.1,
+        "diamondPrice": 1,
+        "is_diamond": 1
+    },
+    {
+        "id": "mt_yuanbao",
+        "name": "1",
+        "price": 0.1,
+        "diamondPrice": 1
+    }
+]

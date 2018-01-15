@@ -1,0 +1,70 @@
+[
+    {
+        "name": "10068",
+        "clientIds": [
+            "^IOS_3.*$"
+        ],
+        "products": [
+            {
+                "tyid": "test_1",
+                "name": "测试",
+                "price": 10,
+                "iosid": "test_1"
+            },
+            {
+                "tyid": "com.ijinshan.tiantianaimengxian.lingyu98",
+                "name": "1100灵玉(98元)",
+                "price": 980,
+                "iosid": "com.ijinshan.tiantianaimengxian.lingyu98"
+            },
+            {
+                "tyid": "com.ijinshan.tiantianaimengxian.zhouka18",
+                "name": "180灵玉（周卡）",
+                "price": 180,
+                "iosid": "com.ijinshan.tiantianaimengxian.zhouka18"
+            },
+            {
+                "tyid": "com.ijinshan.tiantianaimengxian.lingyu198",
+                "name": "2280灵玉（198元）",
+                "price": 1980,
+                "iosid": "com.ijinshan.tiantianaimengxian.lingyu198"
+            },
+            {
+                "tyid": "com.ijinshan.tiantianaimengxian.yueka30",
+                "name": "300灵玉（月卡）",
+                "price": 300,
+                "iosid": "com.ijinshan.tiantianaimengxian.yueka30"
+            },
+            {
+                "tyid": "com.ijinshan.tiantianaimengxian.lingyu30",
+                "name": "335灵玉（30元）",
+                "price": 300,
+                "iosid": "com.ijinshan.tiantianaimengxian.lingyu30"
+            },
+            {
+                "tyid": "com.ijinshan.tiantianaimengxian.lingyu328",
+                "name": "3940灵玉（328元）",
+                "price": 3280,
+                "iosid": "com.ijinshan.tiantianaimengxian.lingyu328"
+            },
+            {
+                "tyid": "com.ijinshan.tiantianaimengxian.lingyu50",
+                "name": "560灵玉（50元）",
+                "price": 500,
+                "iosid": "com.ijinshan.tiantianaimengxian.lingyu50"
+            },
+            {
+                "tyid": "com.ijinshan.tiantianaimengxian.lingyu6",
+                "name": "66灵玉（6元）",
+                "price": 60,
+                "iosid": "com.ijinshan.tiantianaimengxian.lingyu6"
+            },
+            {
+                "tyid": "com.ijinshan.tiantianaimengxian.lingyu648",
+                "name": "8100灵玉（648元）",
+                "price": 6480,
+                "iosid": "com.ijinshan.tiantianaimengxian.lingyu648"
+            }
+        ]
+    }
+]

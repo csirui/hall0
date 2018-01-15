@@ -1,0 +1,31 @@
+{
+    "*": [
+        {
+            "name": "微信支付",
+            "paytype": "wxwap",
+            "tips": "推荐安装微信5.0及以上版本的玩家使用",
+            "isDefault": "1"
+        },
+        {
+            "name": "支付宝快付",
+            "paytype": "alifree",
+            "tips": "支付宝推荐使用，快速安全"
+        },
+        {
+            "name": "银行卡支付",
+            "paytype": "unionpay",
+            "tips": "支持储蓄卡和信用卡, 无需开通网银"
+        },
+        {
+            "name": "支付宝",
+            "paytype": "tuyou.ali",
+            "tips": "推荐有支付宝账号的玩家使用"
+        },
+        {
+            "name": "话费支付",
+            "paytype": "yisdkpay",
+            "tips": "直接从话费中扣减, 通信费由运营商代收",
+            "isDefault": "2"
+        }
+    ]
+}

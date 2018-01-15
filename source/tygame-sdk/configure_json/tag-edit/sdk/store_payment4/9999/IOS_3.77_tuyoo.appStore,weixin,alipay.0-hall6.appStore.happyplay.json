@@ -1,0 +1,10 @@
+{
+    "*": [
+        {
+            "name": "苹果支付",
+            "paytype": "tuyooios",
+            "tips": "使用苹果AppStore支付",
+            "collapsed": "0"
+        }
+    ]
+}

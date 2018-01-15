@@ -1,0 +1,22 @@
+{
+    "com.buyu.newdwby.uc":{
+        "tuyoosdk":{
+            "LoginSDK":"tyGuest",
+            "PaySDKs":"ucdanji",
+            "defaultSDKs":"tySdkSkins_dwby",
+            "force_login":"tyGuest",
+            "ThirdExitSDKName":"ucdanji",
+            "protocol_url":""
+        },
+        "ucdanji":{
+            "ucdj_appId":"",
+            "apiKey":"90f875f9a9d51da879934479f2b57606"
+        },
+        "game":{
+            "package":"com.buyu.newdwby.uc",
+            "tuyoo_appId":"10071",
+            "name":"game",
+            "app_name":"\u7535\u73a9\u6355\u9c7c"
+        }
+    }
+}

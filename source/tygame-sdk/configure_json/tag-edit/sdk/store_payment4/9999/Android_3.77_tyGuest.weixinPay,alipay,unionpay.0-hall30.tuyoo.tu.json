@@ -1,0 +1,20 @@
+{
+    "*": [
+        {
+            "name": "微信支付",
+            "paytype": "weixin",
+            "tips": "推荐安装微信5.0及以上版本的玩家使用",
+            "isDefault": "1"
+        },
+        {
+            "name": "支付宝",
+            "paytype": "tuyou.ali",
+            "tips": "推荐有支付宝账号的玩家使用"
+        },
+        {
+            "name": "银行卡支付",
+            "paytype": "unionpay",
+            "tips": "支持储蓄卡和信用卡, 无需开通网银"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "com.tencent.tmgp.tuyoo.yh.coolpad":{
+        "tuyoosdk":{
+            "name":"tuyoosdk",
+            "LoginSDK":"coolpad",
+            "PaySDKs":"coolpad",
+            "defaultSDKs":"tyOneKey,tyAccount,tyCard,weixinWap,alipayweb",
+            "force_login":"coolpad",
+            "version":"1.0"
+        },
+        "game":{
+            "package":"com.tencent.tmgp.tuyoo.yh.coolpad",
+            "tuyoo_appId":"10049",
+            "name":"game",
+            "app_name":"\u6c38\u6052"
+        },
+        "coolpad":{
+            "name":"coolpad",
+            "coolpad_appId":"5000003263",
+            "coolpad_appKey":"63eae9beae5a4151a813ce4834e39c6a",
+            "coolpad_appPrivateKey":"MIICWwIBAAKBgQCKywMdbJhHALSehV/V9e/tEta7K7L/VgOgumX3EWCUrKNO5TJEjXgamBRWT1gM1yLSRcm0YwiY5DNLMxu1uipVFx/5Z9j5d7mKRMQURtnI6ALkXxiOD/GI3oKMt0O7ToaCpLkDByQ3n/aLXHMrqCYsIXaQ+gJHfOe6Ibi1A4ZXYQIDAQABAoGACcv+sksCDLD+Dtp3Q1ES2Hcl9RxGjEN0ChpeLCxr1tLAzEbdX31k5uupM9Zx7qYY7SLD9Bmxd6lT/ZDj+dXkOvbB4kps1u3KeDjxScrKwblgMeYa650yid91N+yZrB9PvhxX+qWu/PGek7EfGYA8iAtveARv5dXDpzLO6NAzQYECQQDB0KpxxXyVhQWw1XugrK9aomoew6d/GxR6WI4HWn78n3kyC2R7ISS82HVf/+4dJqBxOde09s7maJSMrSk0M1epAkEAt1MDdhGkXG2ER0I6kVaTZvnOyxPWShsEKcajuB+mS7ZCcVhXgoOJgE7SmXWkEXic2HDF5G1LyBvs4579v2H0+QJAMkZWcDyyHHbtCvnVn9ArjG8k5+YIxMfZgAMIlI+88PrNDVY3Mllelj3v9H8G3Tjv1W8TrTV4ZfwqzHL+hTPsQQJALDDwpqd+DWHA/0RxxdMu2SXiuYVgpKB6km91y86lUZ7vyU7YWXfHz4wwrBl1oViHxoz4xyWpnOVOZ1hOJrJAUQJAQtFxEdqSVJGDcfj9wM/TfROPqkABQKKX/fvGiGdPdpfKWp29xWdwZ6Vw6BZuxIlcLTbhCYTWoUcbJnas1dZT+g==",
+            "products":[
+                {
+                    "diamondId":"diamond1",
+                    "code":"1111pooooo"
+                }
+            ]
+        }
+    }
+}

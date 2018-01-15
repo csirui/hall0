@@ -1,0 +1,26 @@
+{
+  "*": [
+    {
+      "name": "\u5fae\u4fe1",
+      "bonus": "0",
+      "paytype": "weixin",
+      "strategy": "default_strategy",
+      "tips": "\u5fae\u4fe1\u5b89\u5168\u652f\u4ed8",
+      "specialTips": ""
+    },
+    {
+      "name": "\u652f\u4ed8\u5b9d",
+      "bonus": "0",
+      "paytype": "tuyou.ali",
+      "strategy": "default_strategy",
+      "tips": "\u652f\u4ed8\u5b9d\u5b89\u5168\u652f\u4ed8",
+      "specialTips": ""
+    },
+    {
+      "collapsed": 0,
+      "tips": "\u4f7f\u7528\u82f9\u679cAppStore\u652f\u4ed8",
+      "name": "\u82f9\u679c\u652f\u4ed8",
+      "paytype": "tuyooios"
+    }
+  ]
+}

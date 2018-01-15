@@ -1,0 +1,20 @@
+{
+    "com.tuyoo.doudizhu.maintu":{
+        "game":{
+            "package":"com.tuyoo.doudizhu.maintu",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6597\u5730\u4e3b"
+        },
+        "midashi":{
+            "name":"midashi",
+            "midas_offerId":"1450006296",
+            "midas_MSDKKEY":"d09011ab055ebec24eea5e6755ee771e",
+            "midas_wxId":"wx447c9d029799042b",
+            "midas_wxKey":"ba0f2675c7e84372514b5291eb73fa21",
+            "midas_qqId":"1101977575",
+            "midas_qqKey":"a6njxFG8v7Srxr8Q",
+            "midas_appKey":"J9gz7sPimJlGKCCi6yT2HSD0weFUStSd"
+        }
+    }
+}

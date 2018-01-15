@@ -1,0 +1,64 @@
+[
+    {
+        "name": "10052",
+        "clientIds": [
+            "^IOS_1.06_tuyoo.weixinPay,appStore,alipay.0-hall10052.appStore.fwyx$"
+        ],
+        "products": [
+            {
+                "tyid": "product_iosty_pt",
+                "name": "普通钻石矿",
+                "price": 300,
+                "iosid": "product_iosty_pt"
+            },
+            {
+                "tyid": "product_iosty_yj",
+                "name": "永久钻石矿",
+                "price": 880,
+                "iosid": "product_iosty_yj"
+            },
+            {
+                "tyid": "product_iosty_006",
+                "name": "一颗钻石",
+                "price": 60,
+                "iosid": "product_iosty_006"
+            },
+            {
+                "tyid": "product_iosty_030",
+                "name": "一些钻石",
+                "price": 300,
+                "iosid": "product_iosty_030"
+            },
+            {
+                "tyid": "product_iosty_060",
+                "name": "一堆钻石",
+                "price": 600,
+                "iosid": "product_iosty_060"
+            },
+            {
+                "tyid": "product_iosty_098",
+                "name": "一包钻石",
+                "price": 980,
+                "iosid": "product_iosty_098"
+            },
+            {
+                "tyid": "product_iosty_198",
+                "name": "一箱钻石",
+                "price": 1980,
+                "iosid": "product_iosty_198"
+            },
+            {
+                "tyid": "product_iosty_328",
+                "name": "一大箱钻石",
+                "price": 3280,
+                "iosid": "product_iosty_328"
+            },
+            {
+                "tyid": "product_iosty_648",
+                "name": "集装箱钻石",
+                "price": 6480,
+                "iosid": "product_iosty_648"
+            }
+        ]
+    }
+]

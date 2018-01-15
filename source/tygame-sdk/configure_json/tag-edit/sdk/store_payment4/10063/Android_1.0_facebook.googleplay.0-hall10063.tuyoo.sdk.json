@@ -1,0 +1,9 @@
+{
+    "*": [
+        {
+            "name": "GooglePlay",
+            "paytype": "googleplay",
+            "tips": "推荐安卓海外玩家使用"
+        }
+    ]
+}

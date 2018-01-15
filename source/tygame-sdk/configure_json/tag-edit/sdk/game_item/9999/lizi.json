@@ -1,0 +1,15 @@
+{
+    "com.tuyoo.tudoudizhu.lizi":{
+        "game":{
+            "package":"com.tuyoo.tudoudizhu.lizi",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6597\u5730\u4e3b"
+        },
+        "lizi":{
+            "name":"lizi",
+            "lizi_app_id":"AD945716C35CCAD961F7",
+            "serverKey":"LNXCBSi6St5Xa4umwgzmxlXsfM3d9HUL"
+        }
+    }
+}

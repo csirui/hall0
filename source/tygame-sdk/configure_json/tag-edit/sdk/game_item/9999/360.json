@@ -1,0 +1,35 @@
+{
+    "com.doudizhu.mainwiner":{
+        "game":{
+            "package":"com.doudizhu.mainwiner",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u8d62\u8bdd\u8d39\u6597\u5730\u4e3b"
+        },
+        "360":{
+            "QHOPENSDK_APPID":"201507316",
+            "QHOPENSDK_APPKEY":"fa2fc165fee786d3fefb0b11f0e15312",
+            "QHOPENSDK_APPSECRET":"c2f12613e505fe7e459df4e97ce81f40",
+            "QHOPENSDK_PRIVATEKEY":"d2ba4ddfda660b58e813afe4b9465cbb",
+            "name":"360"
+        }
+    },
+    "com.tuyoo.doudizhu.main":{
+        "jusdk":{
+            "jusdk_appKey":"a0c50f346283879bbe4ef310d38db2d8",
+            "jusdk_appId":"202979001",
+            "name":"jusdk"
+        },
+        "weixin":{
+            "name":"weixin",
+            "WXAPPID":"wx2bd2fcbc739e1fbf",
+            "WXAPPKEY":"a1d47d9f0d216e69fede9855bacf1120"
+        },
+        "game":{
+            "package":"com.tuyoo.doudizhu.main",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u5355\u673a\u6597\u5730\u4e3b"
+        }
+    }
+}

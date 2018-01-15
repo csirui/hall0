@@ -1,0 +1,122 @@
+[
+    {
+        "id": "test",
+        "name": "测试商品",
+        "desc": "",
+        "price": 1,
+        "diamondPrice": 10,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "tuyouhuluwa_6",
+        "name": "60钻石",
+        "desc": "初次购买额外赠送60钻石",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "tuyouhuluwa_30",
+        "name": "300钻石",
+        "desc": "初次购买可获得300钻石+激活小月卡30福利",
+        "price": 30,
+        "diamondPrice": 300,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "tuyouhuluwa_60",
+        "name": "600钻石",
+        "desc": "初次购买额外赠送600钻石",
+        "price": 60,
+        "diamondPrice": 600,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "tuyouhuluwa_98",
+        "name": "980钻石",
+        "desc": "初次购买可获得980钻石+激活大月卡98福利",
+        "price": 98,
+        "diamondPrice": 980,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "tuyouhuluwa_198",
+        "name": "1980钻石",
+        "desc": "初次购买额外赠送1980钻石",
+        "price": 198,
+        "diamondPrice": 1980,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "tuyouhuluwa_328",
+        "name": "3280钻石",
+        "desc": "初次购买额外赠送3280钻石",
+        "price": 328,
+        "diamondPrice": 3280,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "tuyouhuluwa_648",
+        "name": "6480钻石",
+        "desc": "初次购买额外赠送6480钻石",
+        "price": 648,
+        "diamondPrice": 6480,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "tuyouhuluwa_18",
+        "name": "180钻石",
+        "desc": "初次购买额外获得180钻",
+        "price": 18,
+        "diamondPrice": 180,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "tuyouhuluwa_488",
+        "name": "4880钻石",
+        "desc": "初次购买额外获得4880钻石",
+        "price": 488,
+        "diamondPrice": 4880,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    }
+]

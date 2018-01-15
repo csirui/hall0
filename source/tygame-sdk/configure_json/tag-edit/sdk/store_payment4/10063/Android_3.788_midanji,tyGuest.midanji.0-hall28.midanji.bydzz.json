@@ -1,0 +1,16 @@
+{
+    "*": [
+        {
+            "name": "小米支付",
+            "paytype": "xiaomi.danji"
+        },
+        {
+            "name": "支付宝支付",
+            "paytype": "xiaomi.alipay"
+        },
+        {
+            "name": "微信支付",
+            "paytype": "xiaomi.weixin"
+        }
+    ]
+}

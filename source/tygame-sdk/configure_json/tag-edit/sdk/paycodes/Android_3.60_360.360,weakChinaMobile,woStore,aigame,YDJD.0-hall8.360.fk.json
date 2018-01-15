@@ -1,0 +1,47 @@
+{
+    "ydjd": {
+        "appid": "621216039915",
+        "cpid": "772212",
+        "paydata": [
+            {"prodid": "TY0008D0008001", "msgOrderCode": "001" },
+            {"prodid": "TY0008D0010001", "msgOrderCode": "002" },
+            {"prodid": "TY9999R0008001", "msgOrderCode": "003" },
+            {"prodid": "TY9999D0008001", "msgOrderCode": "004" },
+            {"prodid": "TY9999D0008002", "msgOrderCode": "005" }
+        ]
+    },
+    "aigame":{
+        "appid": "5064314",
+        "appkey": "0f23876b557f08ef36d48659486319cd",
+        "paydata": [
+            {"prodid": "TY0008D0008001", "fake":"" },
+            {"prodid": "TY0008D0010001", "fake":"" },
+            {"prodid": "TY9999R0008001", "fake":"" },
+            {"prodid": "TY9999D0008001", "fake":"" },
+            {"prodid": "TY9999D0008002", "fake":"" }
+        ]
+    },
+    "ydmm": {
+        "appid": "300008266521",
+        "appkey": "6A95A7D68439016A",
+        "paydata": [
+            {"prodid": "TY0008D0008001", "msgOrderCode": "30000826652110" },
+            {"prodid": "TY0008D0010001", "msgOrderCode": "30000826652111" },
+            {"prodid": "TY9999R0008001", "msgOrderCode": "30000826652112" },
+            {"prodid": "TY9999D0008001", "msgOrderCode": "30000826652113" },
+            {"prodid": "TY9999D0008002", "msgOrderCode": "30000826652114" }
+        ]
+    },
+    "liantong.wo": {
+        "appid": "9014273345620150703221407765000",
+        "cpid": "86009366",
+        "appkey": "8786914cc07009556fcf",
+        "paydata": [
+            {"prodid": "TY0008D0008001", "msgOrderCode":"150703124135", "orderProdCode":"9014273345620150703221407765000001","orderProdName":"8元金币" },
+            {"prodid": "TY0008D0010001", "msgOrderCode":"150813134705", "orderProdCode":"9014273345620150703221407765000007","orderProdName":"10元金币" },
+            {"prodid": "TY9999R0008001", "msgOrderCode":"150703124137", "orderProdCode":"9014273345620150703221407765000003","orderProdName":"80钻石" },
+            {"prodid": "TY9999D0008001", "msgOrderCode":"150703124138", "orderProdCode":"9014273345620150703221407765000004","orderProdName":"8元超值礼包" },
+            {"prodid": "TY9999D0008002", "msgOrderCode":"150703124139", "orderProdCode":"9014273345620150703221407765000005","orderProdName":"转运礼包" }
+        ]
+    }
+}

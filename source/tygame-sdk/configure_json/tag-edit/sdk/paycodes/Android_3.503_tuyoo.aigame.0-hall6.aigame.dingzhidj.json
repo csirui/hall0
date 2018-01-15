@@ -1,0 +1,14 @@
+{
+        "aigame": {
+        "appid": "5061341",
+        "appkey": "484e51df6d9b0372cae7ef98dfb573b1",
+        "paydata": [
+            {"prodid": "TY9999D0006001", "fake":"" },
+            {"prodid": "TY9999D0008002", "fake":"" },
+            {"prodid": "TY9999D0008001", "fake":"" },
+            {"prodid": "TY9999R0008001", "fake":"" },
+            {"prodid": "TY9999D0002001", "fake":"" },
+            {"prodid": "TY9999R00020DJ", "fake":"" }
+        ]
+    }
+}

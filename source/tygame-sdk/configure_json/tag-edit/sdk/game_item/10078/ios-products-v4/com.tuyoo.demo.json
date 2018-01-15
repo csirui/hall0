@@ -1,0 +1,71 @@
+[
+    {
+        "name": "闪电突袭",
+        "clientIds": [
+            "IOS_1.0_tuyoo,weixin.weixinPay,appStore,alipay.0-hall10078.appStore.tuyoo",
+            "^IOS_1.*$"
+        ],
+        "products": [
+            {
+                "tyid": "1011",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "1011"
+            },
+            {
+                "tyid": "1012",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "1012"
+            },
+            {
+                "tyid": "1013",
+                "name": "680钻石",
+                "price": 68,
+                "iosid": "1013"
+            },
+            {
+                "tyid": "1014",
+                "name": "980钻石",
+                "price": 98,
+                "iosid": "1014"
+            },
+            {
+                "tyid": "1015",
+                "name": "1980钻石",
+                "price": 198,
+                "iosid": "1015"
+            },
+            {
+                "tyid": "1016",
+                "name": "3280钻石",
+                "price": 328,
+                "iosid": "1016"
+            },
+            {
+                "tyid": "1017",
+                "name": "6480钻石",
+                "price": 648,
+                "iosid": "1017"
+            },
+            {
+                "tyid": "1020",
+                "name": "周卡",
+                "price": 18,
+                "iosid": "1020"
+            },
+            {
+                "tyid": "1021",
+                "name": "月卡",
+                "price": 30,
+                "iosid": "1021"
+            },
+            {
+                "tyid": "1022",
+                "name": "终身卡",
+                "price": 98,
+                "iosid": "1022"
+            }
+        ]
+    }
+]

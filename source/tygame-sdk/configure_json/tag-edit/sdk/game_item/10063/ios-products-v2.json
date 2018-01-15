@@ -1,0 +1,1048 @@
+[
+    {
+        "name": "^IOS_3.*hall28.*$",
+        "clientIds": [
+            "^IOS_3.*hall28.*$"
+        ],
+        "products": [
+            {
+                "tyid": "TY28C000610101",
+                "name": "60000金币",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.ios.c6"
+            },
+            {
+                "tyid": "TY28C001210102",
+                "name": "140000金币",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.ios.c12"
+            },
+            {
+                "tyid": "TY28C003010103",
+                "name": "360000金币",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.ios.c30"
+            },
+            {
+                "tyid": "TY28C009810104",
+                "name": "1400000金币",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.ios.c98"
+            },
+            {
+                "tyid": "TY28C019810105",
+                "name": "3000000金币",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.ios.c198"
+            },
+            {
+                "tyid": "TY28C032810106",
+                "name": "5500000金币",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.ios.c328"
+            },
+            {
+                "tyid": "TY28C064810107",
+                "name": "12000000金币",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.ios.c648"
+            },
+            {
+                "tyid": "TY28D000610201",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.ios.d6"
+            },
+            {
+                "tyid": "TY28D001210202",
+                "name": "120钻石",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.ios.d12"
+            },
+            {
+                "tyid": "TY28D003010203",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.ios.d30"
+            },
+            {
+                "tyid": "TY28D009810204",
+                "name": "1100钻石",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.ios.d98"
+            },
+            {
+                "tyid": "TY28D019810205",
+                "name": "2400钻石",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.ios.d198"
+            },
+            {
+                "tyid": "TY28D032810206",
+                "name": "4000钻石",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.ios.d328"
+            },
+            {
+                "tyid": "TY28D064810207",
+                "name": "8000钻石",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.ios.d648"
+            },
+            {
+                "tyid": "TY28_MEMBER",
+                "name": "30天会员",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.ios.d28"
+            },
+            {
+                "tyid": "TY28D002810209",
+                "name": "超值钻石礼包",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.ios.d28"
+            }
+        ]
+    },
+    {
+        "name": "com.tuyoo.fish.huanle",
+        "clientIds": [
+            "^IOS_3.*hall28.appStore.happy$"
+        ],
+        "products": [
+            {
+                "tyid": "TY28C000610101",
+                "name": "60000金币",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.huanle.c6"
+            },
+            {
+                "tyid": "TY28C001210102",
+                "name": "140000金币",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.huanle.c12"
+            },
+            {
+                "tyid": "TY28C003010103",
+                "name": "360000金币",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.huanle.c30"
+            },
+            {
+                "tyid": "TY28C009810104",
+                "name": "1400000金币",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.huanle.c98"
+            },
+            {
+                "tyid": "TY28C019810105",
+                "name": "3000000金币",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.huanle.c198"
+            },
+            {
+                "tyid": "TY28C032810106",
+                "name": "5500000金币",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.huanle.c328"
+            },
+            {
+                "tyid": "TY28C064810107",
+                "name": "12000000金币",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.huanle.c648"
+            },
+            {
+                "tyid": "TY28D000610201",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.huanle.d6"
+            },
+            {
+                "tyid": "TY28D001210202",
+                "name": "120钻石",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.huanle.d12"
+            },
+            {
+                "tyid": "TY28D003010203",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.huanle.d30"
+            },
+            {
+                "tyid": "TY28D009810204",
+                "name": "1100钻石",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.huanle.d98"
+            },
+            {
+                "tyid": "TY28D019810205",
+                "name": "2400钻石",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.huanle.d198"
+            },
+            {
+                "tyid": "TY28D032810206",
+                "name": "4000钻石",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.huanle.d328"
+            },
+            {
+                "tyid": "TY28D064810207",
+                "name": "8000钻石",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.huanle.d648"
+            },
+            {
+                "tyid": "TY28_MEMBER",
+                "name": "30天会员",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.huanle.member"
+            },
+            {
+                "tyid": "TY28D002810209",
+                "name": "超值钻石礼包",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.huanle.member"
+            }
+        ]
+    },
+    {
+        "name": "com.buyu.buyudzz",
+        "clientIds": [
+            "^IOS_3.*hall28.appStore.bydzz$"
+        ],
+        "products": [
+            {
+                "tyid": "TY28C000610101",
+                "name": "60000金币",
+                "price": 6,
+                "iosid": "com.buyu.buyudzz.c60"
+            },
+            {
+                "tyid": "TY28C001210102",
+                "name": "140000金币",
+                "price": 12,
+                "iosid": "com.buyu.buyudzz.c120"
+            },
+            {
+                "tyid": "TY28C003010103",
+                "name": "360000金币",
+                "price": 30,
+                "iosid": "com.buyu.buyudzz.c300"
+            },
+            {
+                "tyid": "TY28C009810104",
+                "name": "1400000金币",
+                "price": 98,
+                "iosid": "com.buyu.buyudzz.c980"
+            },
+            {
+                "tyid": "TY28C019810105",
+                "name": "3000000金币",
+                "price": 198,
+                "iosid": "com.buyu.buyudzz.c1980"
+            },
+            {
+                "tyid": "TY28C032810106",
+                "name": "5500000金币",
+                "price": 328,
+                "iosid": "com.buyu.buyudzz.c3280"
+            },
+            {
+                "tyid": "TY28C064810107",
+                "name": "12000000金币",
+                "price": 648,
+                "iosid": "com.buyu.buyudzz.c6480"
+            },
+            {
+                "tyid": "TY28D000610201",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "com.buyu.buyudzz.d60"
+            },
+            {
+                "tyid": "TY28D001210202",
+                "name": "120钻石",
+                "price": 12,
+                "iosid": "com.buyu.buyudzz.d120"
+            },
+            {
+                "tyid": "TY28D003010203",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "com.buyu.buyudzz.d300"
+            },
+            {
+                "tyid": "TY28D009810204",
+                "name": "1100钻石",
+                "price": 98,
+                "iosid": "com.buyu.buyudzz.d980"
+            },
+            {
+                "tyid": "TY28D019810205",
+                "name": "2400钻石",
+                "price": 198,
+                "iosid": "com.buyu.buyudzz.d1980"
+            },
+            {
+                "tyid": "TY28D032810206",
+                "name": "4000钻石",
+                "price": 328,
+                "iosid": "com.buyu.buyudzz.d3280"
+            },
+            {
+                "tyid": "TY28D064810207",
+                "name": "8000钻石",
+                "price": 648,
+                "iosid": "com.buyu.buyudzz.d6480"
+            },
+            {
+                "tyid": "TY28_MEMBER",
+                "name": "30天会员",
+                "price": 28,
+                "iosid": "com.buyu.buyudzz.member0"
+            },
+            {
+                "tyid": "TY28D002810209",
+                "name": "超值钻石礼包",
+                "price": 28,
+                "iosid": "com.buyu.buyudzz.member0"
+            }
+        ]
+    },
+    {
+        "name": "com.tuyoo.fish.new",
+        "clientIds": [
+            "^IOS_3.*hall28.appStore.newhuanle$"
+        ],
+        "products": [
+            {
+                "tyid": "TY28C000610101",
+                "name": "60000金币",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.new.c6"
+            },
+            {
+                "tyid": "TY28C001210102",
+                "name": "140000金币",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.new.c12"
+            },
+            {
+                "tyid": "TY28C003010103",
+                "name": "360000金币",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.new.c30"
+            },
+            {
+                "tyid": "TY28C009810104",
+                "name": "1400000金币",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.new.c98"
+            },
+            {
+                "tyid": "TY28C019810105",
+                "name": "3000000金币",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.new.c198"
+            },
+            {
+                "tyid": "TY28C032810106",
+                "name": "5500000金币",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.new.c328"
+            },
+            {
+                "tyid": "TY28C064810107",
+                "name": "12000000金币",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.new.c648"
+            },
+            {
+                "tyid": "TY28D000610201",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.new.d6"
+            },
+            {
+                "tyid": "TY28D001210202",
+                "name": "120钻石",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.new.d12"
+            },
+            {
+                "tyid": "TY28D003010203",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.new.d30"
+            },
+            {
+                "tyid": "TY28D009810204",
+                "name": "1100钻石",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.new.d98"
+            },
+            {
+                "tyid": "TY28D019810205",
+                "name": "2400钻石",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.new.d198"
+            },
+            {
+                "tyid": "TY28D032810206",
+                "name": "4000钻石",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.new.d328"
+            },
+            {
+                "tyid": "TY28D064810207",
+                "name": "8000钻石",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.new.d648"
+            },
+            {
+                "tyid": "TY28_MEMBER",
+                "name": "30天会员",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.new.member"
+            },
+            {
+                "tyid": "TY28D002810209",
+                "name": "超值钻石礼包",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.new.member"
+            }
+        ]
+    },
+    {
+        "name": "com.tuyoo.fish.hunt",
+        "clientIds": [
+            "^IOS_3.*hall28.appStore.byhunt$"
+        ],
+        "products": [
+            {
+                "tyid": "TY28C000610101",
+                "name": "60000金币",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.hunt.c6"
+            },
+            {
+                "tyid": "TY28C001210102",
+                "name": "140000金币",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.hunt.c12"
+            },
+            {
+                "tyid": "TY28C003010103",
+                "name": "360000金币",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.hunt.c30"
+            },
+            {
+                "tyid": "TY28C009810104",
+                "name": "1400000金币",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.hunt.c98"
+            },
+            {
+                "tyid": "TY28C019810105",
+                "name": "3000000金币",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.hunt.c198"
+            },
+            {
+                "tyid": "TY28C032810106",
+                "name": "5500000金币",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.hunt.c328"
+            },
+            {
+                "tyid": "TY28C064810107",
+                "name": "12000000金币",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.hunt.c648"
+            },
+            {
+                "tyid": "TY28D000610201",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.hunt.d6"
+            },
+            {
+                "tyid": "TY28D001210202",
+                "name": "120钻石",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.hunt.d12"
+            },
+            {
+                "tyid": "TY28D003010203",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.hunt.d30"
+            },
+            {
+                "tyid": "TY28D009810204",
+                "name": "1100钻石",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.hunt.d98"
+            },
+            {
+                "tyid": "TY28D019810205",
+                "name": "2400钻石",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.hunt.d198"
+            },
+            {
+                "tyid": "TY28D032810206",
+                "name": "4000钻石",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.hunt.d328"
+            },
+            {
+                "tyid": "TY28D064810207",
+                "name": "8000钻石",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.hunt.d648"
+            },
+            {
+                "tyid": "TY28_MEMBER",
+                "name": "30天会员",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.hunt.member"
+            },
+            {
+                "tyid": "TY28D002810209",
+                "name": "超值钻石礼包",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.hunt.member"
+            }
+        ]
+    },
+    {
+        "name": "com.tuyoo.fish.dream",
+        "clientIds": [
+            "^IOS_3.*hall28.appStore.bydream$"
+        ],
+        "products": [
+            {
+                "tyid": "TY28C000610101",
+                "name": "60000金币",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.dream.c6"
+            },
+            {
+                "tyid": "TY28C001210102",
+                "name": "140000金币",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.dream.c12"
+            },
+            {
+                "tyid": "TY28C003010103",
+                "name": "360000金币",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.dream.c30"
+            },
+            {
+                "tyid": "TY28C009810104",
+                "name": "1400000金币",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.dream.c98"
+            },
+            {
+                "tyid": "TY28C019810105",
+                "name": "3000000金币",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.dream.c198"
+            },
+            {
+                "tyid": "TY28C032810106",
+                "name": "5500000金币",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.dream.c328"
+            },
+            {
+                "tyid": "TY28C064810107",
+                "name": "12000000金币",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.dream.c648"
+            },
+            {
+                "tyid": "TY28D000610201",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.dream.d6"
+            },
+            {
+                "tyid": "TY28D001210202",
+                "name": "120钻石",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.dream.d12"
+            },
+            {
+                "tyid": "TY28D003010203",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.dream.d30"
+            },
+            {
+                "tyid": "TY28D009810204",
+                "name": "1100钻石",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.dream.d98"
+            },
+            {
+                "tyid": "TY28D019810205",
+                "name": "2400钻石",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.dream.d198"
+            },
+            {
+                "tyid": "TY28D032810206",
+                "name": "4000钻石",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.dream.d328"
+            },
+            {
+                "tyid": "TY28D064810207",
+                "name": "8000钻石",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.dream.d648"
+            },
+            {
+                "tyid": "TY28_MEMBER",
+                "name": "30天会员",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.dream.member"
+            },
+            {
+                "tyid": "TY28D002810209",
+                "name": "超值钻石礼包",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.dream.member"
+            },
+            {
+                "tyid": "TY28P000610102",
+                "name": "冲点小钱",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.dream.d6"
+            }
+        ]
+    },
+    {
+        "name": "com.tuyoo.fish.zoo",
+        "clientIds": [
+            "^IOS_3.*hall28.appStore.byzoo$"
+        ],
+        "products": [
+            {
+                "tyid": "TY28C000610101",
+                "name": "60000金币",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.zoo.c6"
+            },
+            {
+                "tyid": "TY28C001210102",
+                "name": "140000金币",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.zoo.c12"
+            },
+            {
+                "tyid": "TY28C003010103",
+                "name": "360000金币",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.zoo.c30"
+            },
+            {
+                "tyid": "TY28C009810104",
+                "name": "1400000金币",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.zoo.c98"
+            },
+            {
+                "tyid": "TY28C019810105",
+                "name": "3000000金币",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.zoo.c198"
+            },
+            {
+                "tyid": "TY28C032810106",
+                "name": "5500000金币",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.zoo.c328"
+            },
+            {
+                "tyid": "TY28C064810107",
+                "name": "12000000金币",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.zoo.c648"
+            },
+            {
+                "tyid": "TY28D000610201",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.zoo.d6"
+            },
+            {
+                "tyid": "TY28D001210202",
+                "name": "120钻石",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.zoo.d12"
+            },
+            {
+                "tyid": "TY28D003010203",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.zoo.d30"
+            },
+            {
+                "tyid": "TY28D009810204",
+                "name": "1100钻石",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.zoo.d98"
+            },
+            {
+                "tyid": "TY28D019810205",
+                "name": "2400钻石",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.zoo.d198"
+            },
+            {
+                "tyid": "TY28D032810206",
+                "name": "4000钻石",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.zoo.d328"
+            },
+            {
+                "tyid": "TY28D064810207",
+                "name": "8000钻石",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.zoo.d648"
+            },
+            {
+                "tyid": "TY28_MEMBER",
+                "name": "30天会员",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.zoo.member"
+            },
+            {
+                "tyid": "TY28D002810209",
+                "name": "超值钻石礼包",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.zoo.member"
+            }
+        ]
+    },
+    {
+        "name": "com.tuyoo.fish.proficient",
+        "clientIds": [
+            "^IOS_3.*hall28.appStore.byproficient$"
+        ],
+        "products": [
+            {
+                "tyid": "TY28C000610101",
+                "name": "60000金币",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.proficient.c6"
+            },
+            {
+                "tyid": "TY28C001210102",
+                "name": "140000金币",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.proficient.c12"
+            },
+            {
+                "tyid": "TY28C003010103",
+                "name": "360000金币",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.proficient.c30"
+            },
+            {
+                "tyid": "TY28C009810104",
+                "name": "1400000金币",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.proficient.c98"
+            },
+            {
+                "tyid": "TY28C019810105",
+                "name": "3000000金币",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.proficient.c198"
+            },
+            {
+                "tyid": "TY28C032810106",
+                "name": "5500000金币",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.proficient.c328"
+            },
+            {
+                "tyid": "TY28C064810107",
+                "name": "12000000金币",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.proficient.c648"
+            },
+            {
+                "tyid": "TY28D000610201",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.proficient.d6"
+            },
+            {
+                "tyid": "TY28D001210202",
+                "name": "120钻石",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.proficient.d12"
+            },
+            {
+                "tyid": "TY28D003010203",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.proficient.d30"
+            },
+            {
+                "tyid": "TY28D009810204",
+                "name": "1100钻石",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.proficient.d98"
+            },
+            {
+                "tyid": "TY28D019810205",
+                "name": "2400钻石",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.proficient.d198"
+            },
+            {
+                "tyid": "TY28D032810206",
+                "name": "4000钻石",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.proficient.d328"
+            },
+            {
+                "tyid": "TY28D064810207",
+                "name": "8000钻石",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.proficient.d648"
+            },
+            {
+                "tyid": "TY28_MEMBER",
+                "name": "30天会员",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.proficient.member"
+            },
+            {
+                "tyid": "TY28D002810209",
+                "name": "超值钻石礼包",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.proficient.member"
+            }
+        ]
+    },
+    {
+        "name": "com.tuyoo.fish.allpeople",
+        "clientIds": [
+            "^IOS_3.*hall28.appStore.byallpeople$"
+        ],
+        "products": [
+            {
+                "tyid": "TY28C000610101",
+                "name": "60000金币",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.allpeople.c6"
+            },
+            {
+                "tyid": "TY28C001210102",
+                "name": "140000金币",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.allpeople.c12"
+            },
+            {
+                "tyid": "TY28C003010103",
+                "name": "360000金币",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.allpeople.c30"
+            },
+            {
+                "tyid": "TY28C009810104",
+                "name": "1400000金币",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.allpeople.c98"
+            },
+            {
+                "tyid": "TY28C019810105",
+                "name": "3000000金币",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.allpeople.c198"
+            },
+            {
+                "tyid": "TY28C032810106",
+                "name": "5500000金币",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.allpeople.c328"
+            },
+            {
+                "tyid": "TY28C064810107",
+                "name": "12000000金币",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.allpeople.c648"
+            },
+            {
+                "tyid": "TY28D000610201",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.allpeople.d6"
+            },
+            {
+                "tyid": "TY28D001210202",
+                "name": "120钻石",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.allpeople.d12"
+            },
+            {
+                "tyid": "TY28D003010203",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.allpeople.d30"
+            },
+            {
+                "tyid": "TY28D009810204",
+                "name": "1100钻石",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.allpeople.d98"
+            },
+            {
+                "tyid": "TY28D019810205",
+                "name": "2400钻石",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.allpeople.d198"
+            },
+            {
+                "tyid": "TY28D032810206",
+                "name": "4000钻石",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.allpeople.d328"
+            },
+            {
+                "tyid": "TY28D064810207",
+                "name": "8000钻石",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.allpeople.d648"
+            },
+            {
+                "tyid": "TY28_MEMBER",
+                "name": "30天会员",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.allpeople.member"
+            },
+            {
+                "tyid": "TY28D002810209",
+                "name": "超值钻石礼包",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.allpeople.member"
+            }
+        ]
+    },
+    {
+        "name": "com.tuyoo.fish.everyday",
+        "clientIds": [
+            "^IOS_3.*hall28.appStore.byeveryday$"
+        ],
+        "products": [
+            {
+                "tyid": "TY28C000610101",
+                "name": "60000金币",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.everyday.c6"
+            },
+            {
+                "tyid": "TY28C001210102",
+                "name": "140000金币",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.everyday.c12"
+            },
+            {
+                "tyid": "TY28C003010103",
+                "name": "360000金币",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.everyday.c30"
+            },
+            {
+                "tyid": "TY28C009810104",
+                "name": "1400000金币",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.everyday.c98"
+            },
+            {
+                "tyid": "TY28C019810105",
+                "name": "3000000金币",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.everyday.c198"
+            },
+            {
+                "tyid": "TY28C032810106",
+                "name": "5500000金币",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.everyday.c328"
+            },
+            {
+                "tyid": "TY28C064810107",
+                "name": "12000000金币",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.everyday.c648"
+            },
+            {
+                "tyid": "TY28D000610201",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "com.tuyoo.fish.everyday.d6"
+            },
+            {
+                "tyid": "TY28D001210202",
+                "name": "120钻石",
+                "price": 12,
+                "iosid": "com.tuyoo.fish.everyday.d12"
+            },
+            {
+                "tyid": "TY28D003010203",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "com.tuyoo.fish.everyday.d30"
+            },
+            {
+                "tyid": "TY28D009810204",
+                "name": "1100钻石",
+                "price": 98,
+                "iosid": "com.tuyoo.fish.everyday.d98"
+            },
+            {
+                "tyid": "TY28D019810205",
+                "name": "2400钻石",
+                "price": 198,
+                "iosid": "com.tuyoo.fish.everyday.d198"
+            },
+            {
+                "tyid": "TY28D032810206",
+                "name": "4000钻石",
+                "price": 328,
+                "iosid": "com.tuyoo.fish.everyday.d328"
+            },
+            {
+                "tyid": "TY28D064810207",
+                "name": "8000钻石",
+                "price": 648,
+                "iosid": "com.tuyoo.fish.everyday.d648"
+            },
+            {
+                "tyid": "TY28_MEMBER",
+                "name": "30天会员",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.everyday.member"
+            },
+            {
+                "tyid": "TY28D002810209",
+                "name": "超值钻石礼包",
+                "price": 28,
+                "iosid": "com.tuyoo.fish.everyday.member"
+            }
+        ]
+    }
+]

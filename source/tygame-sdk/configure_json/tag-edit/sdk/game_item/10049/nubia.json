@@ -1,0 +1,24 @@
+{
+    "com.sdk.test.nubia":{
+        "nubia":{
+            "name":"nubia",
+            "nubia_appId":"455117",
+            "nubia_appKey":"83283962090F7F7D58C7A0107A94EAB2",
+            "secret":"3D6589168AC18545C3706638ADE8DAC5"
+        },
+        "tuyoosdk":{
+            "name":"tuyoosdk",
+            "LoginSDK":"nubia",
+            "PaySDKs":"nubia",
+            "defaultSDKs":"tyOneKey,tyAccount,tyCard,weixinWap,alipayweb",
+            "force_login":"nubia",
+            "version":"1.0"
+        },
+        "game":{
+            "package":"com.sdk.test.nubia",
+            "tuyoo_appId":"10049",
+            "name":"game",
+            "app_name":"\u6c38\u6052"
+        }
+    }
+}

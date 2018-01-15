@@ -1,0 +1,16 @@
+{
+    "com.tuyoo.scmahjong.leshi":{
+        "game":{
+            "package":"com.tuyoo.scmahjong.leshi",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u56db\u5ddd\u9ebb\u5c06"
+        },
+        "letv":{
+            "name":"letv",
+            "letv_appId":"256913",
+            "letv_appKey":"e1ab89d6087d49e0abc70073698c9de8",
+            "scrkey":"f2574dfcb1604cb0b74d21e4e551677d"
+        }
+    }
+}

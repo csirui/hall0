@@ -1,0 +1,15 @@
+{
+    "com.tuyoo.fish.mz":{
+        "game":{
+            "package":"com.tuyoo.fish.mz",
+            "tuyoo_appId":"10063",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6355\u9c7c"
+        },
+        "meizu":{
+            "mz_appId":"3148847",
+            "mz_appKey":"07e7848f47f34a2d88a69ff212dd1b41",
+            "mz_appSecret":"U0ezoOL5UdaGEmpZG434tAaRzsAYf5La"
+        }
+    }
+}

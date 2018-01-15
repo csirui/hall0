@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport"
+	content="initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width">
+<link rel="stylesheet" href="tester.css">
+<script src="../js/common.jquery.min.js"></script>
+<script src="../js/mobi.common.old.js"></script>
+<script src="../js/mobi.message.js"></script>
+<script src="NativeJava.js"></script>
+<script src="tester_base.js"></script>
+<script src="test.pay.callback.js"></script>
+<script src="tester.js"></script>
+<script src="tester.josn.js"></script>
+</head>
+<body>
+	<div id="outer">
+		<iframe id="mscreen" frameborder="0"></iframe>
+		<img id="mscreen_close" src="but_close.png" onclick="closeMe()" />
+		<iframe id="mdialog" frameborder="0"></iframe>
+		<img id="mdialog_close" src="but_close.png" onclick="closeMe()" />
+		<div id="logger"></div>
+		<table id="actions" border="1" cellpadding="0" cellspacing="0">
+			<tr>
+				<td>width:</td>
+				<td><input id="mwidth" value="640" size="10" /></td>
+				<td>height:</td>
+				<td><input id="mheight" value="360" size="10" /></td>
+			</tr>
+			<tr>
+				<td>gameId:</td>
+				<td><input id="mgameid" value="6" size="10" /></td>
+				<td>userId:</td>
+				<td><input id="muserid" value="" size="10" readonly="readonly" /></td>
+			</tr>
+			<tr>
+				<td>clientId:</td>
+				<td><input id="mclientid" value="Android_2.04_360" size="10" /></td> <!--Android_1.65_360-->
+				<td>deviceId:</td>
+				<td><input id="mdeviceid" size="10" style="width: 95%"
+					value="SzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzE" /></td>
+			</tr>
+			<tr>
+				<td colspan="4" style="background-color: #0ff"><button
+						onclick="setScreenSize()">重置屏幕</button>
+					<button onclick="clearLog()">清空LOG</button></td>
+			</tr>
+			<tr>
+				<td colspan="4" style="background-color: #f0f">
+					<button onclick="showPage(901)">登陆注册</button>
+					<button onclick="showPage(902)">支付</button>
+					<button onclick="showManager()">系统管理</button>
+					<button onclick="doPayCallBack('xiaomi')">小米回调</button>
+					<button onclick="doPayCallBack('360')">360回调</button>
+					<button onclick="doPayCallBack('ali')">支付宝回调</button> <br>
+					<button onclick="doPayCallBack('msg.dx')">电信回调</button>
+					<button onclick="doPayCallBack('msg.yd')">移动回调</button>
+					<button onclick="doPayCallBack('ios')">苹果回调</button>
+					<button onclick="doPayCallBack('lenovo')">联想回调</button>
+					<button onclick="doPayCallBack('wandoujia')">豌豆夹回调</button>
+				</td>
+			</tr>
+		</table>
+	</div>
+</body>
+</html>

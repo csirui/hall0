@@ -1,0 +1,20 @@
+{
+    "com.tencent.tmgp.tuyoo.yh02":{
+        "game":{
+            "package":"com.tencent.tmgp.tuyoo.yh02",
+            "tuyoo_appId":"10041",
+            "name":"game",
+            "app_name":"\u6c38\u6052"
+        },
+        "midashi":{
+            "name":"midashi",
+            "midas_offerId":"",
+            "midas_MSDKKEY":"",
+            "midas_wxId":"wx7b5d3c6e9a95a8d3",
+            "midas_wxKey":"0212d27bdc698d3b52cb3f85297592a6",
+            "midas_qqId":"1105265908",
+            "midas_qqKey":"85A4ZYORW8mLrb5j",
+            "midas_appKey":""
+        }
+    }
+}

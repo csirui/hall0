@@ -1,0 +1,25 @@
+{
+    "com.buyu.newdwby.zy":{
+        "tuyoosdk":{
+            "LoginSDK":"zhangyue",
+            "PaySDKs":"zhangyue",
+            "defaultSDKs":"weixinWap,alipayweb,tySdkSkins_dwby",
+            "force_login":"zhangyue",
+            "ThirdExitSDKName":"",
+            "protocol_url":""
+        },
+        "game":{
+            "package":"com.buyu.newdwby.zy",
+            "tuyoo_appId":"10071",
+            "name":"game",
+            "app_name":"\u7535\u73a9\u6355\u9c7c"
+        },
+        "zhangyue":{
+            "zhangyue_appId":"e2344a538d765fc5792b",
+            "zhangyue_merId":"08ABB741716D",
+            "zhangyue_md5_key":"eded69385",
+            "zhangyue_rsa_key":"-----BEGIN RSA PRIVATE KEY-----\nMIICXAIBAAKBgQCaj3KFDPNa/HrSqj81RWYKq4EwMWIZDNWLZyzRmcHXyHZ/POOA\nsHJpFsVvTiAifLnuXXfU1SnnfY7tbnSDQ/Do+RJfgWFUj57+RD+O5EZuqg1nGpkc\nqVEYR851hgoe6ezNbbsjlLEZ7m8s14iGHaZP1LQPhZJ0rps8/igR88XybQIDAQAB\nAoGBAIalcumv940LKOC/iaMZ2yRudnQKgWA7SwlPj77lSPZ336tG2xawIGumd8dY\ncyw4Ji4e5RbXwNK3Ej2LnRsBpCumAOOq7A4KXf9l3nTUDZsqH1q9RpCKZbXGZU+i\n48+nStckO4/oXbmRle0CH9AO7FdNrUqNFAm+HErUpjmhSZGBAkEAuib5SV40JjwW\nnToWikDNIOgo0Q+0cvhOx2ec4rUGFgkNGkM4xcdXkz4yP5ulEmN06J5lKmj5eOGb\nWRgxoUvPoQJBANSN4mERcsnIBKaGOPghuw8y3I/iK+LK4ABZi/wRKKalD0vfvv3l\nrwG54QfLlKqM41V9Yb3xyG5ex1Y4nIFUH00CQCwvfBSSK8a3lJaVZyxB3W7mLGoT\nVD3F+s0SJwcY+OzaESYetqcbfgoRRVQb2b7XpLRihJjgefbbdkhbmcwzdoECQHyP\noWiNFx3Uz5Te96fB7KNdhQ/01Q8VIOxTjctsKsxt0mb+eijEXyi9y3gL/9Vqtxa0\nYYE0nebAOET47A6GQ8kCQBtICjHg0NZdMGBjrUZO+4aQptwVnjhHHkTssgAs/x/u\nnw4Mngvh216QFg2gwgSThZiBFld+zqS4BDAoZoGvhAc=\n-----END RSA PRIVATE KEY-----",
+            "zhangyue_privateKey":"MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAJqPcoUM81r8etKqPzVFZgqrgTAxYhkM1YtnLNGZwdfIdn8844CwcmkWxW9OICJ8ue5dd9TVKed9ju1udIND8Oj5El+BYVSPnv5EP47kRm6qDWcamRypURhHznWGCh7p7M1tuyOUsRnubyzXiIYdpk/UtA+FknSumzz+KBHzxfJtAgMBAAECgYEAhqVy6a/3jQso4L+JoxnbJG52dAqBYDtLCU+PvuVI9nffq0bbFrAga6Z3x1hzLDgmLh7lFtfA0rcSPYudGwGkK6YA46rsDgpd/2XedNQNmyofWr1GkIpltcZlT6Ljz6dK1yQ7j+hduZGV7QIf0A7sV02tSo0UCb4cStSmOaFJkYECQQC6JvlJXjQmPBadOhaKQM0g6CjRD7Ry+E7HZ5zitQYWCQ0aQzjFx1eTPjI/m6USY3TonmUqaPl44ZtZGDGhS8+hAkEA1I3iYRFyycgEpoY4+CG7DzLcj+Ir4srgAFmL/BEopqUPS9++/eWvAbnhB8uUqozjVX1hvfHIbl7HVjicgVQfTQJALC98FJIrxreUlpVnLEHdbuYsahNUPcX6zRInBxj47NoRJh62pxt+ChFFVBvZvtektGKEmOB59tt2SFuZzDN2gQJAfI+haI0XHdTPlN73p8Hso12FD/TVDxUg7FONy2wqzG3SZv56KMRfKL3LeAv/1Wq3FrRhgTSd5sA4RPjsDoZDyQJAG0gKMeDQ1l0wYGOtRk77hpCm3BWeOEceROyyACz/H+6fDgyeC+HbXpAWDaDCBJOFmIEWV37OpLgEMChmga+EBw=="
+        }
+    }
+}

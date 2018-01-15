@@ -1,0 +1,18 @@
+{
+    "com.tencent.tmgp.tuyoo.yh.huawei":{
+        "huawei":{
+            "huaWei_appId":"10486033",
+            "huaWei_appKey":"7n9jef8p36gjjp1ncukst0ci7tf7br0r",
+            "huaWei_payId":"900086000020107980",
+            "huaWei_privateKey":"MIIBVwIBADANBgkqhkiG9w0BAQEFAASCAUEwggE9AgEAAkEAtqON4CobzFsRb10tJ0suE3R2GAWbh5ZgdjHAKSL8Vdz24O6rfWVwSeV5FAQRb+ZX8//kwvbvWSM/4k+Wy8Tz6wIDAQABAkEAo2g6K/IA5Rolw0nOeHWfR/DPKDb8LJeyvo1MrIGM2xRRMI97FvQVUNOrYgNvZyVJGkOMD6atqnuj3A3wBQWhgQIhANiY9LkJ/Px6blln3sZmIWRbCKZ1TF/p8BGotpDg9CFRAiEA190hc5EMJ9tfCleKEd5IIzkR5nbwPA7G+53ZTnu9UnsCIQCoXxZ1tQb9OSsIww7RCVlRytZJl4s8T/03rP/mVYhRUQIhAJdRryJpGmFSOWRxixsNe/odBnxNAgjHvxshQvTubv/DAiEApTdN5GR9+culN9SGX+h65UJ45xmWgM3nmzXEXBITsjk=",
+            "huaWei_publicKey":"-----BEGIN PUBLIC KEY-----\nMFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALajjeAqG8xbEW9dLSdLLhN0dhgFm4eWYH\nYxwCki/FXc9uDuq31lcEnleRQEEW/mV/P/5ML271kjP+JPlsvE8+sCAwEAAQ==\n-----END PUBLIC KEY-----",
+            "name":"huawei"
+        },
+        "game":{
+            "package":"com.tencent.tmgp.tuyoo.yh.huawei",
+            "tuyoo_appId":"10049",
+            "name":"game",
+            "app_name":"\u6c38\u6052"
+        }
+    }
+}

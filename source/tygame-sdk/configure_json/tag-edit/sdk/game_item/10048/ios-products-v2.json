@@ -1,0 +1,50 @@
+[
+    {
+        "name": "10048",
+        "clientIds": [
+            "IOS_3.762_tyGuest,tyAccount,weixin.weixin,appStore.0-hall10048.tuyoo.yh1",
+            "IOS_3.762_tyGuest,tyAccount,weixin.weixin,appStore.0-hall10048.tuyoo.yh2",
+            "IOS_3.762_tyGuest,tyAccount,weixin.weixin,appStore.0-hall10048.tuyoo.tuyoo",
+            "IOS_3.762_tyGuest,tyAccount,weixin.weixin,appStore.0-hall10048.tuyoo.yh3",
+            "IOS_3.762_tyGuest,tyAccount,weixin.weixin,appStore.0-hall10048.tuyoo.yh4"
+        ],
+        "products": [
+            {
+                "tyid": "yhzs006",
+                "name": "60钻石",
+                "price": 60,
+                "iosid": "yhzs006"
+            },
+            {
+                "tyid": "030yhzs",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "030yhzs"
+            },
+            {
+                "tyid": "yhzs068",
+                "name": "680钻石",
+                "price": 680,
+                "iosid": "yhzs068"
+            },
+            {
+                "tyid": "128yhzs",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "128yhzs"
+            },
+            {
+                "tyid": "yhzs328",
+                "name": "3280钻石",
+                "price": 3280,
+                "iosid": "yhzs328"
+            },
+            {
+                "tyid": "yhzs648",
+                "name": "6480钻石",
+                "price": 6480,
+                "iosid": "yhzs648"
+            }
+        ]
+    }
+]

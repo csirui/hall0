@@ -1,0 +1,29 @@
+{
+    "com.tuyoo.djdoudizhu.vivo":{
+        "game":{
+            "package":"com.tuyoo.djdoudizhu.vivo",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6597\u5730\u4e3b"
+        },
+        "vivo":{
+            "vivo_appId":"71532d03613e7bc1f9098cf4e7cc597b",
+            "vivo_cpid":"20141031202336653475",
+            "vivo_cpkey":"074f40824807c7b5050c7831d7cb54ad",
+            "name":"vivo"
+        }
+    },
+    "com.tuyoo.gomoku.vivo":{
+        "game":{
+            "package":"com.tuyoo.gomoku.vivo",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u4e94\u5b50\u68cb"
+        },
+        "vivo":{
+            "vivo_appId":"a8ba01bae9d1235fd3f3e86c188e131",
+            "vivo_cpid":"20141031202336653475",
+            "vivo_cpkey":"074f40824807c7b5050c7831d7cb54ad"
+        }
+    }
+}

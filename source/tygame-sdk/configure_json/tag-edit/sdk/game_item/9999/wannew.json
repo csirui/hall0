@@ -1,0 +1,15 @@
+{
+    "com.doudizhu.mainday":{
+        "game":{
+            "package":"com.doudizhu.mainday",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u5929\u5929\u6597\u5730\u4e3b"
+        },
+        "wannew":{
+            "wannew_appID":"100035968",
+            "wannew_secretKey":"8baf6cbd68ace4b6b95539a58adf28d2",
+            "name":"wannew"
+        }
+    }
+}

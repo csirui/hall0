@@ -1,0 +1,108 @@
+#! encoding=utf-8
+from tysdk.configure.game_item import GameItemConfigure
+from tysdk.entity.user3.account_login import AccountLogin
+
+__author__ = 'yuejianqiang'
+
+from tyframework.context import TyContext
+from payv4_helper import PayHelperV4
+import hashlib
+import base64
+import json
+
+from tysdk.entity.pay4.decorator.payv4_callback import payv4_callback
+from tysdk.entity.pay4.payment.payv4_base import PayBaseV4
+from tysdk.entity.pay4.payment.payv4_error import PayErrorV4
+from tysdk.entity.pay4.decorator.payv4_order import payv4_order
+
+
+class TuYouPayMumayiV4(PayBaseV4):
+    @payv4_order('mumayi')
+    def charge_data(cls, mi):
+        chargeinfo = cls.get_charge_info(mi)
+        chargeinfo['chargeData'] = {'platformOrderId': chargeinfo['platformOrderId'], }
+        mumayi_keys = TyContext.Configure.get_global_item_json('mumayi_keys', {})
+        packageName = chargeinfo['packageName']
+        try:
+            appKey = mumayi_keys[packageName]
+        except:
+            config = GameItemConfigure(chargeinfo['appId']).get_game_channel_configure_by_package('mumayi', chargeinfo[
+                'packageName'],
+                                                                                                  chargeinfo[
+                                                                                                      'mainChannel'])
+            appKey = config.get('mumayi_appKey', "")
+            if not appKey:
+                raise PayErrorV4(1, "找不到木螞蟻的配置")
+        userId = chargeinfo['uid']
+        chargeKey = 'sdk.charge:mumayi:%s' % userId
+        TyContext.RedisPayData.execute('HMSET', chargeKey, 'platformOrderId', chargeinfo['platformOrderId'], 'appKey',
+                                       appKey)
+        TyContext.RedisPayData.execute('EXPIRE', chargeKey, 60 * 60)
+        return cls.return_mo(0, chargeInfo=chargeinfo)
+
+    @payv4_callback('/open/ve/pay/mumayi/callback')
+    def doCallback(cls, rpath):
+        postData = TyContext.RunHttp.get_body_content()
+        TyContext.ftlog.debug('TuYouPayMumayi->doCallback, postData=', postData)
+        try:
+            rparams = json.loads(postData)
+        except:
+            TyContext.ftlog.error('TuYouPayMumayi->callback, json error !! postData=', postData)
+            return 'error'
+        # orderPlatformId = rparams['orderID']
+        uid = rparams['uid']
+        userId = AccountLogin.__find_userid_by_snsid__('mumayi:%s' % uid)
+        chargeKey = 'sdk.charge:mumayi:%s' % userId
+        platformOrderId, appKey = TyContext.RedisPayData.execute('HMGET', chargeKey, 'platformOrderId', 'appKey')
+        TyContext.ftlog.debug('TuYouPayMumayi->get order info:',
+                              'userId=%s platformOrderId=%s appKey=%s' % (userId, platformOrderId, appKey))
+        # payType = rparams['payType']
+        # productName = rparams['productName']
+        # productPrice = rparams['productPrice']
+        # productDesc = rparams['productDesc']
+        # orderTime = rparams['orderTime']
+        # tradeSign = rparams['tradeSign']
+        # tradeState = rparams['tradeState']
+        if not cls.check_pay(rparams, appKey):
+            TyContext.ftlog.error('doIDOCallback->ERROR, sign error !! rparam=', rparams)
+            return 'error'
+        # do charge
+        # from tysdk.entity.pay.pay import TuyouPay
+        # trade_status = rparams['status']
+        isOk = PayHelperV4.callback_ok(platformOrderId, -1, rparams)
+        if isOk:
+            return 'success'
+        else:
+            return 'error'
+
+    @classmethod
+    def check_pay(cls, data, appKey):
+        sign = data.get("tradeSign")
+        orderID = data.get("orderID")
+        if sign < 14:
+            return False
+        vstr = sign[0:8]
+        dvstr = sign[8:]
+        mds = hashlib.md5(dvstr).hexdigest()
+        if vstr != mds[0:8]:
+            return False
+
+        key_b = dvstr[0:6]
+        randkey = "%s%s" % (key_b, appKey)
+        randkey = hashlib.md5(randkey).hexdigest()
+        dv = cls._check_b64(dvstr[6:])
+        dvlen = len(dv)
+        st = ""
+        for i in range(dvlen):
+            st += chr(ord(dv[i]) ^ ord(randkey[i % 32]))
+        if st == orderID:
+            return True
+        return False
+
+    @classmethod
+    def _check_b64(cls, strg):
+        missing_padding = 4 - len(strg) % 4
+        if missing_padding:
+            strg += b'=' * missing_padding
+        result = base64.b64decode(strg)
+        return result

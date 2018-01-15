@@ -1,0 +1,102 @@
+[
+    {
+        "identifier": "Android_3.784_midanji,tyGuest.midanji.0-hall28.midanji.bydzz",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "快速开始",
+                "name": "tyGuest"
+            },
+            {
+                "force": false,
+                "label": "小米",
+                "name": "midanji"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.784_360,tyGuest.360.0-hall28.360.bydzz",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "360账号登录",
+                "name": "360"
+            },
+            {
+                "force": false,
+                "label": "快速开始",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.785_360,tyGuest.360.0-hall28.360.bydzz",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "360 账号登陆",
+                "name": "360"
+            },
+            {
+                "force": false,
+                "label": "快速开始",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.785_midanji,tyGuest.midanji.0-hall28.midanji.bydzz",
+        "tips": "",
+        "local": true,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "小米账号登陆",
+                "name": "midanji"
+            },
+            {
+                "force": false,
+                "label": "快速开始",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.785_360dj,tyGuest.360dj.0-hall28.360.bydzz",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "360账号登陆",
+                "name": "360dj"
+            },
+            {
+                "force": false,
+                "label": "快速开始",
+                "name": "tyGuest"
+            }
+        ]
+    }
+]

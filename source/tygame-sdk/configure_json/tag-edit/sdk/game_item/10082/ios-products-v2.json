@@ -1,0 +1,47 @@
+[
+    {
+        "name": "仙侠传说",
+        "clientIds": [
+            "IOS_1.0_tuyoo,weixin.weixinPay,appStore,alipay.0-hall10082.appStore.tuyoo",
+            "^IOS_1.*$"
+        ],
+        "products": [
+            {
+                "tyid": "appBuyItem_JXCS_1",
+                "name": "60元宝购买",
+                "price": 6,
+                "iosid": "appBuyItem_JXCS_1"
+            },
+            {
+                "tyid": "appBuyItem_JXCS_2",
+                "name": "300元宝购买",
+                "price": 30,
+                "iosid": "appBuyItem_JXCS_2"
+            },
+            {
+                "tyid": "appBuyItem_JXCS_3",
+                "name": "980元宝购买",
+                "price": 98,
+                "iosid": "appBuyItem_JXCS_3"
+            },
+            {
+                "tyid": "appBuyItem_JXCS_4",
+                "name": "1980元宝购买",
+                "price": 198,
+                "iosid": "appBuyItem_JXCS_4"
+            },
+            {
+                "tyid": "appBuyItem_JXCS_5",
+                "name": "3280元宝购买",
+                "price": 328,
+                "iosid": "appBuyItem_JXCS_5"
+            },
+            {
+                "tyid": "appBuyItem_JXCS_6",
+                "name": "6480元宝购买",
+                "price": 648,
+                "iosid": "appBuyItem_JXCS_6"
+            }
+        ]
+    }
+]

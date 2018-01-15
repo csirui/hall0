@@ -1,0 +1,63 @@
+
+
+[ 
+	{
+        "id": "test_1",
+        "name": "测试道具",
+        "desc": "",
+        "price": 0.1,
+        "diamondPrice": 1,
+        "is_diamond": 0
+    },
+    	{
+        "id": "10061006",
+        "name": "113万超级豆",
+        "desc": "",
+        "price": 108,
+        "diamondPrice": 1080,
+        "is_diamond": 0
+    },	{
+        "id": "10061007",
+        "name": "217万超级豆",
+        "desc": "",
+        "price": 208,
+        "diamondPrice": 2080,
+        "is_diamond": 0
+    },{
+        "id": "10061008",
+        "name": "300万超级豆",
+        "desc": "",
+        "price": 288,
+        "diamondPrice": 2880,
+        "is_diamond": 0
+    },{
+        "id": "10061004",
+        "name": "312000超级豆",
+        "desc": "",
+        "price": 30,
+        "diamondPrice": 300,
+        "is_diamond": 0
+    },{
+        "id": "10061005",
+        "name": "52万超级豆",
+        "desc": "",
+        "price": 50,
+        "diamondPrice": 500,
+        "is_diamond": 0
+    },{
+        "id": "10061002",
+        "name": "60000超级豆",
+        "desc": "",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0
+    },{
+        "id": "10061009",
+        "name": "612万超级豆",
+        "desc": "",
+        "price": 588,
+        "diamondPrice": 5880,
+        "is_diamond": 0
+    }
+
+]

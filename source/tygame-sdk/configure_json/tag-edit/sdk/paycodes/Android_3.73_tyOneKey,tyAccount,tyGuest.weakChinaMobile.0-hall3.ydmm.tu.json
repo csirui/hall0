@@ -1,0 +1,19 @@
+{
+        "ydmm": {
+        "appid": "300008864914",
+        "appkey": "3AD7B7032EABA814D10D659B9FC76D85",
+        "paydata": [
+            {"prodid": "TY9999R0000101", "msgOrderCode": "30000886491401" },
+            {"prodid": "TY9999D0001003", "msgOrderCode": "30000886491402" },
+            {"prodid": "TY9999D0002001", "msgOrderCode": "30000886491407" },
+            {"prodid": "TY9999D0005003", "msgOrderCode": "30000886491408" },
+            {"prodid": "TY9999D0006016", "msgOrderCode": "30000886491403" },
+            {"prodid": "TY9999D0008027", "msgOrderCode": "30000886491409" },
+	    {"prodid": "TY9999D0008001", "msgOrderCode": "30000886491410" },
+	    {"prodid": "TY9999D0008025", "msgOrderCode": "30000886491411" },
+	    {"prodid": "TY9999D0008026", "msgOrderCode": "30000886491412" },
+	    {"prodid": "TY9999R0008005", "msgOrderCode": "30000886491404" },
+            {"prodid": "TY9999D0010001", "msgOrderCode": "30000886491413" }
+           ]
+    }
+}

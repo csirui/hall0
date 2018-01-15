@@ -1,0 +1,52 @@
+[
+    {
+        "name": "10065",
+        "clientIds": [
+            "^IOS_1.*$"
+        ],
+        "products": [
+            {
+                "tyid": "test_1",
+                "name": "测试",
+                "price": 1,
+                "iosid": "test_1"
+            },
+            {
+                "tyid": "appBuyItem_yjmt_006",
+                "name": "60元宝购买",
+                "price": 60,
+                "iosid": "appBuyItem_yjmt_006"
+            },
+            {
+                "tyid": "appBuyItem_yjmt_030",
+                "name": "300元宝购买",
+                "price": 300,
+                "iosid": "appBuyItem_yjmt_030"
+            },
+            {
+                "tyid": "appBuyItem_yjmt_098",
+                "name": "980元宝购买",
+                "price": 980,
+                "iosid": "appBuyItem_yjmt_098"
+            },
+            {
+                "tyid": "appBuyItem_yjmt_198",
+                "name": "1980元宝购买",
+                "price": 1980,
+                "iosid": "appBuyItem_yjmt_198"
+            },
+            {
+                "tyid": "appBuyItem_yjmt_328",
+                "name": "3280元宝购买",
+                "price": 3280,
+                "iosid": "appBuyItem_yjmt_328"
+            },
+            {
+                "tyid": "appBuyItem_yjmt_648",
+                "name": "6480元宝购买",
+                "price": 6480,
+                "iosid": "appBuyItem_yjmt_648"
+            }
+        ]
+    }
+]

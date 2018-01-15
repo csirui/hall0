@@ -1,0 +1,38 @@
+{"callback_ip": "58.215.184.145", "createorder_url": "http://rdo.lianluo.com/rdo_mo.php", "paycode_config": {
+    "10": {
+        "channelid": "00530",
+        "feecode": "23000010",
+        "oid": "110106",
+        "port": "10658421018"
+    },
+    "2": {
+        "channelid": "00528",
+        "feecode": "23000002",
+        "oid": "110106",
+        "port": "10658421018"
+    },
+    "30": {
+        "channelid": "00531",
+        "feecode": "23000013",
+        "oid": "110106",
+        "port": "10658421018"
+    },
+    "5": {
+        "channelid": "00536",
+        "feecode": "23000005",
+        "oid": "110106",
+        "port": "10658421018"
+    },
+    "6": {
+        "channelid": "00529",
+        "feecode": "23000006",
+        "oid": "110106",
+        "port": "10658421018"
+    },
+    "8": {
+        "channelid": "00533",
+        "feecode": "23000008",
+        "oid": "110106",
+        "port": "10658421018"
+    }
+}}

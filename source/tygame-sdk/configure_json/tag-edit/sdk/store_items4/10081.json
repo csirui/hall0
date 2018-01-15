@@ -1,0 +1,72 @@
+[
+    {
+        "id": "test_1",
+        "name": "测试道具",
+        "desc": "",
+        "price": 0.1,
+        "diamondPrice": 1,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "appBuyItem_yjmt_006",
+        "name": "60元宝购买",
+        "desc": "6元购买60元宝",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "appBuyItem_yjmt_030",
+        "name": "300元宝购买",
+        "desc": "30元购买30元宝",
+        "price": 30,
+        "diamondPrice": 300,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "appBuyItem_yjmt_098",
+        "name": "980元宝购买",
+        "desc": "98元购买980元宝",
+        "price": 98,
+        "diamondPrice": 980,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "appBuyItem_yjmt_198",
+        "name": "1980元宝购买",
+        "desc": "198元购买1980元宝",
+        "price": 198,
+        "diamondPrice": 1980,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "appBuyItem_yjmt_328",
+        "name": "3280元宝购买",
+        "desc": "328元购买3280元宝",
+        "price": 328,
+        "diamondPrice": 3280,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "appBuyItem_yjmt_648",
+        "name": "6480元宝购买",
+        "desc": "648元购买6480元宝",
+        "price": 648,
+        "diamondPrice": 6480,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "currency": "CNY"
+    }
+]

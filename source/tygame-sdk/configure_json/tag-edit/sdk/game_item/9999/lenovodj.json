@@ -1,0 +1,21 @@
+{
+    "com.tuyoo.doudizhu.main":{
+        "game":{
+            "package":"com.tuyoo.doudizhu.main",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6597\u5730\u4e3b"
+        },
+        "lenovodj":{
+            "lenovo_appID":"1511100892459.app.ln",
+            "lenovo_appKey":"MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAJmC3eu0k2dn27lIBFJ9CHrdY3jfHFBaNZERQB4RqtZ9ua5COrnzVjPSfGRx1nbHPpeY/2TlHxQS41vZ885T1p6vPGeV5HiBff0AscyPdm9KWCrdO9r1gj5uXA5LHZkrdopv1XzfV631CtU5Nr55H49IPyR5wa0V0+oCIcYyksJ9AgMBAAECgYADpaVKFUcvPLtuonRf1VKfQKU9WOeeTRZatPM2A6twXxpLNo2Yn1xb7NNBu6ahucgV5++hYQQlAPHf28S8ESfXIbj+wHWrdJOYQN/gHwRLcJoeUW3KTNkiHaT0XJqzOUiLuTMBR0zyzp59Upi7uSvZCxpzUC+nMAAz+dBb/PUEzQJBAOu7SWQZVz90oWhYEEWcI8fwHmaCyo7ukPHMHyz4VTADZ9BLwZEt6qFU5q1If9J338GB64N/egb/aYr63QJpfPsCQQCmtdGAJuO5j40sJEzUjcPhg1r3R9L3r/awgcsEpobnQ536q7ATGXfD9bxifOhYyoHTcQcz69FzOcmhBg9IADTnAkB9D7qK+Yq5JpYvNnFDjOfKvhBS0FbIZ7bMIT/06ra/Jz9fWaGS9SpCdzl+ezUdIu25ysR42huSNNT4n8i6694bAkEAoN/2Eq/0s93GguFozvkbHOVQhC5odKL28O/fhVZZ+pQywHKr0FKUU6Mwru4QnZaWX//DzqPzlDkgzOX3Gykv4wJAd7dn+SzYKZH/aJqt+Zx0fQ3p3+YOctYB5NpJlS+XhKVkhylwo5aY/GWJVVCpsqcUrfNjvh4gYqKOH3pcYyzLLA==",
+            "products":[
+                {
+                    "diamondId":"TY9999D0002001",
+                    "code":"29167"
+                }
+            ],
+            "name":"lenovodj"
+        }
+    }
+}

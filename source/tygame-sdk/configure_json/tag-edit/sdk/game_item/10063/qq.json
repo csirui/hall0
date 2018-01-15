@@ -1,0 +1,22 @@
+{
+    "com.tencent.tmgp.tuyoo.fish":{
+        "game":{
+            "package":"com.tencent.tmgp.tuyoo.fish",
+            "tuyoo_appId":"10063",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6355\u9c7c"
+        },
+        "ysdk":{
+            "ysdk_appId":"1105828232",
+            "ysdk_qq_appId":"1105828232",
+            "ysdk_qq_appKey":"fyjyf32YBJA0t0eO",
+            "ysdk_wx_appId":"wx8af872cfbc5a9fbc",
+            "ysdk_wx_appKey":"602b9295a8b1bc96a00027591224bc8d",
+            "ysdk_sandbox_appKey":"JJujvbNXfcN7RgpIQbZiqfOhbltUXwK1",
+            "ysdk_release_appKey":"1cNlGmQ2JRABFaKRamaTTDyt9Qsu2LcK",
+            "ysdk_model":"sandbox",
+            "ysdk_release_url":"ysdk.qq.com",
+            "ysdk_sandbox_url":"ysdktest.qq.com"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "chinaMobile": [
+        {"channel": "ydjd_621216015822", "share": 100, "precedence": 20 },
+        {"channel": "yipay", "share": 0, "precedence": 30 },
+        {"channel": "linkyun.api", "share": 0, "precedence": 40 },
+        {"channel": "linkyun", "share": 0, "precedence": 50 }
+    ],
+    "chinaUnion": [
+        {"channel": "liantong.wo_9014273345620140519164257493800", "share": 100, "precedence": 10 },
+        {"channel": "yipay", "share": 0, "precedence": 20 },
+        {"channel": "EFT.api", "share": 0, "precedence": 30 }
+    ],
+    "chinaTelecom": [
+        {"channel": "aigame_120115007762", "share": 100, "precedence": 10 },
+        {"channel": "yipay", "share": 0, "precedence": 20 },
+        {"channel": "EFT.api", "share": 0, "precedence": 30 }
+    ]
+}

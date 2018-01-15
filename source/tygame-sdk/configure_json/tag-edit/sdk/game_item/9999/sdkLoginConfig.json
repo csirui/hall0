@@ -1,0 +1,451 @@
+[
+    {
+        "identifier": "Android_3.82_tyGuest.ucdanji.0-hall6.uc.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "label",
+                "name": "name"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.82_tyOneKey,tyGuest,tyAccount.yisdkpay.0-hall6.tuyoo.tu",
+        "tips": "",
+        "local": true,
+        "single": false,
+        "snsIdVisible": true,
+        "showEntryPwd": true,
+        "sdks": [
+            {
+                "force": false,
+                "label": "试玩",
+                "name": "tyGuest"
+            },
+            {
+                "force": false,
+                "label": "登陆",
+                "name": "tyAccount"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.784_midanji,tyGuest.midanji.0-hall28.midanji.bydzz",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "tyGuest",
+                "name": "游客登陆"
+            },
+            {
+                "force": false,
+                "label": "midanji",
+                "name": "小米登陆"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.92_tyGuest.ucdanji.0-hall6.uc.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": []
+    },
+    {
+        "identifier": "Android_3.91_tyOneKey,tyGuest,tyAccount.duoku,yisdkpay.0-hall7.91new.dj",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": true,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.91_tyOneKey,tyGuest,tyAccount.duoku,yisdkpay4.0-hall3.91new.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.91_tyOneKey,tyGuest,tyAccount.duoku,yisdkpay4.0-hall3.baidunew.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.91_tyOneKey,tyGuest,tyAccount.duoku,yisdkpay4.0-hall3.bdtiebanew.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.91_tyOneKey,tyGuest,tyAccount.duoku,yisdkpay4.0-hall3.duokunew.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.91_tyOneKey,tyGuest,tyAccount.duoku,yisdkpay.0-hall7.baidunew.dj",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.91_tyOneKey,tyGuest,tyAccount.duoku,yisdkpay.0-hall7.bdtiebanew.dj",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.91_tyOneKey,tyGuest,tyAccount.duoku,yisdkpay.0-hall7.duokunew.dj",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.97_tyGuest.ucdanji.0-hall20.uc.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": true,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.97_tyGuest,tyAccount.duoku,yisdkpay4.0-hall6.91new.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.97_tyGuest,tyAccount.duoku,yisdkpay4.0-hall6.baidunew.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.97_tyGuest,tyAccount.duoku,yisdkpay4.0-hall6.bdtiebanew.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.97_tyGuest,tyAccount.duoku,yisdkpay4.0-hall6.duokunew.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.91_weixinPay,tyGuest,tyAccount.alipay,unionpay.0-hall6.tuyoo.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "试玩",
+                "name": "tyGuest"
+            },
+            {
+                "force": false,
+                "label": "账号登录",
+                "name": "tyAccount"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.97_momo.momo.0-hall6.momo.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "陌陌登陆",
+                "name": "momo"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.91_ysdk,ysdkwx.ysdk.0-hall30.qq.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "QQ登录",
+                "name": "ysdk"
+            },
+            {
+                "force": false,
+                "label": "微信登录",
+                "name": "ysdkwx"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.91_ysdk,ysdkwx.ysdk.0-hall30.qqexplorer.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "QQ登录",
+                "name": "ysdk"
+            },
+            {
+                "force": false,
+                "label": "微信登录",
+                "name": "ysdkwx"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.91_ysdk,ysdkwx.ysdk.0-hall30.qqgj.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "QQ登录",
+                "name": "ysdk"
+            },
+            {
+                "force": false,
+                "label": "微信登录",
+                "name": "ysdkwx"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.83_tyGuest.vivo,yisdkpay.0-hall25.vivo.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": true,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.97_tyGuest.vivo,yisdkpay.0-hall20.vivo.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": true,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.92_tyGuest.vivo,yisdkpay4.0-hall3.vivo.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": true,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.91_ysdk,ysdkwx.ysdk,yisdkpay.0-hall7.qq.dj",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": false,
+                "label": "QQ登录",
+                "name": "ysdk"
+            },
+            {
+                "force": false,
+                "label": "微信登录",
+                "name": "ysdkwx"
+            }
+        ]
+    },
+    {
+        "identifier": "Android_3.92_tyGuest.vivo.0-hall6.vivo.tu",
+        "tips": "",
+        "local": false,
+        "single": false,
+        "snsIdVisible": false,
+        "showEntryPwd": false,
+        "sdks": [
+            {
+                "force": true,
+                "label": "进入游戏",
+                "name": "tyGuest"
+            }
+        ]
+    }
+]

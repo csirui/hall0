@@ -1,0 +1,71 @@
+[
+    {
+        "name": "闪电突袭",
+        "clientIds": [
+            "IOS_1.0_tuyoo,weixin.weixinPay,appStore,alipay.0-hall10078.appStore.tuyoo",
+            "^IOS_1.*$"
+        ],
+        "products": [
+            {
+                "tyid": "com.tuyou.gtqb.zs_6",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "com.tuyou.gtqb.zs_6"
+            },
+            {
+                "tyid": "com.tuyou.gtqb.zs_30",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "com.tuyou.gtqb.zs_30"
+            },
+            {
+                "tyid": "com.tuyou.gtqb.zs_68",
+                "name": "680钻石",
+                "price": 68,
+                "iosid": "com.tuyou.gtqb.zs_68"
+            },
+            {
+                "tyid": "com.tuyou.gtqb.zs_98",
+                "name": "980钻石",
+                "price": 98,
+                "iosid": "com.tuyou.gtqb.zs_98"
+            },
+            {
+                "tyid": "com.tuyou.gtqb.zs_198",
+                "name": "1980钻石",
+                "price": 198,
+                "iosid": "com.tuyou.gtqb.zs_198"
+            },
+            {
+                "tyid": "com.tuyou.gtqb.zs_328",
+                "name": "3280钻石",
+                "price": 328,
+                "iosid": "com.tuyou.gtqb.zs_328"
+            },
+            {
+                "tyid": "com.tuyou.gtqb.zs_648",
+                "name": "6480钻石",
+                "price": 648,
+                "iosid": "com.tuyou.gtqb.zs_648"
+            },
+            {
+                "tyid": "com.tuyou.gtqb.zk_18",
+                "name": "周卡",
+                "price": 18,
+                "iosid": "com.tuyou.gtqb.zk_18"
+            },
+            {
+                "tyid": "com.tuyou.gtqb.yk_30",
+                "name": "月卡",
+                "price": 30,
+                "iosid": "com.tuyou.gtqb.yk_30"
+            },
+            {
+                "tyid": "com.tuyou.gtqb.zsk_98",
+                "name": "终身卡",
+                "price": 98,
+                "iosid": "com.tuyou.gtqb.zsk_98"
+            }
+        ]
+    }
+]

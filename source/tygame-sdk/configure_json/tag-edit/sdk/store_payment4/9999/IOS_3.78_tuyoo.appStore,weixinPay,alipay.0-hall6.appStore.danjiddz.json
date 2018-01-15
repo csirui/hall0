@@ -1,0 +1,21 @@
+{
+    "*": [
+        {
+            "name": "微信",
+            "paytype": "weixin",
+            "tips": "推荐安装微信5.0及以上版本的玩家使用",
+            "strategy": "default_strategy"
+        },
+        {
+            "name": "支付宝",
+            "paytype": "tuyou.ali",
+            "tips": "推荐有支付宝账号的玩家使用",
+            "strategy": "default_strategy"
+        },
+        {
+            "name": "苹果支付",
+            "paytype": "tuyooios",
+            "tips": "使用苹果AppStore支付"
+        }
+    ]
+}

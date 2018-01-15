@@ -1,0 +1,22 @@
+{
+    "liantong.wo": {
+        "appid": "9014273345620140519164257493800",
+        "cpid": "86009366",
+        "appkey": "8786914cc07009556fcf",
+        "paydata": [
+            {"prodid": "TY9999R0000101", "msgOrderCode":"150827138180", "orderProdCode":"9014273345620140519164257493800018","orderProdName":"1钻石" },
+            {"prodid": "TY9999D0001003", "msgOrderCode":"150827138181", "orderProdCode":"9014273345620140519164257493800019","orderProdName":"1天会员" },
+            {"prodid": "TY9999D0002001", "msgOrderCode":"150907139921", "orderProdCode":"9014273345620140519164257493800022","orderProdName":"20000金币" },
+            {"prodid": "TY9999D0005003", "msgOrderCode":"150907139923", "orderProdCode":"9014273345620140519164257493800024","orderProdName":"50000金币" },
+	    {"prodid": "TY9999D0006016", "msgOrderCode":"150907139925", "orderProdCode":"9014273345620140519164257493800026","orderProdName":"60000金币" },
+	    {"prodid": "TY9999D0008005", "msgOrderCode":"150907139922", "orderProdCode":"9014273345620140519164257493800023","orderProdName":"80000金币" },
+	    {"prodid": "TY9999D0008001", "msgOrderCode":"150907139926", "orderProdCode":"9014273345620140519164257493800027","orderProdName":"8元超值礼包" },
+	    {"prodid": "TY9999D0008025", "msgOrderCode":"150827138182", "orderProdCode":"9014273345620140519164257493800020","orderProdName":"高手限量特价礼包" },
+	    {"prodid": "TY9999D0008026", "msgOrderCode":"150827138183", "orderProdCode":"9014273345620140519164257493800021","orderProdName":"转运限量特价礼包" },
+	    {"prodid": "TY9999R0008005", "msgOrderCode":"141119070322", "orderProdCode":"9014273345620140519164257493800016","orderProdName":"80钻石" },
+	    {"prodid": "TY9999D0010001", "msgOrderCode":"150907139924", "orderProdCode":"9014273345620140519164257493800025","orderProdName":"100000金币" },
+	    {"prodid": "TY9999D0008027", "msgOrderCode":"150907139922", "orderProdCode":"9014273345620140519164257493800023","orderProdName":"80000金币" },
+	    {"prodid": "TY9999D0008034", "msgOrderCode":"150907139926", "orderProdCode":"9014273345620140519164257493800027","orderProdName":"8元超值礼包" }
+        ]
+    }
+}

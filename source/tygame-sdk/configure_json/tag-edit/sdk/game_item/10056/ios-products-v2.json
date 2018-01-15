@@ -1,0 +1,59 @@
+[
+    {
+        "name": "10056",
+        "clientIds": [
+            "IOS_0.0970_tuyoo.weixinPay,appStore,alipay.0-hall10056.appStore.rxsg",
+            "IOS_0.0970_tuyoo,weixin.weixinPay,appStore,alipay.0-hall10056.appStore.rxsg"
+        ],
+        "products": [
+            {
+                "tyid": "rxsgios_yueka",
+                "name": "月卡",
+                "price": 250,
+                "iosid": "rxsgios_yueka"
+            },
+            {
+                "tyid": "rxsgios_60",
+                "name": "60元宝",
+                "price": 60,
+                "iosid": "rxsgios_60"
+            },
+            {
+                "tyid": "rxsgios_300",
+                "name": "300元宝",
+                "price": 300,
+                "iosid": "rxsgios_300"
+            },
+            {
+                "tyid": "rxsgios_980",
+                "name": "980元宝",
+                "price": 980,
+                "iosid": "rxsgios_980"
+            },
+            {
+                "tyid": "rxsgios_1980",
+                "name": "1980元宝",
+                "price": 1980,
+                "iosid": "rxsgios_1980"
+            },
+            {
+                "tyid": "rxsgios_3280",
+                "name": "3280元宝",
+                "price": 3280,
+                "iosid": "rxsgios_3280"
+            },
+            {
+                "tyid": "rxsgios_6480",
+                "name": "6480元宝",
+                "price": 6480,
+                "iosid": "rxsgios_6480"
+            },
+            {
+                "tyid": "test_1",
+                "name": "测试0.1元",
+                "price": 1,
+                "iosid": "test_1"
+            }
+        ]
+    }
+]

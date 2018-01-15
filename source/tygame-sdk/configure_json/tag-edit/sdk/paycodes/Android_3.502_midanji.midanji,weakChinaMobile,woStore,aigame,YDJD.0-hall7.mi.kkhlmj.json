@@ -1,0 +1,45 @@
+{
+    "ydmm": {
+        "appid": "300008880698",
+        "appkey": "C4A5AFB21E62D7766358231A0601135F",
+        "paydata": [
+            {"prodid": "TY0007D0008001", "msgOrderCode": "30000888069806" },
+            {"prodid": "TY9999R0008001", "msgOrderCode": "30000888069805" },
+            {"prodid": "TY9999D0008001", "msgOrderCode": "30000888069802" },
+            {"prodid": "TY9999D0008002", "msgOrderCode": "30000888069803" }
+        ]
+    },
+    "ydjd": {
+        "appid": "616516039628",
+        "cpid": "772212",
+        "paydata": [
+            {"prodid": "TY0007D0008001", "msgOrderCode": "001" },
+            {"prodid": "TY9999R0008001", "msgOrderCode": "002" },
+            {"prodid": "TY9999D0008001", "msgOrderCode": "003" },
+            {"prodid": "TY9999D0008002", "msgOrderCode": "004" }
+        ]
+    },
+    "liantong.wo": {
+        "appid": "9014273345620150213171855985100",
+        "cpid": "86009366",
+        "appkey": "8786914cc07009556fcf",
+        "paydata": [
+            {"prodid": "TY0007D0008001", "msgOrderCode":"150213090001", "orderProdCode":"9014273345620150213171855985100001","orderProdName":"80000金币" },
+            {"prodid": "TY9999R0008001", "msgOrderCode":"150213090005", "orderProdCode":"9014273345620150213171855985100005","orderProdName":"80钻石" },
+            {"prodid": "TY9999D0008001", "msgOrderCode":"150213090002", "orderProdCode":"9014273345620150213171855985100002","orderProdName":"8元超值礼包" },
+            {"prodid": "TY9999D0008002", "msgOrderCode":"150213090003", "orderProdCode":"9014273345620150213171855985100003","orderProdName":"8元转运礼包" }
+        ]
+    },
+    "aigame": {
+        "appid": "5024009",
+        "appkey": "0372d6799f4d5c43190b917d6391226f",
+        "paydata": [
+            {"prodid": "TY0007D0006001", "fake":"" },
+            {"prodid": "TY0007D0008001", "fake":"" },
+            {"prodid": "TY0007D0010001", "fake":"" },
+            {"prodid": "TY9999R0008001", "fake":"" },
+            {"prodid": "TY9999D0008001", "fake":"" },
+            {"prodid": "TY9999D0008002", "fake":"" }
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "smstype": "kjcx",
+    "sendcode": "我也是测试短信",
+    "smsconfig": {
+        "sname": "tuyouhy",
+        "spwd": "kl9f90v5",
+        "sprdid": "",
+        "smssign": "【空间畅想】",
+        "smsurl": "http://210.51.190.19:8080/eums/send_strong.do"
+    }
+}

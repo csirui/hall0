@@ -1,0 +1,27 @@
+{
+    "com.tuyoo.baohuang.coolpad":{
+        "game":{
+            "package":"com.tuyoo.baohuang.coolpad",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u4fdd\u7687"
+        },
+        "coolpad":{
+            "name":"coolpad",
+            "coolpad_appId":"5000003081",
+            "coolpad_appKey":"f9cecbbcc40d4f1397becfc0cb7df60f",
+            "coolpad_appPrivateKey":"MIICXAIBAAKBgQCNCFkNMq6vnes9Y4geHI1Ije6gLNsnuWhhoJRekWMI1wp/9gMtyIOj7ifSKVuZL59V1J8BZLUXb2LBNLgA/j+j4WpnYbM6dG697smc/U6i981cxXLXguhbA1LnUShIlIPjxIDgoLVXqEM1fUepRhI8OtNG5ADFRbVrX+Q4fPRQrwIDAQABAoGAeSESWyOMpYkc4jz6S+J59jbxHOFp2VSFMlSZGiAEzzLi8cR6NnhhmAqUaQzcf1VHpJBZgPjeEKK6TvbYkwHL5cvbvhOqTMcgcpY8IJE4wddfsp5RTEfeEW/Xb9ezxossQVQPcJ6P8cxaOMNP24tKUjih2UD+MrFRiCSFVEFwwwECQQDZ9sXY1rrJcqudCJShjBWtc7c4Et0Q905Zxs4SNlcs+wKvLdDhAh0CqtPmaczlZoVrHTEGRHOPOg9fJEy9OHaVAkEApaTHA12WlWKO8QzmPfSHr8ha5pJJNjlpc6h61R+BDfGb86EMVnlgW5uPTJp7eM2itruuFc5r/AeKnr3qjcqtMwJBANiDjwMYQtHLi/fgxyw2aG41jWIxMtIgp/78QkXLHwu6iG8VtvFc1Q6KPRYcMQILtiqyA7nzE0vKY+yhtW0dgoUCQFh3ivrXLyeVvfYsB4QrZ5SQk0v18TgOra1h3EibTNffpIUYDHja1oXWrVAiabN5UF/8GNv4pV+zv2tMz0rvZlUCQFoBrGooLB7jboc5ssM8iIEk2CT7VVHGEuthVJ594HEvjGtNJy37tyw0R9/diFbMFSe9sWr1u4jYjisM0jAxKc8=",
+            "coolpad_appPubKey":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZWXCbEYHbtGbxkuCMVFLyBEAa41gxG1z06O7wYZeAbMv9uAwRjHGzGxf2OfT2Jq7abgoreg/GEM4fGlawfx6iVY9ftfks30XyZ/WUUrBTPdjFuuneTdG4rimFg1V/c/clBkkFxyO5wWCiF/Ds29htkEv86q0aJl8petwXJzaCIwIDAQAB",
+            "products":[
+                {
+                    "diamondId":"TY9999D0001003",
+                    "code":"21"
+                },
+                {
+                    "diamondId":"TY9999D0002001",
+                    "code":"2"
+                }
+            ]
+        }
+    }
+}

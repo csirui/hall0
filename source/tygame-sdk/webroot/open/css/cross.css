@@ -1,0 +1,155 @@
+.left {
+    float: left;
+}
+body {
+    /*background-color: #184d7e;*/
+}
+.item_c {
+    display: inline;
+    float: left;
+    padding-left: 10px;
+    /*width: 465px;*/
+    word-break: break-all;
+    word-wrap: break-word;
+    width: 50%;
+}
+.item_c .list_title {
+    padding-bottom: 2px;
+    font-size: 120%;
+    height: 22px;
+    overflow: hidden;
+    color: black;
+}
+.item_c .list_describe,.sub_seach_time {
+    /*padding: 2px;*/
+    color: gray;
+    font-size: 90%;
+    line-height: 15px;
+}
+
+.list_down {
+    /*display: inline-block;*/
+    height: 36px;
+    /*line-height: 18px;*/
+    padding: 6px 0;
+    background-color: #1A72C4;
+    border-radius: 4px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    border: 0 none;
+    font-size: 110%;
+}
+.list_r_w {
+    float: right;
+    /*width: 70px;*/
+    padding-top: 20px;
+    width: 25%;
+    max-width: 200px;
+}
+
+li .left {
+    width: 18%;
+}
+
+/*.butn_bg {*/
+/*color: #FFFEFE;*/
+/*font-size: 110%;*/
+/*border-radius: 4px;*/
+/*}*/
+.game_content .dataList li {
+    float: left;
+    margin-left: 4px;
+    overflow: hidden;
+    width: 47%;
+    color: #000000;
+}
+.game_content .dataList li.odd {
+    /*margin-left: 20px;*/
+}
+.dataList li, .cate_list .dataList li {
+    height: 55px;
+    padding: 8px 4px;
+    border: 1px solid #CCC;
+    border-radius: 8px;
+    background-color: white;
+    margin: 6px 0 2px 6px;
+}
+.s-icon, .dataList li .list-a-icon-mask {
+    height: 52px;
+    left: 18px;
+    /*position: absolute;*/
+    top: 18px;
+    width: 52px;
+}
+.dataList li .right {
+    margin-left: 92px;
+}
+
+.dataList {
+    padding: 8px;
+}
+
+.container {
+    width: 100%;
+    /*background: white;*/
+    margin: auto;
+    display: -moz-box;
+    display: -webkit-box;
+    display: box;
+    -moz-box-orient: horizontal;
+    -webkit-box-orient: horizontal;
+    box-orient: horizontal;
+}
+
+.fdd,.odd {
+    -moz-box-flex: 1; box-flex: 1; -webkit-box-flex: 1;
+    background: none repeat scroll 0 0 white;
+    border: 1px solid #CCC;
+    width: 50%;
+    margin: 0 4px 8px 0;
+    padding: 8px 4px;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+}
+
+.odd {
+    margin: 0 0 8px 4px;
+}
+
+button::-webkit-focus-inner {
+    border: 0 none;
+    padding: 0;
+}
+
+.ui-btn-up-green {
+    background: -webkit-linear-gradient(#8FC469, #5C8F38);
+    border: 1px solid #186C9C;
+    color: #FFFFFF;
+    text-shadow: 0 1px 0 #194B7E;
+}
+
+.ui-btn-up-green:active,.ui-btn-down-green {
+    background: -webkit-linear-gradient(#5C8F38, #5C8F38);
+}
+
+.ui-btn-up-b {
+    background: -webkit-linear-gradient(#1A95E7, #2D72B8);
+    border: 1px solid #186C9C;
+    color: #FFFFFF;
+    text-shadow: 0 1px 0 #194B7E;
+}
+
+.ui-btn-up-b:active,.ui-btn-down-b{
+    background: -webkit-linear-gradient(#295B8E, #3E79B5);
+}
+
+.ui-shadow {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.odd_null {
+    background: none;
+    border: none;
+    box-shadow: none;
+}

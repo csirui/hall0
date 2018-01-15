@@ -1,0 +1,19 @@
+{
+    "*": [
+        {
+            "name": "话费支付",
+            "paytype": "yisdkpay",
+            "tips": "直接从话费中扣减，通信费由运营商代收",
+            "isDefault": "1",
+            "collapsed": "0",
+            "bonus": "0",
+            "filter": "price_le_12"
+        },
+        {
+            "name": "Oppo支付",
+            "paytype": "nearme",
+            "collapsed": "0",
+            "bonus": "0"
+        }
+    ]
+}

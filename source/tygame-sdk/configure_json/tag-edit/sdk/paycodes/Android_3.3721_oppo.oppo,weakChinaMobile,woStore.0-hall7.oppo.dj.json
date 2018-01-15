@@ -1,0 +1,27 @@
+{
+    "ydmm": {
+        "appid": "300008414393",
+        "appkey": "23F5368512DD1760",
+        "paydata": [
+            {"prodid": "TY0007D0006001", "msgOrderCode": "30000841439302" },
+            {"prodid": "TY0007D0008001", "msgOrderCode": "30000841439303" },
+            {"prodid": "TY0007D0010001", "msgOrderCode": "30000841439304" },
+            {"prodid": "TY9999R0008001", "msgOrderCode": "30000841439305" },
+            {"prodid": "TY9999D0008001", "msgOrderCode": "30000841439306" },
+            {"prodid": "TY9999D0008002", "msgOrderCode": "30000841439307" }
+        ]
+    },
+    "liantong.wo": {
+        "appid": "9014273345620140808164846951100",
+        "cpid": "86009366",
+        "appkey": "8786914cc07009556fcf",
+        "paydata": [
+            {"prodid": "TY0007D0006001", "msgOrderCode":"140808049850", "orderProdCode":"9014273345620140808164846951100002","orderProdName":"6元金币" },
+            {"prodid": "TY0007D0008001", "msgOrderCode":"140808049851", "orderProdCode":"9014273345620140808164846951100003","orderProdName":"8元金币" },
+            {"prodid": "TY0007D0010001", "msgOrderCode":"140808049852", "orderProdCode":"9014273345620140808164846951100004","orderProdName":"10元金币" },
+            {"prodid": "TY9999D0008001", "msgOrderCode":"140808049854", "orderProdCode":"9014273345620140808164846951100006","orderProdName":"8元超值礼包" },
+            {"prodid": "TY9999D0008002", "msgOrderCode":"140808049855", "orderProdCode":"9014273345620140808164846951100007","orderProdName":"转运礼包" },
+            {"prodid": "TY9999R0008001", "msgOrderCode":"141224077685", "orderProdCode":"9014273345620140808164846951100008","orderProdName":"80钻石" }
+        ]
+    }
+}

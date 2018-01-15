@@ -1,0 +1,16 @@
+{
+    "com.tencent.tmgp.tuyoo.yh.am":{
+        "game":{
+            "package":"com.tencent.tmgp.tuyoo.yh.am",
+            "tuyoo_appId":"10041",
+            "name":"game",
+            "app_name":"\u6c38\u6052"
+        },
+        "jinli":{
+            "jinli_apiKey":"F97FDB34955B41828F878D2B48BD6FFD",
+            "jinli_privateKey":"MIICdwIBADANBgkqhkiG9w0BAQEFAASCAmEwggJdAgEAAoGBAJPEA/pIwE2LSXMF+0U1C4j8DPBJ/LIL6i1PYsS8hLH38CFMDhFBnzEdKeBxH27yt9+itca4XJ86F+ba7hWVXfQk+OuFMKGh64U1uMKlRMdaTNI4oiwWQW/5n7xS7Tyoc0wk+AngEzE8k8EQUNKWqNgpMK+JZjMnAWlSui1g6GKFAgMBAAECgYBIC+CsneA1bt5nGNmEyvJO3iYo2so8vZZ2dSiBKDHC3FLWyVBqlYZa2g9bAY0D+ZAxmBHtTGLMt/SDeOdw2p0t+Ltk8U0HiyYFdLiQAO1GJ/u7FKyDIxe1Gk0IAoQmXATtOTwGJUjQdGYQU4GEdMEShMGE78V3bSAkpQGWvszBAQJBANK3I8MoZJpBB+03GTO87n5qKYiUkaCzFpKdunRnnd2Gj0YPQi/7PzwQeaa0s84UJDk6UO8weIhleOe+OQGIxCECQQCzhZemto/ug2eEm9Z0zh2OPRm2AD3dgbi1EiwLpDu4jVOhUqIWXGG8pq8d92NDh4WRbRpJLZyaivDG+HarMtHlAkEAx9xfdk8MxOajrxMQu2sbRxpI1LweOK9E3MHwRVK2gJSNtqToYXxMaRszV7STywZ9qS4v7/8ohC7C9AQQK+1eIQJBAKGTBnf07jxkpoHy5KUCchV4JrDpLMU1oPHPpjbgHSQwhum2fs4TXaA2gXw+EWhRDEVkZfkhBUcO8ECUlfHl7oUCQBNuc+5K6se8ZePhb61SL/+iC3xRDTXQh27pBTDLZlI0X5M4IR4ep9sIZZfUtTlVBeMAraI70X+DrCtpRcWyDyg=",
+            "jinli_publicKey":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCZaDcBg922LFAr6kOKlzTq3U0x6/YbBpdgMuGjKEhCaVoV/JEBvxNViu91SbtCNykA4yDPIvF7wGu74R9ng9/Bum8Yz5BKIuJGN6Vn96xp2gqHYz2SWstPC9xwRr2RJmd4NN2j3Jc3AkLOiTLhlLb/yn+gMYcVg2uyRUbD6NJFJwIDAQAB",
+            "name":"jinli"
+        }
+    }
+}

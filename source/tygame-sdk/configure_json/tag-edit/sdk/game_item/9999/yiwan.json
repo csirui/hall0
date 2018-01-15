@@ -1,0 +1,32 @@
+{
+    "com.tuyoo.doudizhu.main":{
+        "game":{
+            "package":"com.tuyoo.doudizhu.main",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u5730\u4e3b\u6d4b\u8bd5"
+        },
+        "yiwan":{
+            "yiwan_appId":"10469",
+            "yiwan_signKey":"HEp4sjxt5VTP2GL9",
+            "appKey":"YuhSZlQrDC3Wq1cn",
+            "yiwan_packetId":"101965",
+            "name":"yiwan"
+        }
+    },
+    "com.tuyoo.doudizhu.main.test":{
+        "game":{
+            "package":"com.tuyoo.doudizhu.main.test",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u5355\u673a\u6597\u5730\u4e3b"
+        },
+        "yiwan":{
+            "yiwan_appId":"10469",
+            "yiwan_signKey":"HEp4sjxt5VTP2GL9",
+            "appKey":"YuhSZlQrDC3Wq1cn",
+            "yiwan_packetId":"101965",
+            "name":"yiwan"
+        }
+    }
+}

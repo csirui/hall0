@@ -1,0 +1,45 @@
+{
+    "*": [
+        {
+            "name": "支付宝",
+            "paytype": "tuyou.ali",
+            "tips": "支付宝钱包支付",
+            "bonus": "0"
+        },
+        {
+            "name": "支付宝(wap)",
+            "paytype": "alipaywap",
+            "tips": "支付宝钱包支付",
+            "bonus": "0"
+        },
+        {
+            "name": "银联支付",
+            "paytype": "unionpay",
+            "bonus": "0"
+        },
+        {
+            "name": "微信",
+            "paytype": "weixin",
+            "tips": "微信安全支付",
+            "bonus": "0",
+            "default": 1
+        },
+        {
+            "name": "微信(WAP)",
+            "paytype": "wxwap",
+            "tips": "微信安全支付",
+            "bonus": "0",
+            "default": 1
+        },
+        {
+            "name": "话费充值卡",
+            "paytype": "tuyoo.card",
+            "collapsed": "0"
+        },
+        {
+            "name": "支付宝免密支付",
+            "paytype": "alifree",
+            "tips": "免密呀"
+        }
+    ]
+}

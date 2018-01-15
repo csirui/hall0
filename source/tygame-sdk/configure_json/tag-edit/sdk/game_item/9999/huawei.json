@@ -1,0 +1,19 @@
+{
+    "com.tuyoo.doudizhu.huawei":{
+        "huawei":{
+            "userName":"tuyou",
+            "huaWei_appId":"10250613",
+            "huaWei_appKey":"MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAKgN0Etypwd3RYkbEIW6TddwlEhBsGwbj8Pp5aPEPGv0DHvWcw++MXCGt7tx/baABVKZEKvWrw4h6pbuxgc9ehYawt1XjGD+MgYiJrEEn2MXLNzp8W2XIcsRZ+PFitaBWoFhf2SDhxXcgISi1B7V+YFC5rfENW/m9oDkjGaOi1mxAgMBAAECgYBiG85ifYitfyAFLtuydlVDVOH8XP0V3/FKOp5pwQJVM6CmG0gJBMvwGXXh5GZtyMdStTFaYHbKFVrSyoqpZ2aB1H0k/0O8av7nZgVyN5Qfxh3hAiKNughqM+7796IyeMCyvI86tForOwXx5wFn3VipsN4xGAyyOG2JdO6NRDJtAQJBAO7aSMhgc4Pi8UlLBuKYVeGGgnjwjByOfYoRn0sZ40/X/dIKsIWv3pJVJHb17vpCvWptnNOaDHYqdWQ53KdapvkCQQC0Hl3S2nx1+ka6vh2BuIeWZDmFdEoEGj8gjek4sZkqXovSddvfgs3pMdivNGbyilDo4V2YOC9ZkTs0lF0wO155AkBERQgAnfDmhXtJ47P4GGqTp4qrXrXtg5zGVfsd0Cx0qdvWqU+DJp2LXeKqTekchu70+JeWs7VUIRakqxUykGqhAkAVTW4dTPfhYCtTVL7ao79tewcOkJVcbNpAeGg361FJIIt65bOOeMLvrJSLDDCMyO0OzfCq2yJGfpW4/z8SQENJAkEA4da/PtpAyOZbEbrqhHQGQEWkS6CtaJT1Xc1urPEo/D7F32BX5ECysES2zl7NxlUq4p0MEn0zdM4VrZPcKS0ryw==",
+            "huaWei_payId":"900086000020107980",
+            "huaWei_privateKey":"MIIBVwIBADANBgkqhkiG9w0BAQEFAASCAUEwggE9AgEAAkEAtqON4CobzFsRb10tJ0suE3R2GAWbh5ZgdjHAKSL8Vdz24O6rfWVwSeV5FAQRb+ZX8//kwvbvWSM/4k+Wy8Tz6wIDAQABAkEAo2g6K/IA5Rolw0nOeHWfR/DPKDb8LJeyvo1MrIGM2xRRMI97FvQVUNOrYgNvZyVJGkOMD6atqnuj3A3wBQWhgQIhANiY9LkJ/Px6blln3sZmIWRbCKZ1TF/p8BGotpDg9CFRAiEA190hc5EMJ9tfCleKEd5IIzkR5nbwPA7G+53ZTnu9UnsCIQCoXxZ1tQb9OSsIww7RCVlRytZJl4s8T/03rP/mVYhRUQIhAJdRryJpGmFSOWRxixsNe/odBnxNAgjHvxshQvTubv/DAiEApTdN5GR9+culN9SGX+h65UJ45xmWgM3nmzXEXBITsjk=",
+            "huaWei_publicKey":"MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALajjeAqG8xbEW9dLSdLLhN0dhgFm4eWYH\nYxwCki/FXc9uDuq31lcEnleRQEEW/mV/P/5ML271kjP+JPlsvE8+sCAwEAAQ==",
+            "name":"huawei"
+        },
+        "game":{
+            "package":"com.tuyoo.doudizhu.huawei",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6597\u5730\u4e3b"
+        }
+    }
+}

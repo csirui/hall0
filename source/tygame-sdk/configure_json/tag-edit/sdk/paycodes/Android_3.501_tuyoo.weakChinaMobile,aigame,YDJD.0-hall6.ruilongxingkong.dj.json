@@ -1,0 +1,37 @@
+{
+    "ydmm": {
+        "appid": "300007728518",
+        "appkey": "06E2A01050F52F6B",
+        "paydata": [
+            {"prodid": "TY9999D0002001", "msgOrderCode": "30000772851801" },
+            {"prodid": "TY9999D0006001", "msgOrderCode": "30000772851814" },
+            {"prodid": "TY9999D0008002", "msgOrderCode": "30000772851817" },
+            {"prodid": "TY9999D0008001", "msgOrderCode": "30000772851819" },
+            {"prodid": "TY9999R0008001", "msgOrderCode": "30000772851820" },
+            {"prodid": "TY9999R00020DJ", "msgOrderCode": "30000772851821" }
+        ]
+    },
+    "ydjd": {
+        "appid": "621216015822",
+        "cpid": "772212",
+        "paydata": [
+            {"prodid": "TY9999D0006001", "msgOrderCode": "002" },
+            {"prodid": "TY9999D0008001", "msgOrderCode": "011" },
+            {"prodid": "TY9999R0008001", "msgOrderCode": "012" },
+            {"prodid": "TY9999D0008002", "msgOrderCode": "010" },
+            {"prodid": "TY9999D0002001", "msgOrderCode": "014" }
+        ]
+    },
+    "aigame": {
+        "appid": "120115009987",
+        "appkey": "89df51ef2ece07a06ed513d4c522266f",
+        "paydata": [
+            {"prodid": "TY9999D0006001", "fake":"" },
+            {"prodid": "TY9999D0008002", "fake":"" },
+            {"prodid": "TY9999D0008001", "fake":"" },
+            {"prodid": "TY9999R0008001", "fake":"" },
+            {"prodid": "TY9999D0002001", "fake":"" },
+            {"prodid": "TY9999R00020DJ", "fake":"" }
+        ]
+    }
+}

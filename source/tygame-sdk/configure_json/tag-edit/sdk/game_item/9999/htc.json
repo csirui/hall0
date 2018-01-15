@@ -1,0 +1,17 @@
+{
+    "com.tuyoo.tudoudizhu.htc":{
+        "game":{
+            "package":"com.tuyoo.tudoudizhu.htc",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6597\u5730\u4e3b"
+        },
+        "htc":{
+            "htc_gamecode":"2913285111414",
+            "htc_gamename":"\u9014\u6e38\u6597\u5730\u4e3b",
+            "htc_jolo_public_key":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDHg6J7GnYor1w+tmL4+cV46e1od76w6HJkieI2AmLI8W3Qv0HuZ3Omw82n/a4cSE3y/XgpsTtzhAL9v+syajygL18Dn2SpFHMpjfcqZf+1IY6SmtKpAKbfNgsu6eS+d8+1zzdGD9tiUFULddkhe6N6AwyF9PNh8pDh+PsKG5TXRQIDAQAB",
+            "htc_jolo_private_key":"MIICeQIBADANBgkqhkiG9w0BAQEFAASCAmMwggJfAgEAAoGBAMeDonsadiivXD62Yvj5xXjp7Wh3vrDocmSJ4jYCYsjxbdC/Qe5nc6bDzaf9rhxITfL9eCmxO3OEAv2/6zJqPKAvXwOfZKkUcymN9ypl/7UhjpKa0qkApt82Cy7p5L53z7XPN0YP22JQVQt12SF7o3oDDIX082HykOH4+woblNdFAgMBAAECgYEAsCJM0gMFZ1uQwyh+7bCLnfheh8iXB1TekFWN6AJpNV62hQAj85VO612W9ISnLf7DGg6dA6mcg5l6jovc1pAlXfFdE7MaLylxbRyM6s+11CcBSi9XffDvFuTDhbtvjldbA1O9+J0A5yunSJhu+SJsktirDODbgRbnGiNLJZVXjK0CQQDvkPVt9j8KyjsR/PYUUXq+7mF+tI5QfL8UMrNRBiFWQGCvgJJJLPwzoOTmXwiguK9kV/iglPSZQ37qNWP+xqtjAkEA1TNRo1ZBEQ9P86SvwbKry6hJx3hU3v/43jiYD7qleNgsYd7ZtY0KT3P6Yq7j3zuHH9zgWucG249s6ghSIkl3NwJBAJtrCp5lE68XVc0stCSoW56EnkGKN42l8HzVC5o0BOqk51TUb5MDmTaRWg7OdpV2W2sY21aqbCkGLc8aBh5imwsCQQCE/phknb/FFpo3UHpbCEvmpTow9j1rRp5GcWNaHIJwmdlFzDBe8naGDcEZoiN/87BdDfneetNqT1QPwdUKkm2NAkEA0JfaEXXlTCyYAKYyjVuKOMvTrZTf2/F14cKIlBbS2FFaFVzrlYAJfIb0t5KcZ0+X2fPkmDv57fi3jtjLNpjBQQ==",
+            "name":"htc"
+        }
+    }
+}

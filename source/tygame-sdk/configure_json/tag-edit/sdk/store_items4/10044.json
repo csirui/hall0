@@ -1,0 +1,257 @@
+[
+    {
+        "id": "test_1",
+        "name": "测试道具",
+        "desc": "",
+        "price": 0.1,
+        "diamondPrice": 1,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard01",
+        "name": "电玩捕鱼首冲礼包",
+        "desc": "",
+        "price": 1,
+        "diamondPrice": 10,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard06",
+        "name": "电玩捕鱼金币礼包",
+        "desc": "",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard012",
+        "name": "电玩捕鱼金币礼包",
+        "desc": "",
+        "price": 12,
+        "diamondPrice": 120,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard028",
+        "name": "电玩捕鱼金币礼包",
+        "desc": "",
+        "price": 28,
+        "diamondPrice": 280,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard50",
+        "name": "电玩捕鱼金币礼包",
+        "desc": "",
+        "price": 50,
+        "diamondPrice": 500,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard108",
+        "name": "电玩捕鱼金币礼包",
+        "desc": "",
+        "price": 108,
+        "diamondPrice": 1080,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard00328",
+        "name": "电玩捕鱼金币礼包",
+        "desc": "",
+        "price": 328,
+        "diamondPrice": 3280,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard0618",
+        "name": "电玩捕鱼金币礼包",
+        "desc": "",
+        "price": 618,
+        "diamondPrice": 6180,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard006",
+        "name": "电玩捕鱼钻石礼包",
+        "desc": "",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard0012",
+        "name": "电玩捕鱼钻石礼包",
+        "desc": "",
+        "price": 12,
+        "diamondPrice": 120,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard0028",
+        "name": "电玩捕鱼钻石礼包",
+        "desc": "",
+        "price": 28,
+        "diamondPrice": 280,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard050",
+        "name": "电玩捕鱼钻石礼包",
+        "desc": "",
+        "price": 50,
+        "diamondPrice": 500,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard0108",
+        "name": "电玩捕鱼钻石礼包",
+        "desc": "",
+        "price": 108,
+        "diamondPrice": 1080,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard000328",
+        "name": "电玩捕鱼钻石礼包",
+        "desc": "",
+        "price": 328,
+        "diamondPrice": 3280,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard000028",
+        "name": "电玩捕鱼贵族礼包",
+        "desc": "",
+        "price": 28,
+        "diamondPrice": 280,
+        "is_diamond": 0
+    },
+
+
+
+
+    {
+        "id": "com.buyu.jjby.coinCard01_dw",
+        "name": "电玩捕鱼首冲礼包",
+        "desc": "",
+        "price": 1,
+        "diamondPrice": 10,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard06_dw",
+        "name": "电玩捕鱼金币礼包",
+        "desc": "",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard012_dw",
+        "name": "电玩捕鱼金币礼包",
+        "desc": "",
+        "price": 12,
+        "diamondPrice": 120,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard028_dw",
+        "name": "电玩捕鱼金币礼包",
+        "desc": "",
+        "price": 28,
+        "diamondPrice": 280,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard50_dw",
+        "name": "电玩捕鱼金币礼包",
+        "desc": "",
+        "price": 50,
+        "diamondPrice": 500,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard108_dw",
+        "name": "电玩捕鱼金币礼包",
+        "desc": "",
+        "price": 108,
+        "diamondPrice": 1080,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard00328_dw",
+        "name": "电玩捕鱼金币礼包",
+        "desc": "",
+        "price": 328,
+        "diamondPrice": 3280,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard0618_dw",
+        "name": "电玩捕鱼金币礼包",
+        "desc": "",
+        "price": 618,
+        "diamondPrice": 6180,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard006_dw",
+        "name": "电玩捕鱼钻石礼包",
+        "desc": "",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard0012_dw",
+        "name": "电玩捕鱼钻石礼包",
+        "desc": "",
+        "price": 12,
+        "diamondPrice": 120,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard0028_dw",
+        "name": "电玩捕鱼钻石礼包",
+        "desc": "",
+        "price": 28,
+        "diamondPrice": 280,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard050_dw",
+        "name": "电玩捕鱼钻石礼包",
+        "desc": "",
+        "price": 50,
+        "diamondPrice": 500,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard0108_dw",
+        "name": "电玩捕鱼钻石礼包",
+        "desc": "",
+        "price": 108,
+        "diamondPrice": 1080,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard000328_dw",
+        "name": "电玩捕鱼钻石礼包",
+        "desc": "",
+        "price": 328,
+        "diamondPrice": 3280,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.buyu.jjby.coinCard000028_dw",
+        "name": "电玩捕鱼贵族礼包",
+        "desc": "",
+        "price": 28,
+        "diamondPrice": 280,
+        "is_diamond": 0
+    }
+
+
+
+]

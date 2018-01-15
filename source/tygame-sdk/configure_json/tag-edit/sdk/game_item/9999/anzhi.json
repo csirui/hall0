@@ -1,0 +1,17 @@
+{
+    "com.tuyoo.doudizhu.anzhi":{
+        "anzhi":{
+            "anzhi_appId":"1443432421LG25c848pw8iFVlQ0Kv3",
+            "anzhi_appKey":"1443432421LG25c848pw8iFVlQ0Kv3",
+            "anzhi_appSecret":"a77GhxRa8iblJ27x8Qncct8E",
+            "anzhi_3desKey":"",
+            "name":"anzhi"
+        },
+        "game":{
+            "package":"com.tuyoo.doudizhu.anzhi",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6597\u5730\u4e3b"
+        }
+    }
+}

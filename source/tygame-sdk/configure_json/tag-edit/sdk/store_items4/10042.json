@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "name": "首冲礼包",
+        "desc": "获得30000金币",
+        "price": 1,
+        "diamondPrice": 10,
+        "is_diamond": 0
+    },
+    {
+        "id": "2",
+        "name": "贵族礼包（月卡）",
+        "desc": "",
+        "price": 28,
+        "diamondPrice": 280,
+        "is_diamond": 0
+    },
+    {
+        "id": "3",
+        "name": "金币",
+        "desc": "获得30000金币",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0
+    },
+    {
+        "id": "4",
+        "name": "金币",
+        "desc": "获得60000+12000金币",
+        "price": 12,
+        "diamondPrice": 120,
+        "is_diamond": 0
+    },
+    {
+        "id": "5",
+        "name": "金币",
+        "desc": "",
+        "price": 50,
+        "diamondPrice": 500,
+        "is_diamond": 0
+    },
+    {
+        "id": "6",
+        "name": "金币",
+        "desc": "",
+        "price": 108,
+        "diamondPrice": 1080,
+        "is_diamond": 0
+    },
+    {
+        "id": "7",
+        "name": "金币",
+        "desc": "",
+        "price": 328,
+        "diamondPrice": 3280,
+        "is_diamond": 0
+    },
+    {
+        "id": "8",
+        "name": "金币",
+        "desc": "",
+        "price": 618,
+        "diamondPrice": 6180,
+        "is_diamond": 0
+    },
+    {
+        "id": "9",
+        "name": "钻石",
+        "desc": "",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0
+    },
+    {
+        "id": "10",
+        "name": "钻石",
+        "desc": "",
+        "price": 12,
+        "diamondPrice": 120,
+        "is_diamond": 0
+    },
+    {
+        "id": "11",
+        "name": "钻石",
+        "desc": "",
+        "price": 50,
+        "diamondPrice": 500,
+        "is_diamond": 0
+    },
+    {
+        "id": "12",
+        "name": "钻石",
+        "desc": "",
+        "price": 108,
+        "diamondPrice": 1080,
+        "is_diamond": 0
+    },
+    {
+        "id": "13",
+        "name": "钻石",
+        "desc": "",
+        "price": 328,
+        "diamondPrice": 3280,
+        "is_diamond": 0
+    },
+    {
+        "id": "14",
+        "name": "钻石",
+        "desc": "",
+        "price": 618,
+        "diamondPrice": 6180,
+        "is_diamond": 0
+    },
+    {
+        "id": "test_1",
+        "name": "测试道具",
+        "desc": "",
+        "price": 0.1,
+        "diamondPrice": 1,
+        "is_diamond": 0
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "com.tuyoo.doudizhu.main":{
+        "game":{
+            "package":"com.tuyoo.doudizhu.main",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u5355\u673a\u6597\u5730\u4e3b"
+        },
+        "jinli":{
+            "jinli_apiKey":"CCF2C1015F86408EA4227C96125C34AB",
+            "jinli_privateKey":"MIICdwIBADANBgkqhkiG9w0BAQEFAASCAmEwggJdAgEAAoGBAITbUUOcNOqmCrlft7J+di/uJquZDZ1NDnzF7vxkHnt6BtCahwesmWttk19Jm6yfgnNnE9EGk4RJInVvQGBKv3cPqVudVPSutzO7fJMn8XeFys5SYQykPSZVDoJ/Q2xVetl5LK3PJatWM+WmpLMicpqYrG3/gbZI2traO9wDJGjnAgMBAAECgYBe4ZKDyocwHS0DfoxeeVpGmLodSs0iTenOyj0HGyl53YgIapOMs4NN6Y+aOaNoAPLVIARS/3NSwjhNzgoXuspJWHFYmya8kXFO3R+osBbhbRGVpSuLD8EvFSIm27MpWVA3+C5vwSIsbcMcY61i8SN24/nC7ET0L9OYNoKNv+UEQQJBAPFVcZ00qmi7xLTXqDjHmj+56+BHFW5W9W944CwnRGiI3rNzRf8CcZe7F5UOnys9sbErxlJy9u5K0+Xvg16SK38CQQCM7j0znBoYkvZaVmLOySc5JCUHWZCrhDm+syBVowfvx+Z3ig+UWuXRjWyxuhj2Rk2R+d4kbV6PI0Thd7U9tJaZAkEA8PvjQZmveHnXSMX4Qwp96pibAw+4RMAswS0wnKZxVvkleIfpI2WrTFoUiFFbe3BVmZceqIIINZce1QJAahUHvQJAdMVZ1I99V+s9UHDPggNOCpyWSda+dj8jEY2eNxbUlqsNnPK6IfSHA/CopUJLOJPb5h4hIBG3DebtRdxIQg6F0QJBALzya37v+qvspXxjeBWs0kKK5jPm/H/CcIfFpRKIbe34zzofMqu6e/YDqHER540D9WUJ6oNsYv6KqwUB4NwxgP0=",
+            "jinli_publicKey":"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCeJl4Tb7mYtQb9u7/q9n4EjfM9qZZdD7Uy4ME5gQ6P4oUZOXqWNCY/If5JNt9zppPfkmcTMCBOkkRPAnTinyh/nLftdDClMaK2xbVgX5RBS178YQzlq7iGcGs7uLSu9Fg/BDeFgJopnt0jbaBfAYeTWCBamDYkFQxpv2CN0O6DeQIDAQAB",
+            "name":"jinli"
+        },
+        "YDJD":{
+            "name":"YDJD"
+        }
+    }
+}

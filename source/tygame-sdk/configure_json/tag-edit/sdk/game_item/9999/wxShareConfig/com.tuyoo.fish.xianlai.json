@@ -1,0 +1,29 @@
+ {
+        "text": [
+            {
+                "share_text": "测试文本001"
+            },
+            {
+                "share_text": "测试文本002"
+            }
+        ],
+        "icon": "http://img2.weile.com/uploads/wechar_share_icon/weile/meirenyu.jpg",
+        "url": "http://19.fx.tuyoo.com/guanwang/index.html",
+        "wechatid": [
+            {
+                "share_wxid": "wx92e66be0f2293a44"
+            },
+            {
+                "share_wxid": "wxc43261ad664f7dc1"
+            },
+            {
+                "share_wxid": "wxaf0ee732f5a964ab"
+            },
+            {
+                "share_wxid": "wx22169eb9e202a0fc"
+            },
+            {
+                "share_wxid": "wxbe56b9ccf6e84635"
+            }
+        ]
+    }

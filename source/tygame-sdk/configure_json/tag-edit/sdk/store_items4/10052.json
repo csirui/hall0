@@ -1,0 +1,74 @@
+[
+    {
+        "id": "product_iosty_pt",
+        "name": "普通钻石矿",
+        "desc": "",
+        "price": 30,
+        "diamondPrice": 300,
+        "is_diamond": 0
+    },
+    {
+        "id": "product_iosty_yj",
+        "name": "永久钻石矿",
+        "desc": "",
+        "price": 88,
+        "diamondPrice": 880,
+        "is_diamond": 0
+    },
+    {
+        "id": "product_iosty_006",
+        "name": "一颗钻石",
+        "desc": "",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0
+    },
+    {
+        "id": "product_iosty_030",
+        "name": "一些钻石",
+        "desc": " ",
+        "price": 30,
+        "diamondPrice": 300,
+        "is_diamond": 0
+    },
+    {
+        "id": "product_iosty_060",
+        "name": "一堆钻石",
+        "desc": "",
+        "price": 60,
+        "diamondPrice": 600,
+        "is_diamond": 0
+    },
+    {
+        "id": "product_iosty_098",
+        "name": "一包钻石",
+        "desc": "",
+        "price": 98,
+        "diamondPrice": 980,
+        "is_diamond": 0
+    },
+    {
+        "id": "product_iosty_198",
+        "name": "一箱钻石",
+        "desc": "",
+        "price": 198,
+        "diamondPrice": 1980,
+        "is_diamond": 0
+    },
+    {
+        "id": "product_iosty_328",
+        "name": "一大箱钻石",
+        "desc": "",
+        "price": 328,
+        "diamondPrice": 3280,
+        "is_diamond": 0
+    },
+    {
+        "id": "product_iosty_648",
+        "name": "集装箱钻石",
+        "desc": "",
+        "price": 648,
+        "diamondPrice": 6480,
+        "is_diamond": 0
+    }
+]

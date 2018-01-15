@@ -1,0 +1,23 @@
+{
+    "com.buyu.newdwby.vivo":{
+        "tuyoosdk":{
+            "LoginSDK":"tyGuest",
+            "PaySDKs":"vivo",
+            "defaultSDKs":"weixinWap,alipayweb,tySdkSkins_dwby",
+            "force_login":"tyGuest",
+            "ThirdExitSDKName":"",
+            "protocol_url":""
+        },
+        "game":{
+            "package":"com.buyu.newdwby.vivo",
+            "tuyoo_appId":"10071",
+            "name":"game",
+            "app_name":"\u7535\u73a9\u6355\u9c7c"
+        },
+        "vivo":{
+            "vivo_appId":"a3ac4f53bc2ef29c7196b3aef7fb14b6",
+            "vivo_cpid":"20160824184659041682",
+            "vivo_cpkey":"c37e2dde0b23340fb49bfa3f810b4a7a"
+        }
+    }
+}

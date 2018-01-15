@@ -1,0 +1,86 @@
+[
+    {
+        "id": "test",
+        "name": "测试商品",
+        "desc": "",
+        "price": 1,
+        "diamondPrice": 10,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "appBuyItem_JXCS_1",
+        "name": "60元宝购买",
+        "desc": "",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "appBuyItem_JXCS_2",
+        "name": "300元宝购买",
+        "desc": "",
+        "price": 30,
+        "diamondPrice": 300,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "appBuyItem_JXCS_3",
+        "name": "980元宝购买",
+        "desc": "",
+        "price": 98,
+        "diamondPrice": 980,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "appBuyItem_JXCS_4",
+        "name": "1980元宝购买",
+        "desc": "",
+        "price": 198,
+        "diamondPrice": 1980,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "appBuyItem_JXCS_5",
+        "name": "3280元宝购买",
+        "desc": "",
+        "price": 328,
+        "diamondPrice": 3280,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "appBuyItem_JXCS_6",
+        "name": "6480元宝购买",
+        "desc": "",
+        "price": 648,
+        "diamondPrice": 6480,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    }
+]

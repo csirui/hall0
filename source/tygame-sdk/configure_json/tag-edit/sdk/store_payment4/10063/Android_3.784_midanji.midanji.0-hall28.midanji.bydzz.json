@@ -1,0 +1,8 @@
+{
+    "*": [
+        {
+            "name": "小米安全支付",
+            "paytype": "xiaomi.danji"
+        }
+    ]
+}

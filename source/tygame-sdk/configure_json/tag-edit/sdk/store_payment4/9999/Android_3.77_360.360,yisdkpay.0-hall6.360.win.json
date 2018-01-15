@@ -1,0 +1,17 @@
+{
+    "*": [
+        {
+            "name": "360支付",
+            "paytype": "360pay",
+            "tips": "360安全支付",
+            "bonus": "0"
+        },
+        {
+            "name": "话费支付",
+            "paytype": "yisdkpay",
+            "isDefault": "1",
+            "bonus": "0",
+            "filter": "price_le_12"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "payment": {
+        "more_categories": "haimawan",
+        "default_category": [
+            {
+                "id": "TY9999R0000101",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan",
+                "is_diamond": 1
+            },
+            {
+                "id": "TY9999D0001003",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan"
+            },
+            {
+                "id": "TY9999D0002001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan"
+            },
+            {
+                "id": "TY9999D0005003",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan"
+            },
+            {
+                "id": "TY9999D0006016",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan"
+            },
+            {
+                "id": "TY9999D0008005",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan"
+            },
+            {
+                "id": "TY9999R0008005",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan",
+                "is_diamond": 1
+            },
+            {
+                "id": "TY9999D0008001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan"
+            },
+            {
+                "id": "TY9999D0008025",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan"
+            },
+            {
+                "id": "TY9999D0008026",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan"
+            },
+            {
+                "id": "TY9999D0010001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan"
+            },
+            {
+                "id": "TY9999R0050001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan",
+                "is_diamond": 1
+            },
+            {
+                "id": "TY9999D0100019",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan",
+                "is_diamond": 1
+            },
+            {
+                "id": "TY9999D1000011",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan"
+            },
+            {
+                "id": "TY9999D0300003",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan"
+            },
+            {
+                "id": "TY9999D0100020",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan"
+            },
+            {
+                "id": "TY9999D0050010",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan"
+            },
+            {
+                "id": "TY9999D0030023",
+                "category": "CAT_THIRDPAY",
+                "paytype": "haimawan"
+            }
+        ]
+    }
+}

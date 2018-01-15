@@ -1,0 +1,29 @@
+{
+    "com.tuyoo.doudizhu.letvs":{
+        "game":{
+            "package":"com.tuyoo.doudizhu.letvs",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u5355\u673a\u6597\u5730\u4e3b"
+        },
+        "letv":{
+            "name":"letv",
+            "letv_appId":"215607",
+            "letv_appKey":"ec798698054b4bedba2f404b77044b08"
+        }
+    },
+    "com.tuyoo.doudizhu.leshi":{
+        "game":{
+            "package":"com.tuyoo.doudizhu.leshi",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u5355\u673a\u6597\u5730\u4e3b"
+        },
+        "letv":{
+            "name":"letv",
+            "letv_appId":"215607",
+            "letv_appKey":"ec798698054b4bedba2f404b77044b08",
+            "scrkey":"75e29985546f470ab715e89b6b4cfb10"
+        }
+    }
+}

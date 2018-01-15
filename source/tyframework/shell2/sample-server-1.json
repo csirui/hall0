@@ -1,0 +1,109 @@
+{
+    'id'    : 9999,
+    'name'  : 'zqh37',
+    'mode'  : 1,
+    'http.download' : 'http://125.39.218.104',
+    'http.sdk'      : 'http://125.39.218.104',
+    'http.game'     : 'http://125.39.218.104',
+    'redis' : {
+	    'config'   : { 'host' : '10.3.13.37', 'port' : 6301, 'dbid' : 0 },
+	    'mix'      : { 'host' : '10.3.13.37', 'port' : 6379, 'dbid' : 2 },
+	    'friend'   : { 'host' : '10.3.13.37', 'port' : 6379, 'dbid' : 2 },
+	    'paydata'  : { 'host' : '10.3.13.37', 'port' : 6401, 'dbid' : 0 },
+	    'bicount'  : { 'host' : '10.3.13.37', 'port' : 6402, 'dbid' : 0 },
+	    'userkeys' : { 'host' : '10.3.13.37', 'port' : 6403, 'dbid' : 0 },
+	    'online'   : { 'host' : '10.3.13.37', 'port' : 6404, 'dbid' : 0 },
+	    'datas' : [
+			{ 'useridmod' : 0, 'host' : '10.3.13.37', 'port' : 6380, 'dbid' : 0 },
+			{ 'useridmod' : 1, 'host' : '10.3.13.37', 'port' : 6381, 'dbid' : 0 },
+			{ 'useridmod' : 2, 'host' : '10.3.13.37', 'port' : 6382, 'dbid' : 0 },
+			{ 'useridmod' : 3, 'host' : '10.3.13.37', 'port' : 6383, 'dbid' : 0 },
+			{ 'useridmod' : 4, 'host' : '10.3.13.37', 'port' : 6384, 'dbid' : 0 },
+			{ 'useridmod' : 5, 'host' : '10.3.13.37', 'port' : 6385, 'dbid' : 0 },
+			{ 'useridmod' : 6, 'host' : '10.3.13.37', 'port' : 6386, 'dbid' : 0 },
+			{ 'useridmod' : 7, 'host' : '10.3.13.37', 'port' : 6387, 'dbid' : 0 },
+                     ]
+            },
+   'mysql' :{
+        'beauty'    : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'beauty', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+        'advertise' : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'ads', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+        'user'      : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'tyuser', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+        'tyuser'    : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'tyuser', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+        'tygame0'   : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'tygame0', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+        'tygame1'   : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'tygame1', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+        'tygame2'   : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'tygame2', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+        'tygame3'   : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'tygame3', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+        'tygame4'   : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'tygame4', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+        'tygame5'   : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'tygame5', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+        'tygame6'   : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'tygame6', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+        'tygame7'   : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'tygame7', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+        'tygame8'   : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'tygame8', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+        'tygame9'   : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'tygame9', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+        'tygame10'   : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'tygame10', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+        'tygame11'   : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'tygame11', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+        'tygame9999' : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'tygame9999', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+        'game'       : {'host' : "10.3.13.44", 'port' : 3306, 'dbname' : 'tygame9999', 'user' : 'tuyoogame', 'pwd' : 'tuyoogame' },
+    },
+
+    'servers'   : [
+        {'id' : 'ddz-h1' , 'cpucount' : 0, 'internet' : '125.39.218.104', 'intrant' : '10.3.13.37'},
+        {'id' : 'ddz-c1' , 'cpucount' : 0, 'internet' : '125.39.218.106', 'intrant' : '10.3.13.44'},
+        {'id' : 'ddz-a1' , 'cpucount' : 0, 'internet' : '10.3.13.38', 'intrant' : '10.3.13.38'},
+        {'id' : 'ddz-a2' , 'cpucount' : 0, 'internet' : '10.3.13.39', 'intrant' : '10.3.13.39'},
+        {'id' : 'ddz-a3' , 'cpucount' : 0, 'internet' : '10.3.13.40', 'intrant' : '10.3.13.40'},
+        {'id' : 'ddz-u1' , 'cpucount' : 0, 'internet' : '10.3.13.41', 'intrant' : '10.3.13.41'},
+        {'id' : 'ddz-u2' , 'cpucount' : 0, 'internet' : '10.3.13.42', 'intrant' : '10.3.13.42'},
+        {'id' : 'ddz-u3' , 'cpucount' : 0, 'internet' : '10.3.13.43', 'intrant' : '10.3.13.43'},
+        {'id' : 'ddz-g1' , 'cpucount' : 0, 'internet' : '10.3.13.45', 'intrant' : '10.3.13.45'},
+        {'id' : 'ddz-g2' , 'cpucount' : 0, 'internet' : '10.3.13.46', 'intrant' : '10.3.13.46'},
+        {'id' : 'ddz-g3' , 'cpucount' : 0, 'internet' : '10.3.13.47', 'intrant' : '10.3.13.47'},
+        {'id' : 't3card-g1' , 'cpucount' : 0, 'internet' : '10.3.13.48', 'intrant' : '10.3.13.48'},
+        {'id' : 'douniu-g1' , 'cpucount' : 0, 'internet' : '10.3.13.49', 'intrant' : '10.3.13.49'},
+        {'id' : 'majiang-g1' , 'cpucount' : 0, 'internet' : '10.3.13.50', 'intrant' : '10.3.13.50'},
+        
+    ],
+    'process' : [
+          { 'type' : 'http', 'id' : 2, 'server' : 'ddz-h1', 'udp' : nextUdp(), 'http' : nextHttp()},
+          { 'type' : 'http', 'id' : 3, 'server' : 'ddz-h1', 'udp' : nextUdp(), 'http' : nextHttp()},
+
+          { 'type' : 'conn', 'id' : 10, 'server' : 'ddz-c1', 'ssl': nextTcp(), 'udp' : nextUdp() },
+          { 'type' : 'conn', 'id' : 11, 'server' : 'ddz-c1', 'tcp': nextTcp(), 'udp' : nextUdp() },
+
+          { 'type' : 'account', 'id' : 50, 'server' : 'ddz-a1', 'udp' : nextUdp() },
+          { 'type' : 'account', 'id' : 51, 'server' : 'ddz-a1', 'udp' : nextUdp() },
+
+          { 'type' : 'account', 'id' : 74, 'server' : 'ddz-a2', 'udp' : nextUdp() },
+          { 'type' : 'account', 'id' : 75, 'server' : 'ddz-a2', 'udp' : nextUdp() },
+          
+          { 'type' : 'account', 'id' : 97,  'server' : 'ddz-a3', 'udp' : nextUdp() },
+          { 'type' : 'account', 'id' : 98,  'server' : 'ddz-a3', 'udp' : nextUdp() },
+
+          { 'type' : 'robot', 'id' : 0, 'server' : 'ddz-u1', 'udp'  : nextUdp()},
+          { 'type' : 'robot', 'id' : 1, 'server' : 'ddz-u1', 'udp'  : nextUdp()},
+
+          { 'type' : 'entity', 'id' : 40, 'server' : 'ddz-u2', 'udp' : nextUdp() },
+          { 'type' : 'quick', 'id' : 970, 'server' : 'ddz-u2', 'udp' : nextUdp() },
+
+          { 'type' : 'heart', 'id' : 979, 'server' : 'ddz-u3', 'udp' : nextUdp() },
+          { 'type' : 'heart', 'id' : 990, 'server' : 'ddz-u3', 'udp' : nextUdp() },
+
+          { 'type' : 'game', 'id' : 60100, 'server' : 'ddz-g1', 'udp' : nextUdp() },
+          { 'type' : 'game', 'id' : 60101, 'server' : 'ddz-g1', 'udp' : nextUdp() },
+
+          { 'type' : 'game', 'id' : 60300, 'server' : 'ddz-g2', 'udp' : nextUdp() },
+          { 'type' : 'game', 'id' : 60301, 'server' : 'ddz-g2', 'udp' : nextUdp() },
+
+          { 'type' : 'game', 'id' : 60700, 'server' : 'ddz-g3', 'udp' : nextUdp() },
+          { 'type' : 'game', 'id' : 60500, 'server' : 'ddz-g3', 'udp' : nextUdp() },
+
+          { 'type' : 'game', 'id' : 10100, 'server' : 't3card-g1', 'udp' : nextUdp() },
+          { 'type' : 'game', 'id' : 10101, 'server' : 't3card-g1', 'udp' : nextUdp() },
+          
+          { 'type' : 'game', 'id' : 1001, 'server' : 'douniu-g1', 'udp' : nextUdp() },
+          { 'type' : 'game', 'id' : 1002, 'server' : 'douniu-g1', 'udp' : nextUdp() },
+
+          { 'type' : 'game', 'id' : 701, 'server' : 'majiang-g1', 'udp' : nextUdp() },
+          { 'type' : 'game', 'id' : 702, 'server' : 'majiang-g1', 'udp' : nextUdp() },
+          
+       ]
+}

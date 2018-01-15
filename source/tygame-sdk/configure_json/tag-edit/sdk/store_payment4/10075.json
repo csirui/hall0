@@ -1,0 +1,17 @@
+{
+    "*": [
+        {
+            "name": "支付宝",
+            "paytype": "tuyou.ali",
+            "tips": "使用支付宝支付"
+        },
+        {
+            "name": "微信支付",
+            "paytype": "wxwap"
+        },
+        {
+            "name": "苹果支付",
+            "paytype": "tuyooios"
+        }
+    ]
+}

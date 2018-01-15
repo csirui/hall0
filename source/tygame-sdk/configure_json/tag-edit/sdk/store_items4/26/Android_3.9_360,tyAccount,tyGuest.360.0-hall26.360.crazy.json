@@ -1,0 +1,62 @@
+[
+    {
+        "id": "TY9999D0002001",
+        "name": "10钻石",
+        "desc": "",
+        "price": 1,
+        "diamondPrice": 10,
+        "is_diamond": 1,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "TY9999D0010001",
+        "name": "30钻石",
+        "desc": "",
+        "price": 3,
+        "diamondPrice": 30,
+        "is_diamond": 1,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "TY9999D0002002",
+        "name": "60钻石",
+        "desc": "",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 1,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "TY9999D0005001",
+        "name": "300钻石",
+        "desc": "",
+        "price": 30,
+        "diamondPrice": 300,
+        "is_diamond": 1,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "TY9999D0020001",
+        "name": "980钻石",
+        "desc": "",
+        "price": 98,
+        "diamondPrice": 980,
+        "is_diamond": 1,
+        "is_monthly": 0,
+        "is_danji": 0,
+        "daily_limit": 0,
+        "currency": "CNY"
+    }
+]

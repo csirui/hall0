@@ -1,0 +1,37 @@
+{
+    "payment":{
+        "default_category":[
+            {
+                "category":"CAT_THIRDPAY",
+                "id":"TY0008D0008001",
+                "paytype":"ydjd"
+            },
+            {
+                "category":"CAT_THIRDPAY",
+                "id":"TY0008D0010001",
+                "paytype":"ydjd"
+            },
+            {
+                "category":"CAT_THIRDPAY",
+                "id":"TY9999R0008001",
+                "paytype":"ydjd"
+            },
+            {
+                "category":"CAT_THIRDPAY",
+                "id":"TY9999D0008001",
+                "paytype":"ydjd"
+            },
+            {
+                "category":"CAT_ALIPAY",
+                "id":"TY9999D0012003"
+            },
+            {
+                "category":"CAT_THIRDPAY",
+                "id":"TY9999D0008002",
+                "paytype":"ydjd"
+            }
+        ],
+        "more_categories":"ydjd"
+    },
+    "store":[]
+}

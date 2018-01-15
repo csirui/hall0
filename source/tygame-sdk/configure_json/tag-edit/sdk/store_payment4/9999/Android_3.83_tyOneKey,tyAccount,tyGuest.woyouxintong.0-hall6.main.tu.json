@@ -1,0 +1,10 @@
+{
+    "*": [
+        {
+            "name": "wyxt支付",
+            "paytype": "wyxt",
+            "tips": "wyxt支付",
+            "isDefault": "1"
+        }
+    ]
+}

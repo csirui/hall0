@@ -1,0 +1,50 @@
+{
+    "ydmm": {
+        "appid": "300002815708",
+        "appkey": "57268B5C917DC47A",
+        "paydata": [
+            {"prodid": "TY9999D0002001", "msgOrderCode": "30000281570802" },
+            {"prodid": "TY9999D0006001", "msgOrderCode": "30000281570804" },
+            {"prodid": "TY9999D0008002", "msgOrderCode": "30000281570809" },
+            {"prodid": "TY9999D0008001", "msgOrderCode": "30000281570810" },
+            {"prodid": "TY9999R0008001", "msgOrderCode": "30000281570806" },
+            {"prodid": "TY9999R00020DJ", "msgOrderCode": "30000281570801" }
+        ]
+    },
+    "ydjd": {
+        "appid": "621216034984",
+        "cpid": "772212",
+        "paydata": [
+            {"prodid": "TY9999D0006001", "msgOrderCode": "002" },
+            {"prodid": "TY9999D0008001", "msgOrderCode": "005" },
+            {"prodid": "TY9999R0008001", "msgOrderCode": "003" },
+            {"prodid": "TY9999D0008002", "msgOrderCode": "004" },
+            {"prodid": "TY9999D0002001", "msgOrderCode": "001" }
+        ]
+    },
+    "liantong.wo": {
+        "appid": "9014273345620141028162751391500",
+        "cpid": "86009366",
+        "appkey": "8786914cc07009556fcf",
+        "paydata": [
+            {"prodid": "TY9999D0006001", "msgOrderCode":"141028065892", "orderProdCode":"9014273345620141028162751391500001","orderProdName":"60000金币" },
+            {"prodid": "TY9999D0008002", "msgOrderCode":"141028065894", "orderProdCode":"9014273345620141028162751391500003","orderProdName":"8元转运礼包" },
+            {"prodid": "TY9999D0008001", "msgOrderCode":"141028065893", "orderProdCode":"9014273345620141028162751391500002","orderProdName":"超值礼包" },
+            {"prodid": "TY9999R0008001", "msgOrderCode":"141028065895", "orderProdCode":"9014273345620141028162751391500004","orderProdName":"80钻石" },
+            {"prodid": "TY9999D0002001", "msgOrderCode":"150407099248", "orderProdCode":"9014273345620141028162751391500005","orderProdName":"20000金币" },
+            {"prodid": "TY9999R00020DJ", "msgOrderCode":"150407099249", "orderProdCode":"9014273345620141028162751391500006","orderProdName":"30000银币" }
+        ]
+    },
+        "aigame": {
+        "appid": "120115015162",
+        "appkey": "f8a24f4571a749076b37d78dfc57d9e8",
+        "paydata": [
+            {"prodid": "TY9999D0006001", "fake":"" },
+            {"prodid": "TY9999D0008002", "fake":"" },
+            {"prodid": "TY9999D0008001", "fake":"" },
+            {"prodid": "TY9999R0008001", "fake":"" },
+            {"prodid": "TY9999D0002001", "fake":"" },
+            {"prodid": "TY9999R00020DJ", "fake":"" }
+        ]
+    }
+}

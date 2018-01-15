@@ -1,0 +1,25 @@
+{
+    "com.doudizhu.mainhuanle.baidu":{
+        "game":{
+            "package":"com.doudizhu.mainhuanle.baidu",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u6b22\u4e50\u9014\u6e38\u6597\u5730\u4e3b"
+        },
+        "duoku":{
+            "name":"duoku",
+            "dksdk_appid":"6989420",
+            "dksdk_appkey":"OrDEcDrIRZhTgRT4sZnEYRT3",
+            "dksdk_appsecret":"eLDCK6maW1WNgK4crpajr56LQZ8WDTfG",
+            "dksdk_channel":"",
+            "dksdk_payKey":"eLDCK6maW1WNgK4crpajr56LQZ8WDTfG",
+            "products":[
+                {
+                    "diamondId":"TY9999D0000103",
+                    "name":"1\u5929\u4f1a\u5458",
+                    "mPropsId":"10451"
+                }
+            ]
+        }
+    }
+}

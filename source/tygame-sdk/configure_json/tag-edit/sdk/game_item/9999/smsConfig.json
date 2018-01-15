@@ -1,0 +1,11 @@
+{
+    "smstype": "tuyoo",
+    "sendcode": "验证码:%d(为保账号安全请勿告知他人，如有疑问请拨打客服电话：4008098000)",
+    "smsconfig": {
+        "sname": "dlzxty00",
+        "spwd": "18lJsdrv",
+        "sprdid": "1012818",
+        "smssign": "【途游游戏】",
+        "smsurl": "http://cf.lmobile.cn/submitdata/Service.asmx/g_Submit"
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "payment": {
+        "more_categories": "fake",
+        "default_category": [
+            {
+                "id": "TY9999D0006016",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "main_strategy"
+            },
+            {
+                "id": "TY9999D0001002",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "main_strategy"
+            },
+            {
+                "id": "TY9999D0003001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "main_strategy"
+            },
+            {
+                "id": "TY9999D0006003",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "main_strategy"
+            },
+            {
+                "id": "TY9999D0030003",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "main_strategy"
+            },
+            {
+                "id": "TY9999D0030001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "main_strategy"
+            },
+            {
+                "id": "TY9999D0098001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "main_strategy"
+            },
+            {
+                "id": "TY9999D0198001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "main_strategy"
+            },
+            {
+                "id": "TY9999R0006001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "is_diamond": 1,
+                "strategy": "main_strategy"
+            },
+            {
+                "id": "TY9999R0030001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "is_diamond": 1,
+                "strategy": "main_strategy"
+            },
+            {
+                "id": "TY9999R0128001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "is_diamond": 1,
+                "strategy": "main_strategy"
+            },
+            {
+                "id": "TY9999D0328001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "main_strategy"
+            },
+            {
+                "id": "TY9999D0648001",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "main_strategy"
+            },
+            {
+                "id": "TY0006D0030004",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "main_strategy"
+            },
+            {
+                "id": "TY0006D0098002",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "main_strategy"
+            },
+            {
+                "id": "TY9999D0006004",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "main_strategy"
+            },
+            {
+                "id": "TY9999D0006005",
+                "category": "CAT_THIRDPAY",
+                "paytype": "fake",
+                "strategy": "main_strategy"
+            }
+        ]
+    },
+    "store": [
+        {
+            "displayName": "道具商城",
+            "products": [
+                "TY9999D0006001",
+                "TY9999D0030001",
+                "TY9999D0050001",
+                "TY9999D0300001",
+                "TY9999D1000001",
+                "TY0006D0030002",
+                "TY0006D0100002"
+            ],
+            "name": "item",
+            "visible": 1
+        },
+        {
+            "displayName": "钻石商城",
+            "products": [
+                "TY9999D0006001",
+                "TY0007D0300001"
+            ],
+            "name": "diamond",
+            "visible": 1
+        }
+    ]
+}

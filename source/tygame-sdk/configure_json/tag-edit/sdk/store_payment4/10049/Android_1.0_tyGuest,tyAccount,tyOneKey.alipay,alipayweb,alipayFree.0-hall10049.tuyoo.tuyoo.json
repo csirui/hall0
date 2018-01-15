@@ -1,0 +1,17 @@
+{
+    "*": [
+        {
+            "name": "支付宝",
+            "paytype": "pingxiang.ali",
+            "tips": "pengyouwan"
+        },
+        {
+            "name": "支付宝网页",
+            "paytype": "pingxiang.aliwap"
+        },
+        {
+            "name": "免密",
+            "paytype": "alifree"
+        }
+    ]
+}

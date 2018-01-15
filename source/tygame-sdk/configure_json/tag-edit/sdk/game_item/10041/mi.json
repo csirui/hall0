@@ -1,0 +1,24 @@
+{
+    "com.tencent.tmgp.tuyoo.yh.mi":{
+        "tuyoosdk":{
+            "name":"tuyoosdk",
+            "LoginSDK":"mi",
+            "PaySDKs":"mi",
+            "defaultSDKs":"tyOneKey,tyAccount,tyCard,weixinWap,alipayweb",
+            "force_login":"mi",
+            "version":"1.0"
+        },
+        "game":{
+            "package":"com.tencent.tmgp.tuyoo.yh.mi",
+            "tuyoo_appId":"10041",
+            "name":"game",
+            "app_name":"\u6c38\u6052"
+        },
+        "xiaomi":{
+            "name":"xiaomi",
+            "xiaomi_appID":"2882303761517450183",
+            "xiaomi_appKey":"5431745087183",
+            "xiaomi_payKey":"lJaW+7z0cadC7t+d8+HT3g=="
+        }
+    }
+}

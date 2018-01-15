@@ -1,0 +1,30 @@
+{
+    "com.tuyoo.doudizhu.main.nubia":{
+        "nubia":{
+            "name":"nubia",
+            "nubia_appId":"455117",
+            "nubia_appKey":"83283962090F7F7D58C7A0107A94EAB2",
+            "secret":"3D6589168AC18545C3706638ADE8DAC5"
+        },
+        "game":{
+            "package":"com.tuyoo.doudizhu.main.nubia",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u5355\u673a\u6597\u5730\u4e3b"
+        }
+    },
+    "com.tiantian.dezhoupoker.nubia":{
+        "nubia":{
+            "name":"nubia",
+            "nubia_appId":"455117",
+            "nubia_appKey":"83283962090F7F7D58C7A0107A94EAB2",
+            "secret":"3D6589168AC18545C3706638ADE8DAC5"
+        },
+        "game":{
+            "package":"com.tiantian.dezhoupoker.nubia",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u5355\u673a\u6597\u5730\u4e3b"
+        }
+    }
+}

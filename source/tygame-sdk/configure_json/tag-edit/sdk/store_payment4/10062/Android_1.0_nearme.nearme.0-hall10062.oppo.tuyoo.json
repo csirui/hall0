@@ -1,0 +1,11 @@
+{
+    "*": [
+        {
+            "name": "支付宝",
+            "paytype": "nearme",
+            "tips": "支付宝安全支付",
+            "specialTips": "极速支付",
+            "isDefault": "1"
+        }
+    ]
+}

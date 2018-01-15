@@ -1,0 +1,6378 @@
+[
+    {
+        "name": "IOS_1.03_tuyou",
+        "clientIds": [
+            "IOS_1.03_tuyou"
+        ],
+        "products": [
+            {
+                "tyid": "DI60",
+                "name": "钻石x60",
+                "price": 6,
+                "iosid": "com.tuyoo.sdk.product1"
+            },
+            {
+                "tyid": "DI120",
+                "name": "钻石x120",
+                "price": 12,
+                "iosid": "com.tuyoo.sdk.product2"
+            },
+            {
+                "tyid": "DI180",
+                "name": "钻石x180",
+                "price": 18,
+                "iosid": "com.tuyoo.sdk.product3"
+            },
+            {
+                "tyid": "DI300",
+                "name": "钻石x300",
+                "price": 30,
+                "iosid": "com.tuyoo.sdk.product3"
+            },
+            {
+                "tyid": "DI680",
+                "name": "钻石x680",
+                "price": 68,
+                "iosid": "com.tuyoo.sdk.product3"
+            },
+            {
+                "tyid": "DI1280",
+                "name": "钻石x1280",
+                "price": 128,
+                "iosid": "com.tuyoo.sdk.product3"
+            },
+            {
+                "tyid": "DI3280",
+                "name": "钻石x3280",
+                "price": 328,
+                "iosid": "com.tuyoo.sdk.product3"
+            },
+            {
+                "tyid": "DI6480",
+                "name": "钻石x6480",
+                "price": 648,
+                "iosid": "com.tuyoo.sdk.product3"
+            }
+        ]
+    },
+    {
+        "name": "^MAC_.*hall3.*$",
+        "clientIds": [
+            "^MAC_.*hall3.*$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.tuyoo.chess.mac.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.tuyoo.chess.mac.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.tuyoo.chess.mac.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.tuyoo.chess.mac.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.tuyoo.chess.mac.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.tuyoo.chess.mac.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石",
+                "price": 60,
+                "iosid": "com.tuyoo.chess.mac.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.tuyoo.chess.mac.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.tuyoo.chess.mac.d128"
+            }
+        ]
+    },
+    {
+        "name": "^MAC_.*hall7.*$",
+        "clientIds": [
+            "^MAC_.*hall7.*$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.tuyoo.majiang.mac.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.tuyoo.majiang.mac.c30"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.tuyoo.majiang.mac.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.tuyoo.majiang.mac.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.tuyoo.majiang.mac.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.tuyoo.majiang.mac.c328"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.tuyoo.majiang.mac.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.tuyoo.majiang.mac.c648"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.tuyoo.majiang.mac.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石",
+                "price": 60,
+                "iosid": "com.tuyoo.majiang.mac.d_6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.tuyoo.majiang.mac.d_30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.tuyoo.majiang.mac.d_128"
+            }
+        ]
+    },
+    {
+        "name": "^MAC_.*hall6.*$",
+        "clientIds": [
+            "^MAC_.*hall6.*$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "1万金币",
+                "price": 10,
+                "iosid": "com.tuyoo.ddz.mac.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "3万金币",
+                "price": 30,
+                "iosid": "com.tuyoo.ddz.mac.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.tuyoo.ddz.mac.c6"
+            },
+            {
+                "tyid": "TY9999D0006001",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.tuyoo.ddz.mac.c6"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻",
+                "price": 60,
+                "iosid": "com.tuyoo.ddz.mac.d6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.tuyoo.ddz.mac.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.tuyoo.ddz.mac.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.tuyoo.ddz.mac.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.tuyoo.ddz.mac.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.tuyoo.ddz.mac.c648"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.tuyoo.ddz.mac.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.tuyoo.ddz.mac.d128"
+            }
+        ]
+    },
+    {
+        "name": "^MAC_.*hall8.*$",
+        "clientIds": [
+            "^MAC_.*hall8.*$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.tuyoo.texas.mac.c6"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻",
+                "price": 60,
+                "iosid": "com.tuyoo.texas.mac.d6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.tuyoo.texas.mac.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.tuyoo.texas.mac.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.tuyoo.texas.mac.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.tuyoo.texas.mac.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.tuyoo.texas.mac.c648"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.tuyoo.texas.mac.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.tuyoo.texas.mac.d128"
+            }
+        ]
+    },
+    {
+        "name": "^IOS_3.*$",
+        "clientIds": [
+            "^IOS_3.*$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "1万金币",
+                "price": 10,
+                "iosid": "cn.com.doudizhu.happy.hall.a"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "3万金币",
+                "price": 30,
+                "iosid": "cn.com.doudizhu.happy.hall.b"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "cn.com.doudizhu.happy.1"
+            },
+            {
+                "tyid": "TY9999D0030003",
+                "name": "30万金币",
+                "price": 300,
+                "iosid": "cn.com.doudizhu.happy.4"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "33万金币",
+                "price": 300,
+                "iosid": "cn.com.doudizhu.happy.4"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "33万金币",
+                "price": 300,
+                "iosid": "cn.com.doudizhu.happy.4"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "cn.com.doudizhu.happy.hall.1"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "cn.com.doudizhu.happy.hall.2"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "cn.com.doudizhu.happy.hall.c"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "cn.com.doudizhu.happy.hall.3"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "cn.com.doudizhu.happy.hall.3"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "cn.com.doudizhu.happy.hall.4"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "cn.com.doudizhu.happy.hall.4"
+            },
+            {
+                "tyid": "TY0006D0030004",
+                "name": "7天会员卡（立得28万金币，每日登录可得3万金币（7天））",
+                "price": 300,
+                "iosid": "cn.com.doudizhu.happy.hall.5"
+            },
+            {
+                "tyid": "TY0006D0098002",
+                "name": "30天会员卡（立得100万金币，每日登录可得3万金币（30天））",
+                "price": 980,
+                "iosid": "cn.com.doudizhu.happy.hall.6"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "cn.com.doudizhu.happy.hall.7"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "cn.com.doudizhu.happy.hall.8"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "超值礼包",
+                "price": 60,
+                "iosid": "cn.com.doudizhu.happy.9"
+            },
+            {
+                "tyid": "TY9999D0006005",
+                "name": "6元转运礼包",
+                "price": 60,
+                "iosid": "cn.com.doudizhu.happy.10"
+            }
+        ]
+    },
+    {
+        "name": "^IOS_3.7.*hall3.*$",
+        "clientIds": [
+            "^IOS_3.7.*hall3.*$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.tuyoo.chinesechess.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.tuyoo.chinesechess.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.tuyoo.chinesechess.1"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.tuyoo.chinesechess.2"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.tuyoo.chinesechess.3"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.tuyoo.chinesechess.4"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.tuyoo.chinesechess.5"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.tuyoo.chinesechess.6"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.tuyoo.chinesechess.7"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.tuyoo.chinesechess.8"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.tuyoo.chinesechess.d128"
+            }
+        ]
+    },
+    {
+        "name": "^IOS_3.*zhafantian$",
+        "clientIds": [
+            "^IOS_3.*zhafantian$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "1万金币",
+                "price": 10,
+                "iosid": "cn.com.doudizhu.zhafantian.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "3万金币",
+                "price": 30,
+                "iosid": "cn.com.doudizhu.zhafantian.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "cn.com.doudizhu.zhafantian.c6"
+            },
+            {
+                "tyid": "TY9999D0030003",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "cn.com.doudizhu.zhafantian.c30"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "cn.com.doudizhu.zhafantian.c30"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "cn.com.doudizhu.zhafantian.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "cn.com.doudizhu.zhafantian.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "cn.com.doudizhu.zhafantian.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "cn.com.doudizhu.zhafantian.c328"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "cn.com.doudizhu.zhafantian.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "cn.com.doudizhu.zhafantian.c648"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "cn.com.doudizhu.zhafantian.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "cn.com.doudizhu.zhafantian.d60"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "cn.com.doudizhu.zhafantian.d300"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "cn.com.doudizhu.zhafantian.d1280"
+            },
+            {
+                "tyid": "TY9999D0006005",
+                "name": "6元转运礼包",
+                "price": 60,
+                "iosid": "cn.com.doudizhu.zhafantian.zhuanyun"
+            }
+        ]
+    },
+    {
+        "name": "^IOS_3.*momo$",
+        "clientIds": [
+            "^IOS_3.*momo$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0002050",
+                "name": "地主小礼包",
+                "price": 10,
+                "iosid": "com.wemomo.game.ddz.68"
+            },
+            {
+                "tyid": "TY9999D0006050",
+                "name": "地主体验礼包",
+                "price": 30,
+                "iosid": "com.wemomo.game.ddz.48"
+            },
+            {
+                "tyid": "TY9999D0012050",
+                "name": "地主特惠礼包",
+                "price": 60,
+                "iosid": "com.wemomo.game.ddz.21"
+            },
+            {
+                "tyid": "TY9999D0030050",
+                "name": "地主豪华礼包",
+                "price": 300,
+                "iosid": "com.wemomo.game.ddz.22"
+            },
+            {
+                "tyid": "TY9999D0068050",
+                "name": "顺发大礼包",
+                "price": 980,
+                "iosid": "com.wemomo.game.ddz.23"
+            },
+            {
+                "tyid": "TY9999D0128050",
+                "name": "聚财大礼包",
+                "price": 1980,
+                "iosid": "com.wemomo.game.ddz.24"
+            },
+            {
+                "tyid": "TY9999D0328050",
+                "name": "土豪大礼包",
+                "price": 3280,
+                "iosid": "com.wemomo.game.ddz.25"
+            },
+            {
+                "tyid": "TY9999D0006051",
+                "name": "月光宝盒礼包",
+                "price": 6480,
+                "iosid": "com.wemomo.game.ddz.36"
+            },
+            {
+                "tyid": "TY9999D0006052",
+                "name": "语音小喇叭100个",
+                "price": 60,
+                "iosid": "com.wemomo.game.ddz.26"
+            },
+            {
+                "tyid": "TY9999D0006053",
+                "name": "参赛券x30",
+                "price": 300,
+                "iosid": "com.wemomo.game.ddz.37"
+            },
+            {
+                "tyid": "TY9999D0012052",
+                "name": "7天记牌器",
+                "price": 60,
+                "iosid": "com.wemomo.game.ddz.27"
+            },
+            {
+                "tyid": "TY9999D0006054",
+                "name": "转运礼包",
+                "price": 60,
+                "iosid": "com.wemomo.game.ddz.38"
+            },
+            {
+                "tyid": "TY9999D0030051",
+                "name": "转运大礼包",
+                "price": 10,
+                "iosid": "com.wemomo.game.ddz.56"
+            },
+            {
+                "tyid": "TY9999D0030052",
+                "name": "VIP普通礼包",
+                "price": 30,
+                "iosid": "com.wemomo.game.ddz.42"
+            },
+            {
+                "tyid": "TY9999D0068051",
+                "name": "VIP豪华礼包",
+                "price": 60,
+                "iosid": "com.wemomo.game.ddz.43"
+            },
+            {
+                "tyid": "TY9999D0006055",
+                "name": "50000金币",
+                "price": 60,
+                "iosid": "com.wemomo.game.ddz.28"
+            },
+            {
+                "tyid": "TY9999D0012051",
+                "name": "100000金币",
+                "price": 120,
+                "iosid": "com.wemomo.game.ddz.29"
+            },
+            {
+                "tyid": "TY9999D0018051",
+                "name": "170000金币",
+                "price": 180,
+                "iosid": "com.wemomo.game.ddz.30"
+            },
+            {
+                "tyid": "TY9999D0030053",
+                "name": "300000金币",
+                "price": 300,
+                "iosid": "com.wemomo.game.ddz.31"
+            },
+            {
+                "tyid": "TY9999D0068052",
+                "name": "700000金币",
+                "price": 680,
+                "iosid": "com.wemomo.game.ddz.32"
+            },
+            {
+                "tyid": "TY9999D0128051",
+                "name": "1500000金币",
+                "price": 1280,
+                "iosid": "com.wemomo.game.ddz.33"
+            },
+            {
+                "tyid": "TY9999D0006056",
+                "name": "月光之钥x3",
+                "price": 60,
+                "iosid": "com.wemomo.game.ddz.35"
+            },
+            {
+                "tyid": "TY9999D0006058",
+                "name": "转运礼包",
+                "price": 60,
+                "iosid": "com.wemomo.game.ddz.40"
+            },
+            {
+                "tyid": "TY9999D0030054",
+                "name": "转运大礼包",
+                "price": 300,
+                "iosid": "com.wemomo.game.ddz.41"
+            },
+            {
+                "tyid": "TY9999D0012053",
+                "name": "记牌器7天",
+                "price": 120,
+                "iosid": "com.wemomo.game.ddz.45"
+            },
+            {
+                "tyid": "TY9999D0030055",
+                "name": "普通VIP礼包",
+                "price": 300,
+                "iosid": "com.wemomo.game.ddz.46"
+            },
+            {
+                "tyid": "TY9999D0068053",
+                "name": "豪华VIP礼包",
+                "price": 680,
+                "iosid": "com.wemomo.game.ddz.47"
+            }
+        ]
+    },
+    {
+        "name": "^IOS_.*hall7.*$",
+        "clientIds": [
+            "^IOS_.*hall7.*$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "cn.com.majiang.hall.1"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "cn.com.majiang.hall.2"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "cn.com.majiang.hall.2"
+            },
+            {
+                "tyid": "TY9999D0030003",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "cn.com.majiang.hall.2"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "cn.com.majiang.hall.3"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "cn.com.majiang.hall.4"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "cn.com.majiang.hall.5"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "cn.com.majiang.hall.5"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "cn.com.majiang.hall.6"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "cn.com.majiang.hall.6"
+            },
+            {
+                "tyid": "TY0006D0030004",
+                "name": "7天会员卡（立得28万金币，每日再赠3万，雀神分翻倍）",
+                "price": 300,
+                "iosid": "cn.com.majiang.hall.7"
+            },
+            {
+                "tyid": "TY0006D0098002",
+                "name": "30天会员卡（立得100万金币，每日再赠3万，雀神分翻倍）",
+                "price": 980,
+                "iosid": "cn.com.majiang.hall.8"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "cn.com.majiang.hall.9"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "cn.com.majiang.hall.10"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "cn.com.majiang.hall.d1280"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6元超值礼包",
+                "price": 60,
+                "iosid": "cn.com.majiang.hall.11"
+            },
+            {
+                "tyid": "TY9999D0006005",
+                "name": "6元转运礼包",
+                "price": 60,
+                "iosid": "cn.com.majiang.hall.12"
+            }
+        ]
+    },
+    {
+        "name": "^IOS_3.*hall20.*$",
+        "clientIds": [
+            "^IOS_3.*hall20.*$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "cn.com.gomoku.tuyoo.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "cn.com.gomoku.tuyoo.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "cn.com.gomoku.tuyoo.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "cn.com.gomoku.tuyoo.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "cn.com.gomoku.tuyoo.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "cn.com.gomoku.tuyoo.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "cn.com.gomoku.tuyoo.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "cn.com.gomoku.tuyoo.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "cn.com.gomoku.tuyoo.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "cn.com.gomoku.tuyoo.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "cn.com.gomoku.tuyoo.d128"
+            }
+        ]
+    },
+    {
+        "name": "majiang_appStore_cherry",
+        "clientIds": [
+            "^IOS_3.7.*hall7.appStore.cherry$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.cherrygame.majiang.product.11"
+            },
+            {
+                "tyid": "TY9999D0030003",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.cherrygame.majiang.product.3"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.cherrygame.majiang.product.3"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.cherrygame.majiang.product.a"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.cherrygame.majiang.product.6"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.cherrygame.majiang.product.b"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.cherrygame.majiang.product.c"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.cherrygame.majiang.product.d"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.cherrygame.majiang.product.e"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.cherrygame.majiang.product.f"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6元超值礼包",
+                "price": 60,
+                "iosid": "com.cherrygame.majiang.product.g"
+            },
+            {
+                "tyid": "TY9999D0006005",
+                "name": "6元转运礼包",
+                "price": 60,
+                "iosid": "com.cherrygame.majiang.product.h"
+            }
+        ]
+    },
+    {
+        "name": "majiang_appStore_huanle",
+        "clientIds": [
+            "^IOS_3.7.*hall7.appStore.huanle$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.majiang.huanle.c6"
+            },
+            {
+                "tyid": "TY9999D0006001",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.majiang.huanle.c6"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻",
+                "price": 60,
+                "iosid": "com.majiang.huanle.d6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.majiang.huanle.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.majiang.huanle.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.majiang.huanle.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.majiang.huanle.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.majiang.huanle.c648"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.majiang.huanle.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.majiang.huanle.d128"
+            }
+        ]
+    },
+    {
+        "name": "majiang_appStore_sichuan",
+        "clientIds": [
+            "^IOS_3.7.*hall7.appStore.sichuan$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.majiang.sichuan.c6"
+            },
+            {
+                "tyid": "TY9999D0006001",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.majiang.sichuan.c6"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻",
+                "price": 60,
+                "iosid": "com.majiang.sichuan.d6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.majiang.sichuan.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.majiang.sichuan.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.majiang.sichuan.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.majiang.sichuan.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.majiang.sichuan.c648"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.majiang.sichuan.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.majiang.sichuan.d128"
+            }
+        ]
+    },
+    {
+        "name": "majiang_appStore_zhenren",
+        "clientIds": [
+            "^IOS_3.7.*hall7.appStore.zhenren$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.majiang.zhenren.c6"
+            },
+            {
+                "tyid": "TY9999D0006001",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.majiang.zhenren.c6"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻",
+                "price": 60,
+                "iosid": "com.majiang.zhenren.d6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.majiang.zhenren.c30"
+            },
+            {
+                "tyid": "TY9999D0030003",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.majiang.zhenren.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.majiang.zhenren.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.majiang.zhenren.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.majiang.zhenren.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.majiang.zhenren.c648"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.majiang.zhenren.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.majiang.zhenren.d128"
+            }
+        ]
+    },
+    {
+        "name": "majiang_changba_sichuan",
+        "clientIds": [
+            "^IOS_3.7.*hall7.changba.sichuan$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "CBMJ_6"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻",
+                "price": 60,
+                "iosid": "TY9999R0006001"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "CBMJ_30_1"
+            },
+            {
+                "tyid": "TY9999D0030003",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "CBMJ_30_1"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "CBMJ_98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "CBMJ_198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "CBMJ_328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "CBMJ_648"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "TY9999R0030001"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "TY9999R0128001"
+            }
+        ]
+    },
+    {
+        "name": "hall25_appStore_tuyoo",
+        "clientIds": [
+            "^IOS_3.7.*hall25.appStore.tuyoo$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.tuyoo.junqi.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.tuyoo.junqi.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.tuyoo.junqi.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.tuyoo.junqi.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.tuyoo.junqi.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.tuyoo.junqi.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.tuyoo.junqi.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.tuyoo.junqi.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.tuyoo.junqi.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.tuyoo.junqi.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.tuyoo.junqi.d128"
+            }
+        ]
+    },
+    {
+        "name": "baohuang_*_baohuang",
+        "clientIds": [
+            "^IOS_3.7.*hall17.*baohuang$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.tuyoo.baohuang.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.tuyoo.baohuang.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.tuyoo.baohuang.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.tuyoo.baohuang.c30"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.tuyoo.baohuang.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.tuyoo.baohuang.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.tuyoo.baohuang.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.tuyoo.baohuang.c328"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.tuyoo.baohuang.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.tuyoo.baohuang.c648"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.tuyoo.baohuang.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.tuyoo.baohuang.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.tuyoo.baohuang.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.tuyoo.baohuang.d128"
+            }
+        ]
+    },
+    {
+        "name": "t3card_*_t3card",
+        "clientIds": [
+            "^IOS_3.7.*hall1.*t3card$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "cn.com.3card.meinv.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "cn.com.3card.meinv.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "cn.com.3card.meinv.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "cn.com.3card.meinv.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "cn.com.3card.meinv.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "cn.com.3card.meinv.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "cn.com.3card.meinv.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "cn.com.3card.meinv.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "cn.com.3card.meinv.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "cn.com.3card.meinv.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "cn.com.3card.meinv.d128"
+            }
+        ]
+    },
+    {
+        "name": "phz_*_paohuzi",
+        "clientIds": [
+            "^IOS_3.7.*hall21.*paohuzi$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.tuyoo.paohuzi.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.tuyoo.paohuzi.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.tuyoo.paohuzi.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.tuyoo.paohuzi.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.tuyoo.paohuzi.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.tuyoo.paohuzi.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.tuyoo.paohuzi.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.tuyoo.paohuzi.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.tuyoo.paohuzi.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.tuyoo.paohuzi.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.tuyoo.paohuzi.d128"
+            }
+        ]
+    },
+    {
+        "name": "ddz_appStore_cherry",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.cherry$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "cn.com.doudizhu.wushuang.1"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "cn.com.doudizhu.wushuang.1"
+            },
+            {
+                "tyid": "TY9999D0030003",
+                "name": "30万金币",
+                "price": 300,
+                "iosid": "cn.com.doudizhu.wushuang.4"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "98万金币",
+                "price": 980,
+                "iosid": "cn.com.doudizhu.wushuang.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "198万金币",
+                "price": 1980,
+                "iosid": "cn.com.doudizhu.wushuang.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "328万金币",
+                "price": 3280,
+                "iosid": "cn.com.doudizhu.wushuang.c328"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "328万金币",
+                "price": 3280,
+                "iosid": "cn.com.doudizhu.wushuang.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "648万金币",
+                "price": 6480,
+                "iosid": "cn.com.doudizhu.wushuang.c648"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "648万金币",
+                "price": 6480,
+                "iosid": "cn.com.doudizhu.wushuang.c648"
+            },
+            {
+                "tyid": "TY9999D0001002",
+                "name": "1万金币",
+                "price": 10,
+                "iosid": "cn.com.doudizhu.wushuang.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "3万金币",
+                "price": 30,
+                "iosid": "cn.com.doudizhu.wushuang.c3"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石",
+                "price": 60,
+                "iosid": "cn.com.doudizhu.wushuang.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "cn.com.doudizhu.wushuang.d30"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "cn.com.doudizhu.wushuang.4"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "cn.com.doudizhu.wushuang.4"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "cn.com.doudizhu.wushuang.d128"
+            }
+        ]
+    },
+    {
+        "name": "ddz_appStore_single",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.single$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.eapoker.ddz.single.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.eapoker.ddz.single.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.eapoker.ddz.single.c6"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.eapoker.ddz.single.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.eapoker.ddz.single.c30"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.eapoker.ddz.single.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.eapoker.ddz.single.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.eapoker.ddz.single.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.eapoker.ddz.single.c328"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.eapoker.ddz.single.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.eapoker.ddz.single.c648"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.eapoker.ddz.single.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.eapoker.ddz.single.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.eapoker.ddz.single.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.eapoker.ddz.single.d128"
+            }
+        ]
+    },
+    {
+        "name": "ddz_appStore_qipaiheji",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.qipaiheji$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.eapoker.ddz.single.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.eapoker.ddz.single.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.eapoker.ddz.single.c6"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.eapoker.ddz.single.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.eapoker.ddz.single.c30"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.eapoker.ddz.single.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.eapoker.ddz.single.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.eapoker.ddz.single.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.eapoker.ddz.single.c328"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.eapoker.ddz.single.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.eapoker.ddz.single.c648"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.eapoker.ddz.single.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.eapoker.ddz.single.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.eapoker.ddz.single.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.eapoker.ddz.single.d128"
+            }
+        ]
+    },
+    {
+        "name": "ddz_appStore_zhenren",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.zhenren$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.huanle.zhenren.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.huanle.zhenren.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.huanle.zhenren.c6"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.huanle.zhenren.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.huanle.zhenren.c30"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.huanle.zhenren.c30"
+            },
+            {
+                "tyid": "TY9999D0030003",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.huanle.zhenren.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.huanle.zhenren.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.huanle.zhenren.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.huanle.zhenren.c328"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.huanle.zhenren.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.huanle.zhenren.c648"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.huanle.zhenren.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.huanle.zhenren.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.huanle.zhenren.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.huanle.zhenren.d128"
+            }
+        ]
+    },
+    {
+        "name": "ddz_appStore_happyplay",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.happyplay$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.huanle.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.huanle.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.huanle.c6"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.huanle.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.huanle.c30"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.huanle.c30"
+            },
+            {
+                "tyid": "TY9999D0030003",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.huanle.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.huanle.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.huanle.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.huanle.c328"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.huanle.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.huanle.c648"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.huanle.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.huanle.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.huanle.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.huanle.d128"
+            }
+        ]
+    },
+    {
+        "name": "ddz_appStore_tiantian",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.tiantian$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.tiantian.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.tiantian.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.tiantian.c6"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.tiantian.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.tiantian.c30"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.tiantian.c30"
+            },
+            {
+                "tyid": "TY9999D0030003",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.tiantian.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.tiantian.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.tiantian.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.tiantian.c328"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.tiantian.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.tiantian.c648"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.tiantian.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.tiantian.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.tiantian.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.tiantian.d128"
+            }
+        ]
+    },
+    {
+        "name": "ddz_appStore_tiantian2",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.tiantian2$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.tiantian2.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.tiantian2.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.tiantian2.c6"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.tiantian2.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.tiantian2.c30"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.tiantian2.c30"
+            },
+            {
+                "tyid": "TY9999D0030003",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.tiantian2.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.tiantian2.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.tiantian2.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.tiantian2.c328"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.tiantian2.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.tiantian2.c648"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.tiantian2.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.tiantian2.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.tiantian2.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.tiantian2.d128"
+            }
+        ]
+    },
+    {
+        "name": "ddz_appStore_tuyoo2016",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.tuyoo2016$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.tuyoo2016.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.tuyoo2016.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.tuyoo2016.c6"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.tuyoo2016.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.tuyoo2016.c30"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.tuyoo2016.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.tuyoo2016.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.tuyoo2016.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.tuyoo2016.c328"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.tuyoo2016.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.tuyoo2016.c648"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.tuyoo2016.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.tuyoo2016.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.tuyoo2016.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.tuyoo2016.d128"
+            }
+        ]
+    },
+    {
+        "name": "ddz_appStore_huanletuyoo",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.huanletuyoo$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.huanletuyoo.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.huanletuyoo.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.huanletuyoo.c6"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.huanletuyoo.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.huanletuyoo.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.huanletuyoo.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.huanletuyoo.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.huanletuyoo.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.huanletuyoo.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.huanletuyoo.d_6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.huanletuyoo.d_30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.huanletuyoo.d_128"
+            }
+        ]
+    },
+    {
+        "name": "ddz_appStore_newhuanle",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.newhuanle$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.newhuanle.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.newhuanle.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.newhuanle.c6"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.newhuanle.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.newhuanle.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.newhuanle.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.newhuanle.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.newhuanle.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.newhuanle.c_648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.newhuanle.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.newhuanle.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.newhuanle.d128"
+            }
+        ]
+    },
+    {
+        "name": "ddz_tuyoo.guanfang",
+        "clientIds": [
+            "^IOS_3.7.*hall6.tuyoo.guanfang$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.doudizhu.tuyooguanfang1._c_1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.doudizhu.tuyooguanfang1._c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.doudizhu.tuyooguanfang1._c6"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.doudizhu.tuyooguanfang1._c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.doudizhu.tuyooguanfang1._c_30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.doudizhu.tuyooguanfang1._c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.doudizhu.tuyooguanfang1._c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.doudizhu.tuyooguanfang1._c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.doudizhu.tuyooguanfang1._c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.doudizhu.tuyooguanfang1._d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.doudizhu.tuyooguanfang1._d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.doudizhu.tuyooguanfang1._d128"
+            }
+        ]
+    },
+    {
+        "name": "texas_appStore_luxury",
+        "clientIds": [
+            "^IOS_3.7.*hall8.appStore.luxury$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006007",
+                "name": "6万金币",
+                "price": 6,
+                "iosid": "cn.com.dezhou.luxury.c6"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 30,
+                "iosid": "cn.com.dezhou.luxury.c30"
+            },
+            {
+                "tyid": "TY9999D0098007",
+                "name": "140万金币",
+                "price": 98,
+                "iosid": "cn.com.dezhou.luxury.c98"
+            },
+            {
+                "tyid": "TY9999D0198007",
+                "name": "300万金币",
+                "price": 198,
+                "iosid": "cn.com.dezhou.luxury.c198"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 328,
+                "iosid": "cn.com.dezhou.luxury.c328"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 648,
+                "iosid": "cn.com.dezhou.luxury.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "cn.com.dezhou.luxury.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "cn.com.dezhou.luxury.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 128,
+                "iosid": "cn.com.dezhou.luxury.d128"
+            },
+            {
+                "tyid": "TY9999R0998001",
+                "name": "9980钻石",
+                "price": 998,
+                "iosid": "cn.com.dezhou.luxury.d998"
+            }
+        ]
+    },
+    {
+        "name": "texas_appStore_huanle",
+        "clientIds": [
+            "^IOS_3.7.*hall8.appStore.huanle$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006007",
+                "name": "6万金币",
+                "price": 6,
+                "iosid": "com.texas.huanle.c6"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 30,
+                "iosid": "com.texas.huanle.c30"
+            },
+            {
+                "tyid": "TY9999D0098007",
+                "name": "140万金币",
+                "price": 98,
+                "iosid": "com.texas.huanle.c98"
+            },
+            {
+                "tyid": "TY9999D0198007",
+                "name": "300万金币",
+                "price": 198,
+                "iosid": "com.texas.huanle.c198"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 328,
+                "iosid": "com.texas.huanle.c328"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 648,
+                "iosid": "com.texas.huanle.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "com.texas.huanle.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "com.texas.huanle.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 128,
+                "iosid": "com.texas.huanle.d128"
+            }
+        ]
+    },
+    {
+        "name": "texas_appStore_spinage",
+        "clientIds": [
+            "^IOS_3.7.*hall8.appStore.spinage$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006007",
+                "name": "6万金币",
+                "price": 6,
+                "iosid": "com.texas.spinage.c6"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 30,
+                "iosid": "com.texas.spinage.c30"
+            },
+            {
+                "tyid": "TY9999D0098007",
+                "name": "140万金币",
+                "price": 98,
+                "iosid": "com.texas.spinage.c98"
+            },
+            {
+                "tyid": "TY9999D0198007",
+                "name": "300万金币",
+                "price": 198,
+                "iosid": "com.texas.spinage.c198"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 328,
+                "iosid": "com.texas.spinage.c328"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 648,
+                "iosid": "com.texas.spinage.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "com.texas.spinage.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "com.texas.spinage.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 128,
+                "iosid": "com.texas.spinage.d128"
+            }
+        ]
+    },
+    {
+        "name": "texas_appStore_fk",
+        "clientIds": [
+            "^IOS_3.7.*hall8.appStore.fk$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006007",
+                "name": "6万金币",
+                "price": 6,
+                "iosid": "cn.com.dezhou.crazy.product.1"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 30,
+                "iosid": "cn.com.dezhou.crazy.product.2"
+            },
+            {
+                "tyid": "TY9999D0098007",
+                "name": "140万金币",
+                "price": 98,
+                "iosid": "cn.com.dezhou.crazy.product.3"
+            },
+            {
+                "tyid": "TY9999D0198007",
+                "name": "300万金币",
+                "price": 198,
+                "iosid": "cn.com.dezhou.crazy.product.4"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 328,
+                "iosid": "cn.com.dezhou.crazy.product.5"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 648,
+                "iosid": "cn.com.dezhou.crazy.product.6"
+            },
+            {
+                "tyid": "TY9999D0006005",
+                "name": "6元转运礼包",
+                "price": 6,
+                "iosid": "TEXAS_IOS_COIN_LUCKY_R6"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石",
+                "price": 6,
+                "iosid": "cn.com.dezhou.crazy.diamonds.60"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 30,
+                "iosid": "cn.com.dezhou.crazy.diamonds.300"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 128,
+                "iosid": "cn.com.dezhou.crazy.diamonds.1280"
+            },
+            {
+                "tyid": "TY9999R0998001",
+                "name": "9980钻石",
+                "price": 998,
+                "iosid": "cn.com.dezhou.crazy.diamonds.9980"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "超值礼包",
+                "price": 6,
+                "iosid": "cn.com.dezhou.crazy.raffle.6"
+            }
+        ]
+    },
+    {
+        "name": "hall10_appStore_crazy",
+        "clientIds": [
+            "^IOS_3.7.*hall10.appStore.crazy$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.cn.douniu.tuyoo.product.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "30万金币",
+                "price": 300,
+                "iosid": "com.cn.douniu.tuyoo.product.c30"
+            },
+            {
+                "tyid": "TY9999D0030003",
+                "name": "30万金币",
+                "price": 300,
+                "iosid": "com.cn.douniu.tuyoo.product.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "98万金币",
+                "price": 980,
+                "iosid": "com.cn.douniu.tuyoo.product.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "198万金币",
+                "price": 1980,
+                "iosid": "com.cn.douniu.tuyoo.product.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "328万金币",
+                "price": 3280,
+                "iosid": "com.cn.douniu.tuyoo.product.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "648万金币",
+                "price": 6480,
+                "iosid": "com.cn.douniu.tuyoo.product.c648"
+            },
+            {
+                "tyid": "TY9999D0001002",
+                "name": "1万金币",
+                "price": 10,
+                "iosid": "com.cn.douniu.tuyoo.product.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "3万金币",
+                "price": 30,
+                "iosid": "com.cn.douniu.tuyoo.product.c3"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石",
+                "price": 60,
+                "iosid": "com.cn.douniu.tuyoo.product.d60"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.cn.douniu.tuyoo.product.d300"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.cn.douniu.tuyoo.product.d1280"
+            }
+        ]
+    },
+    {
+        "name": "hall21_appStore_zhengzong",
+        "clientIds": [
+            "^IOS_3.7.*hall21.appStore.zhengzong$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.paohuzi.zhengzong.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.paohuzi.zhengzong.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.paohuzi.zhengzong.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.paohuzi.zhengzong.c30"
+            },
+            {
+                "tyid": "TY9999D0030003",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.paohuzi.zhengzong.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.paohuzi.zhengzong.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.paohuzi.zhengzong.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.paohuzi.zhengzong.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.paohuzi.zhengzong.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.paohuzi.zhengzong.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.paohuzi.zhengzong.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.paohuzi.zhengzong.d128"
+            }
+        ]
+    },
+    {
+        "name": "majiang_appStore_tuyooguanfang",
+        "clientIds": [
+            "^IOS_3.7.*hall7.appStore.tuyooguanfang$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.majiang.tuyooguanfang.c6"
+            },
+            {
+                "tyid": "TY9999D0006001",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.majiang.tuyooguanfang.c6"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻",
+                "price": 60,
+                "iosid": "com.majiang.tuyooguanfang.d6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.majiang.tuyooguanfang.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.majiang.tuyooguanfang.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.majiang.tuyooguanfang.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.majiang.tuyooguanfang.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.majiang.tuyooguanfang.c648"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.majiang.tuyooguanfang.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.majiang.tuyooguanfang.d128"
+            }
+        ]
+    },
+    {
+        "name": "hall3_appStore_tuyooguanfang",
+        "clientIds": [
+            "^IOS_3.7.*hall3.appStore.tuyooguanfang$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.chinesechess.tuyooguanfang.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.chinesechess.tuyooguanfang.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.chinesechess.tuyooguanfang.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.chinesechess.tuyooguanfang.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.chinesechess.tuyooguanfang.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.chinesechess.tuyooguanfang.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.chinesechess.tuyooguanfang.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.chinesechess.tuyooguanfang.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.chinesechess.tuyooguanfang.d128"
+            }
+        ]
+    },
+    {
+        "name": "majiang_appStore_wushuang",
+        "clientIds": [
+            "^IOS_3.7.*hall7.appStore.wushuang$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.cherrygame.majiang.wushuang.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.cherrygame.majiang.wushuang.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.cherrygame.majiang.wushuang.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.cherrygame.majiang.wushuang.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.cherrygame.majiang.wushuang.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.cherrygame.majiang.wushuang.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻",
+                "price": 60,
+                "iosid": "com.cherrygame.majiang.wushuang.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.cherrygame.majiang.wushuang.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.cherrygame.majiang.wushuang.d128"
+            }
+        ]
+    },
+    {
+        "name": "majiang_appStore_sichuan2",
+        "clientIds": [
+            "^IOS_3.7.*hall7.appStore.sichuan2$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.majiang.sichuan2.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.majiang.sichuan2.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.majiang.sichuan2.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.majiang.sichuan2.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.majiang.sichuan2.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.majiang.sichuan2.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻",
+                "price": 60,
+                "iosid": "com.majiang.sichuan2.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.majiang.sichuan2.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.majiang.sichuan2.d128"
+            }
+        ]
+    },
+    {
+        "name": "majiang_appStore_tiantian",
+        "clientIds": [
+            "^IOS_3.7.*hall7.appStore.tiantian$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.majiang.tiantian.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.majiang.tiantian.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.majiang.tiantian.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.majiang.tiantian.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.majiang.tiantian.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.majiang.tiantian.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻",
+                "price": 60,
+                "iosid": "com.majiang.tiantian.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.majiang.tiantian.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.majiang.tiantian.d128"
+            }
+        ]
+    },
+    {
+        "name": "phz_*_paohuzi_baiwang",
+        "clientIds": [
+            "^IOS_3.7.*hall21.*baiwang$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.paohuzi.app.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.paohuzi.app.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.paohuzi.app.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.paohuzi.app.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.paohuzi.app.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.paohuzi.app.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.paohuzi.app.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.paohuzi.app.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.paohuzi.app.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.paohuzi.app.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.paohuzi.app.d128"
+            }
+        ]
+    },
+    {
+        "name": "ddz_tuyoo.zhadan",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.zhadan$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.zhadan.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.zhadan.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.zhadan.c6"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.zhadan.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.zhadan.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.zhadan.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.zhadan.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.zhadan.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.zhadan.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.zhadan.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.zhadan.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.zhadan.d128"
+            }
+        ]
+    },
+    {
+        "name": "phz_*_paohuzi_baiwanghd",
+        "clientIds": [
+            "^IOS_3.7.*hall21.appStore.RunbeardiPad$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.paohuzihd.RunbeardiPad.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.paohuzihd.RunbeardiPad.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.paohuzihd.RunbeardiPad.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.paohuzihd.RunbeardiPad.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.paohuzihd.RunbeardiPad.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.paohuzihd.RunbeardiPad.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.paohuzihd.RunbeardiPad.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.paohuzihd.RunbeardiPad.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.paohuzihd.RunbeardiPad.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.paohuzihd.RunbeardiPad.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.paohuzihd.RunbeardiPad.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.ddz.danjiddz",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.danjiddz$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.danjiddz.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.danjiddz.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.danjiddz.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.danjiddz.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.danjiddz.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.danjiddz.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.danjiddz.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.danjiddz.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.danjiddz.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.danjiddz.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.danjiddz.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.ddz.newddz",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.newddz$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.newddz.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.newddz.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.newddz.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.newddz.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.newddz.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.newddz.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.newddz.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.newddz.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.newddz.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.newddz.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.newddz.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.ddz.huanlegame",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.huanlegame$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.huanlegame.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.huanlegame.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.huanlegame.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.huanlegame.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.huanlegame.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.huanlegame.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.huanlegame.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.huanlegame.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.huanlegame.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.huanlegame.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.huanlegame.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.ddz.huanlewan",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.huanlewan$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.huanlewan.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.huanlewan.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.huanlewan.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.huanlewan.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.huanlewan.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.huanlewan.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.huanlewan.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.huanlewan.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.huanlewan.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.huanlewan.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.huanlewan.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.t3card.huanle",
+        "clientIds": [
+            "^IOS_3.7.*hall30.appStore.huanle$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.t3card.huanle.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.t3card.huanle.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.t3card.huanle.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.t3card.huanle.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.t3card.huanle.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.t3card.huanle.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.t3card.huanle.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.t3card.huanle.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.t3card.huanle.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.t3card.huanle.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.t3card.huanle.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.t3card.tuyoo",
+        "clientIds": [
+            "^IOS_3.7.*hall30.appStore.tuyoo$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.t3card.tuyoo.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.t3card.tuyoo.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.t3card.tuyoo.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.t3card.tuyoo.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.t3card.tuyoo.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.t3card.tuyoo.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.t3card.tuyoo.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.t3card.tuyoo.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.t3card.tuyoo.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.t3card.tuyoo.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.t3card.tuyoo.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.ddz.qipaiheji",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.qipaiheji2$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.qipaiheji.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.qipaiheji.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.qipaiheji.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.qipaiheji.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.qipaiheji.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.qipaiheji.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.qipaiheji.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.qipaiheji.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.qipaiheji.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.qipaiheji.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.qipaiheji.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.doudizhu.2016",
+        "clientIds": [
+            "^IOS_3.*hall6.appStore.ddz2016$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.doudizhu.2016.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.doudizhu.2016.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.doudizhu.2016.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.doudizhu.2016.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.doudizhu.2016.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.doudizhu.2016.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.doudizhu.2016.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.doudizhu.2016.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.doudizhu.2016.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.doudizhu.2016.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.doudizhu.2016.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.ddz.newhuanle2",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.newhuanle2$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.newhuanle2.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.newhuanle2.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.newhuanle2.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.newhuanle2.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.newhuanle2.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.newhuanle2.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.newhuanle2.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.newhuanle2.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.newhuanle2.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.newhuanle2.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.newhuanle2.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.ddz.kaixin",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.kaixin$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.kaixin.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.kaixin.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.kaixin.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.kaixin.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.kaixin.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.kaixin.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.kaixin.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.kaixin.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.kaixin.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.kaixin.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.kaixin.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.ddz.xinhuanle",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.xinhuanle$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.xinhuanle.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.xinhuanle.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.xinhuanle.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.xinhuanle.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.xinhuanle.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.xinhuanle.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.xinhuanle.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.xinhuanle.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.xinhuanle.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.xinhuanle.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.xinhuanle.d128"
+            }
+        ]
+    },
+    {
+        "name": "texas_appStore_normal",
+        "clientIds": [
+            "^IOS_3.7.*hall8.appStore.normal$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006007",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.dezhou.tuyoonormal.c6"
+            },
+            {
+                "tyid": "TY9999D0006005",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.dezhou.tuyoonormal.c6"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.dezhou.tuyoonormal.c6"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.dezhou.tuyoonormal.c30"
+            },
+            {
+                "tyid": "TY9999D0098007",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.dezhou.tuyoonormal.c98"
+            },
+            {
+                "tyid": "TY9999D0198007",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.dezhou.tuyoonormal.c198"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.dezhou.tuyoonormal.c328"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.dezhou.tuyoonormal.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.dezhou.tuyoonormal.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.dezhou.tuyoonormal.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.dezhou.tuyoonormal.d128"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.dezhou.tuyoonormal.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.dezhou.tuyoonormal.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.dezhou.tuyoonormal.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.dezhou.tuyoonormal.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.dezhou.tuyoonormal.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.dezhou.tuyoonormal.c648"
+            }
+        ]
+    },
+    {
+        "name": "com.douniu.tuyoo",
+        "clientIds": [
+            "^IOS_3.7.*hall10.appStore.tuyoo$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.douniu.tuyoo.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.douniu.tuyoo.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.douniu.tuyoo.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.douniu.tuyoo.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.douniu.tuyoo.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.douniu.tuyoo.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.douniu.tuyoo.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.douniu.tuyoo.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.douniu.tuyoo.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.douniu.tuyoo.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.douniu.tuyoo.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.ddz.xinhuanle1",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.xinhuanle1$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.xinhuanle1.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.xinhuanle1.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.xinhuanle1.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.xinhuanle1.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.xinhuanle1.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.xinhuanle1.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.xinhuanle1.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.xinhuanle1.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.xinhuanle1.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.xinhuanle1.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.xinhuanle1.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.ddz.xinhuanle2",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.xinhuanle2$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.xinhuanle2.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.xinhuanle2.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.xinhuanle2.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.xinhuanle2.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.xinhuanle2.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.xinhuanle2.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.xinhuanle2.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.xinhuanle2.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.xinhuanle2.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.xinhuanle2.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.xinhuanle2.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.ddz.xinhuanle3",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.xinhuanle3$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.xinhuanle3.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.xinhuanle3.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.xinhuanle3.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.xinhuanle3.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.xinhuanle3.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.xinhuanle3.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.xinhuanle3.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.xinhuanle3.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.xinhuanle3.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.xinhuanle3.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.xinhuanle3.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.ddz.xinhuanle4",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.xinhuanle4$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.xinhuanle4.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.xinhuanle4.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.xinhuanle4.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.xinhuanle4.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.xinhuanle4.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.xinhuanle4.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.xinhuanle4.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.xinhuanle4.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.xinhuanle4.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.xinhuanle4.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.xinhuanle4.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.ddz.xinhuanle5",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.xinhuanle5$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.xinhuanle5.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.xinhuanle5.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.xinhuanle5.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.xinhuanle5.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.xinhuanle5.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.xinhuanle5.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.xinhuanle5.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.xinhuanle5.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.xinhuanle5.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.xinhuanle5.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.xinhuanle5.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.texas.spinage1",
+        "clientIds": [
+            "^IOS_3.7.*hall8.appStore.spinage1$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006007",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.texas.spinage1.c6"
+            },
+            {
+                "tyid": "TY9999D0006005",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.texas.spinage1.c6"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.texas.spinage1.c6"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.texas.spinage1.c30"
+            },
+            {
+                "tyid": "TY9999D0098007",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.texas.spinage1.c98"
+            },
+            {
+                "tyid": "TY9999D0198007",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.texas.spinage1.c198"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.texas.spinage1.c328"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.texas.spinage1.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.texas.spinage1.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.texas.spinage1.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.texas.spinage1.d128"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.texas.spinage1.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.texas.spinage1.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.texas.spinage1.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.texas.spinage1.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.texas.spinage1.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.texas.spinage1.c648"
+            }
+        ]
+    },
+    {
+        "name": "com.chinesechess.tuyooguanfang",
+        "clientIds": [
+            "^IOS_3.7.*hall3.appStore.tuyooguanfang$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.chinesechess.tuyooguanfang.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.chinesechess.tuyooguanfang.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.chinesechess.tuyooguanfang.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.chinesechess.tuyooguanfang.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.chinesechess.tuyooguanfang.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.chinesechess.tuyooguanfang.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.chinesechess.tuyooguanfang.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.chinesechess.tuyooguanfang.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.chinesechess.tuyooguanfang.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.chinesechess.tuyooguanfang.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.chinesechess.tuyooguanfang.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.majiang.xinhuanle1",
+        "clientIds": [
+            "^IOS_3.7.*hall7.appStore.xinhuanle1$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.majiang.xinhuanle1.c6"
+            },
+            {
+                "tyid": "TY9999D0006001",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.majiang.xinhuanle1.c6"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻",
+                "price": 60,
+                "iosid": "com.majiang.xinhuanle1.d6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.majiang.xinhuanle1.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.majiang.xinhuanle1.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.majiang.xinhuanle1.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.majiang.xinhuanle1.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.majiang.xinhuanle1.c648"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.majiang.xinhuanle1.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.majiang.xinhuanle1.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.majiang.xinhuanle2",
+        "clientIds": [
+            "^IOS_3.7.*hall7.appStore.xinhuanle2$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.majiang.xinhuanle2.c6"
+            },
+            {
+                "tyid": "TY9999D0006001",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.majiang.xinhuanle2.c6"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻",
+                "price": 60,
+                "iosid": "com.majiang.xinhuanle2.d6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.majiang.xinhuanle2.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.majiang.xinhuanle2.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.majiang.xinhuanle2.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.majiang.xinhuanle2.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.majiang.xinhuanle2.c648"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.majiang.xinhuanle2.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.majiang.xinhuanle2.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.texas.xinhuanle",
+        "clientIds": [
+            "^IOS_3.7.*hall8.appStore.xinhuanle$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006007",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.texas.xinhuanle.c6"
+            },
+            {
+                "tyid": "TY9999D0006005",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.texas.xinhuanle.c6"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.texas.xinhuanle.c6"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.texas.xinhuanle.c30"
+            },
+            {
+                "tyid": "TY9999D0098007",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.texas.xinhuanle.c98"
+            },
+            {
+                "tyid": "TY9999D0198007",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.texas.xinhuanle.c198"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.texas.xinhuanle.c328"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.texas.xinhuanle.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.texas.xinhuanle.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.texas.xinhuanle.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.texas.xinhuanle.d128"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.texas.xinhuanle.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.texas.xinhuanle.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.texas.xinhuanle.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.texas.xinhuanle.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.texas.xinhuanle.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.texas.xinhuanle.c648"
+            }
+        ]
+    },
+    {
+        "name": "com.texas.newhuanle",
+        "clientIds": [
+            "^IOS_3.7.*hall8.appStore.newhuanle$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006007",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.texas.newhuanle.c6"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.texas.newhuanle.c30"
+            },
+            {
+                "tyid": "TY9999D0098007",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.texas.newhuanle.c98"
+            },
+            {
+                "tyid": "TY9999D0198007",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.texas.newhuanle.c198"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.texas.newhuanle.c328"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.texas.newhuanle.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.texas.newhuanle.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.texas.newhuanle.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.texas.newhuanle.d128"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.texas.newhuanle.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.texas.newhuanle.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.texas.newhuanle.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.texas.newhuanle.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.texas.newhuanle.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.texas.newhuanle.c648"
+            }
+        ]
+    },
+    {
+        "name": "com.tuyoo.qingdaoqipaI",
+        "clientIds": [
+            "^IOS_3.7.*hall17.appStore.qdqp$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.tuyoo.qingdaoqipaI.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.tuyoo.qingdaoqipaI.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.tuyoo.qingdaoqipaI.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.tuyoo.qingdaoqipaI.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.tuyoo.qingdaoqipaI.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.tuyoo.qingdaoqipaI.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.tuyoo.qingdaoqipaI.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.tuyoo.qingdaoqipaI.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.tuyoo.qingdaoqipaI.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.tuyoo.qingdaoqipaI.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.tuyoo.qingdaoqipaI.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.ddz.mania",
+        "clientIds": [
+            "^IOS_3.*hall6.appStore.mania$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.mania.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.mania.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.mania.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.mania.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.mania.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.mania.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.mania.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.mania.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.mania.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.mania.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.mania.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.ddz.beauty1",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.beauty$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.beauty1.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.beauty1.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.beauty1.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.beauty1.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.beauty1.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.beauty1.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.beauty1.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.beauty1.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.beauty1.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.beauty1.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.beauty1.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.ddz.xinhuanle6",
+        "clientIds": [
+            "^IOS_3.7.*hall6.appStore.xinhuanle6$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.xinhuanle6.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.xinhuanle6.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.xinhuanle6.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.xinhuanle6.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.xinhuanle6.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.xinhuanle6.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.xinhuanle6.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.xinhuanle6.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.xinhuanle6.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.xinhuanle6.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.xinhuanle6.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.dezhou.paid1",
+        "clientIds": [
+            "^IOS_3.7.*hall8.appStore.paid$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006007",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.dezhou.paid1.c6"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.dezhou.paid1.c30"
+            },
+            {
+                "tyid": "TY9999D0098007",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.dezhou.paid1.c98"
+            },
+            {
+                "tyid": "TY9999D0198007",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.dezhou.paid1.c198"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.dezhou.paid1.c328"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.dezhou.paid1.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.dezhou.paid1.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.dezhou.paid1.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.dezhou.paid1.d128"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.dezhou.paid1.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.dezhou.paid1.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.dezhou.paid1.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.dezhou.paid1.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.dezhou.paid1.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.dezhou.paid1.c648"
+            }
+        ]
+    },
+    {
+        "name": "com.tuyoo.real",
+        "clientIds": [
+            "^IOS_3.7.*hall7.appStore.real$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.tuyoo.real.c6"
+            },
+            {
+                "tyid": "TY9999D0006001",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.tuyoo.real.c6"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻",
+                "price": 60,
+                "iosid": "com.tuyoo.real.d6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.tuyoo.real.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.tuyoo.real.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.tuyoo.real.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.tuyoo.real.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.tuyoo.real.c648"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.tuyoo.real.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.tuyoo.real.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.ddz.qipaiheji",
+        "clientIds": [
+            "^IOS_3.8.*hall6.appStore.qipaiheji2$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "10000金币",
+                "price": 10,
+                "iosid": "com.ddz.qipaiheji.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "30000金币",
+                "price": 30,
+                "iosid": "com.ddz.qipaiheji.c3"
+            },
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.ddz.qipaiheji.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.ddz.qipaiheji.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.ddz.qipaiheji.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.ddz.qipaiheji.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.ddz.qipaiheji.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.ddz.qipaiheji.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.ddz.qipaiheji.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.ddz.qipaiheji.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.ddz.qipaiheji.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.tuyoo.majiang.dj",
+        "clientIds": [
+            "^IOS_3.7.*hall7.appStore.dj$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.tuyoo.majiang.dj.c6"
+            },
+            {
+                "tyid": "TY9999D0006001",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.tuyoo.majiang.dj.c6"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻",
+                "price": 60,
+                "iosid": "com.tuyoo.majiang.dj.d6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.tuyoo.majiang.dj.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.tuyoo.majiang.dj.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.tuyoo.majiang.dj.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.tuyoo.majiang.dj.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.tuyoo.majiang.dj.c648"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.tuyoo.majiang.dj.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.tuyoo.majiang.dj.d128"
+            }
+        ]
+    },
+    {
+        "name": "test_zhibin",
+        "clientIds": [
+            "^IOS_3.80_tuyoo.weixinPay,appStore,alipay.0-hall6.appStore.singleddz$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0001002",
+                "name": "1",
+                "price": 10,
+                "iosid": "com.ddz.danjiddz.c1"
+            }
+        ]
+    },
+    {
+        "name": "com.example.chinesechess.hejiaoyu",
+        "clientIds": [
+            "^IOS_3.*hall3.appStore.hejiaoyu$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "com.example.chinesechess.hejiaoyu.c6"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "36万金币",
+                "price": 300,
+                "iosid": "com.example.chinesechess.hejiaoyu.c30"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "140万金币",
+                "price": 980,
+                "iosid": "com.example.chinesechess.hejiaoyu.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "300万金币",
+                "price": 1980,
+                "iosid": "com.example.chinesechess.hejiaoyu.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "550万金币",
+                "price": 3280,
+                "iosid": "com.example.chinesechess.hejiaoyu.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "1200万金币",
+                "price": 6480,
+                "iosid": "com.example.chinesechess.hejiaoyu.c648"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石（可以用来兑换金币或购买道具）",
+                "price": 60,
+                "iosid": "com.example.chinesechess.hejiaoyu.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石（可以用来兑换金币或购买道具）",
+                "price": 300,
+                "iosid": "com.example.chinesechess.hejiaoyu.d30"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石（可以用来兑换金币或购买道具）",
+                "price": 1280,
+                "iosid": "com.example.chinesechess.hejiaoyu.d128"
+            }
+        ]
+    },
+    {
+        "name": "com.cherrygame.big2",
+        "clientIds": [
+            "^IOS_3.*hall6.appStore.big2$"
+        ],
+        "products": [
+            {
+                "tyid": "TY9999D0006003",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "cn.com.doudizhu.wushuang.1"
+            },
+            {
+                "tyid": "TY9999D0006004",
+                "name": "6万金币",
+                "price": 60,
+                "iosid": "cn.com.doudizhu.wushuang.1"
+            },
+            {
+                "tyid": "TY9999D0030003",
+                "name": "30万金币",
+                "price": 300,
+                "iosid": "cn.com.doudizhu.wushuang.4"
+            },
+            {
+                "tyid": "TY9999D0098001",
+                "name": "98万金币",
+                "price": 980,
+                "iosid": "cn.com.doudizhu.wushuang.c98"
+            },
+            {
+                "tyid": "TY9999D0198001",
+                "name": "198万金币",
+                "price": 1980,
+                "iosid": "cn.com.doudizhu.wushuang.c198"
+            },
+            {
+                "tyid": "TY9999D0328001",
+                "name": "328万金币",
+                "price": 3280,
+                "iosid": "cn.com.doudizhu.wushuang.c328"
+            },
+            {
+                "tyid": "TY9999D0328007",
+                "name": "328万金币",
+                "price": 3280,
+                "iosid": "cn.com.doudizhu.wushuang.c328"
+            },
+            {
+                "tyid": "TY9999D0648001",
+                "name": "648万金币",
+                "price": 6480,
+                "iosid": "cn.com.doudizhu.wushuang.c648"
+            },
+            {
+                "tyid": "TY9999D0648007",
+                "name": "648万金币",
+                "price": 6480,
+                "iosid": "cn.com.doudizhu.wushuang.c648"
+            },
+            {
+                "tyid": "TY9999D0001002",
+                "name": "1万金币",
+                "price": 10,
+                "iosid": "cn.com.doudizhu.wushuang.c1"
+            },
+            {
+                "tyid": "TY9999D0003001",
+                "name": "3万金币",
+                "price": 30,
+                "iosid": "cn.com.doudizhu.wushuang.c3"
+            },
+            {
+                "tyid": "TY9999R0006001",
+                "name": "60钻石",
+                "price": 60,
+                "iosid": "cn.com.doudizhu.wushuang.d6"
+            },
+            {
+                "tyid": "TY9999R0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "cn.com.doudizhu.wushuang.d30"
+            },
+            {
+                "tyid": "TY9999D0030001",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "cn.com.doudizhu.wushuang.4"
+            },
+            {
+                "tyid": "TY9999D0030007",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "cn.com.doudizhu.wushuang.4"
+            },
+            {
+                "tyid": "TY9999R0128001",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "cn.com.doudizhu.wushuang.d128"
+            }
+        ]
+    }
+]

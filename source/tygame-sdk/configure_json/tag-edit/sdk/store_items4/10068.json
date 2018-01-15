@@ -1,0 +1,82 @@
+[
+    {
+        "id": "test_1",
+        "name": "测试道具",
+        "desc": "",
+        "price": 1,
+        "diamondPrice": 1,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.ijinshan.tiantianaimengxian.lingyu98",
+        "name": "1100灵玉(98元)",
+        "desc": "",
+        "price": 98,
+        "diamondPrice": 980,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.ijinshan.tiantianaimengxian.zhouka18",
+        "name": "180灵玉（周卡）",
+        "desc": "",
+        "price": 18,
+        "diamondPrice": 180,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.ijinshan.tiantianaimengxian.lingyu198",
+        "name": "2280灵玉（198元）",
+        "desc": "",
+        "price": 198,
+        "diamondPrice": 1980,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.ijinshan.tiantianaimengxian.yueka30",
+        "name": "300灵玉（月卡）",
+        "desc": "",
+        "price": 30,
+        "diamondPrice": 300,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.ijinshan.tiantianaimengxian.lingyu30",
+        "name": "335灵玉（30元）",
+        "desc": "",
+        "price": 30,
+        "diamondPrice": 300,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.ijinshan.tiantianaimengxian.lingyu328",
+        "name": "3940灵玉（328元）",
+        "desc": "",
+        "price": 328,
+        "diamondPrice": 3280,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.ijinshan.tiantianaimengxian.lingyu50",
+        "name": "560灵玉（50元）",
+        "desc": "",
+        "price": 50,
+        "diamondPrice": 500,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.ijinshan.tiantianaimengxian.lingyu6",
+        "name": "66灵玉（6元）",
+        "desc": "",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0
+    },
+    {
+        "id": "com.ijinshan.tiantianaimengxian.lingyu648",
+        "name": "8100灵玉（648元）",
+        "desc": "",
+        "price": 648,
+        "diamondPrice": 6480,
+        "is_diamond": 0
+    }
+]

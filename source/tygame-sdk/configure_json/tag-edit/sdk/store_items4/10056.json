@@ -1,0 +1,82 @@
+[
+    {
+        "id": "rxsgios_yueka",
+        "name": "月卡",
+        "desc": "",
+        "price": 25,
+        "diamondPrice": 250,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "rxsgios_60",
+        "name": "60元宝",
+        "desc": "",
+        "price": 6,
+        "diamondPrice": 60,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "rxsgios_300",
+        "name": "300元宝",
+        "desc": "",
+        "price": 30,
+        "diamondPrice": 300,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "rxsgios_980",
+        "name": "980元宝",
+        "desc": " ",
+        "price": 98,
+        "diamondPrice": 980,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "rxsgios_1980",
+        "name": "1980元宝",
+        "desc": "",
+        "price": 198,
+        "diamondPrice": 1980,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "rxsgios_3280",
+        "name": "3280元宝",
+        "desc": "",
+        "price": 328,
+        "diamondPrice": 3280,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "rxsgios_6480",
+        "name": "6480元宝",
+        "desc": "",
+        "price": 648,
+        "diamondPrice": 6480,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "currency": "CNY"
+    },
+    {
+        "id": "test_1",
+        "name": "测试0.1",
+        "desc": "",
+        "price": 0.1,
+        "diamondPrice": 1,
+        "is_diamond": 0,
+        "is_monthly": 0,
+        "currency": "CNY"
+    }
+]

@@ -1,0 +1,25 @@
+{
+    "*": [
+        {
+            "name": "支付宝快付",
+            "paytype": "alifree",
+            "tips": "支付宝快付",
+            "specialTips": "极速支付"
+        },
+        {
+            "name": "支付宝",
+            "paytype": "tuyou.ali",
+            "tips": "途游支付宝"
+        },
+        {
+            "name": "银联",
+            "paytype": "unionpay",
+            "tips": "有卡就能付"
+        },
+        {
+            "name": "微信",
+            "paytype": "wxwap",
+            "tips": "微信支付"
+        }
+    ]
+}

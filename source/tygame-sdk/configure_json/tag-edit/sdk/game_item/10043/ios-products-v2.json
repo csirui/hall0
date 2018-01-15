@@ -1,0 +1,133 @@
+[
+    {
+        "name": "10043",
+        "clientIds": [
+            "^IOS_3.*$",
+            "^IOS_1.034_tuyoo.weixinPay,appStore,alipay.0-hall10043.appStore.sylm$",
+            "^IOS_1.061_tuyoo.weixinPay,appStore,alipay.0-hall10043.appStore.sylmabroad$",
+            "^IOS_1.*$"
+        ],
+        "products": [
+            {
+                "tyid": "com.shediao.cnyxw.god.tili.120",
+                "name": "120体力",
+                "price": 10,
+                "iosid": "com.shediao.cnyxw.god.tili.120"
+            },
+            {
+                "tyid": "com.shediao.sylm.god.zuanshi.60",
+                "name": "60钻石",
+                "price": 60,
+                "iosid": "com.shediao.sylm.god.zuanshi.60"
+            },
+            {
+                "tyid": "com.shediao.sylm.god.zuanshi.300",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.shediao.sylm.god.zuanshi.300"
+            },
+            {
+                "tyid": "com.shediao.sylm.god.libao.680",
+                "name": "680钻石",
+                "price": 680,
+                "iosid": "com.shediao.sylm.god.libao.680"
+            },
+            {
+                "tyid": "com.shediao.sylm.god.zuanshi.1280",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.shediao.sylm.god.zuanshi.1280"
+            },
+            {
+                "tyid": "com.shediao.sylm.god.zuanshi.1980",
+                "name": "1980钻石",
+                "price": 1980,
+                "iosid": "com.shediao.sylm.god.zuanshi.1980"
+            },
+            {
+                "tyid": "com.shediao.sylm.god.zuanshi.3280",
+                "name": "3280钻石",
+                "price": 3280,
+                "iosid": "com.shediao.sylm.god.zuanshi.3280"
+            },
+            {
+                "tyid": "com.shediao.sylm.god.zuanshi.6480",
+                "name": "6480钻石",
+                "price": 6480,
+                "iosid": "com.shediao.sylm.god.zuanshi.6480"
+            },
+            {
+                "tyid": "com.shediao.sylm.god.zuanshi.980",
+                "name": "980钻石",
+                "price": 980,
+                "iosid": "com.shediao.sylm.god.zuanshi.980"
+            },
+            {
+                "tyid": "TYtest1zs",
+                "name": "测试1",
+                "price": 1,
+                "iosid": ""
+            },
+            {
+                "tyid": "com.shediao.cnyxw.god.tili.120",
+                "name": "120体力",
+                "price": 10,
+                "iosid": "com.shediao.cnyxw.god.tili.120"
+            },
+            {
+                "tyid": "com.shediao.sylm.god.zuanshi3.60",
+                "name": "60钻石",
+                "price": 60,
+                "iosid": "com.shediao.sylm.god.zuanshi3.60"
+            },
+            {
+                "tyid": "com.shediao.sylm.god.zuanshi3.300",
+                "name": "300钻石",
+                "price": 300,
+                "iosid": "com.shediao.sylm.god.zuanshi3.300"
+            },
+            {
+                "tyid": "com.shediao.sylm.god.zuanshi3.980",
+                "name": "980钻石",
+                "price": 980,
+                "iosid": "com.shediao.sylm.god.zuanshi3.980"
+            },
+            {
+                "tyid": "com.shediao.sylm.god.zuanshi3.1980",
+                "name": "1980钻石",
+                "price": 1980,
+                "iosid": "com.shediao.sylm.god.zuanshi3.1980"
+            },
+            {
+                "tyid": "com.shediao.sylm.god.zuanshi3.3280",
+                "name": "3280钻石",
+                "price": 3280,
+                "iosid": "com.shediao.sylm.god.zuanshi3.3280"
+            },
+            {
+                "tyid": "com.shediao.sylm.god.zuanshi3.6480",
+                "name": "6480钻石",
+                "price": 6480,
+                "iosid": "com.shediao.sylm.god.zuanshi3.6480"
+            },
+            {
+                "tyid": "com.shediao.sylm.god.libao3.680",
+                "name": "680钻石",
+                "price": 680,
+                "iosid": "com.shediao.sylm.god.libao3.680"
+            },
+            {
+                "tyid": "com.shediao.sylm.god.zuanshi3.1280",
+                "name": "1280钻石",
+                "price": 1280,
+                "iosid": "com.shediao.sylm.god.zuanshi3.1280"
+            },
+            {
+                "tyid": "com.shediao.cnyxw.god.tili3.120",
+                "name": "120体力",
+                "price": 0,
+                "iosid": "com.shediao.cnyxw.god.tili3.120"
+            }
+        ]
+    }
+]

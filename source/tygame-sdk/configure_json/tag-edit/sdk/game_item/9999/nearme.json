@@ -1,0 +1,24 @@
+{
+    "com.tuyoo.doudizhu.main.nearme.gamecenter":{
+        "game":{
+            "package":"com.tuyoo.doudizhu.main.nearme.gamecenter",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u5355\u673a\u6597\u5730\u4e3b"
+        },
+        "nearme":{
+            "name":"nearme",
+            "nearme_isSingle":false,
+            "nearme_appId":"1316",
+            "nearme_appKey":"CN0aPw41ItK4gkk4wo0ck0cc0",
+            "nearme_appSecret":"4029caac30540f519821f0F7aa26d1bc",
+            "products":[
+                {
+                    "diamondId":"TY9999D0001003",
+                    "count":"1",
+                    "name":"1000\u4e07\u91d1\u5e01"
+                }
+            ]
+        }
+    }
+}

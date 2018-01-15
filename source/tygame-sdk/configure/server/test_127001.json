@@ -1,0 +1,40 @@
+{
+  "id": 9998,
+  "name": "test_127001",
+  "mode": 4,
+  "redis.host": "redis.dayun-app.com",
+  "redis.port": 7379,
+  "projects": [
+    {
+      "path": "./../../../tyframework"
+    },
+    {
+      "path": "./../../../tygame-sdk"
+    }
+  ],
+  "servers": [
+    {
+      "id": "srv1",
+      "internet": "hall0.dayun-app.com:8010",
+      "intrant": "127.0.0.1",
+      "user": "",
+      "pwd": ""
+    }
+  ],
+  "process": [
+    {
+      "type": "http",
+      "subtype": "sdk",
+      "id": 0,
+      "http": 8010,
+      "server": "srv1"
+    },
+    {
+      "type": "http",
+      "subtype": "gateway",
+      "id": 1,
+      "http": 8011,
+      "server": "srv1"
+    }
+  ]
+}

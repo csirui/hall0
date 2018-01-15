@@ -1,0 +1,193 @@
+[
+    {
+        "name": "10044",
+        "clientIds": [
+            "^IOS_3.*$",
+            "^IOS_2.*$"
+        ],
+        "products": [
+            {
+                "tyid": "com.buyu.jjby.coinCard01",
+                "name": "电玩捕鱼首冲礼包",
+                "price": 10,
+                "iosid": "com.buyu.jjby.coinCard01"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard06",
+                "name": "电玩捕鱼金币礼包",
+                "price": 60,
+                "iosid": "com.buyu.jjby.coinCard06"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard012",
+                "name": "电玩捕鱼金币礼包",
+                "price": 120,
+                "iosid": "com.buyu.jjby.coinCard012"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard028",
+                "name": "电玩捕鱼金币礼包",
+                "price": 280,
+                "iosid": "com.buyu.jjby.coinCard028"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard50",
+                "name": "电玩捕鱼金币礼包",
+                "price": 500,
+                "iosid": "com.buyu.jjby.coinCard50"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard108",
+                "name": "电玩捕鱼金币礼包",
+                "price": 1080,
+                "iosid": "com.buyu.jjby.coinCard108"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard00328",
+                "name": "电玩捕鱼金币礼包",
+                "price": 3280,
+                "iosid": "com.buyu.jjby.coinCard00328"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard0618",
+                "name": "电玩捕鱼金币礼包",
+                "price": 6180,
+                "iosid": "com.buyu.jjby.coinCard0618"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard006",
+                "name": "电玩捕鱼钻石礼包",
+                "price": 60,
+                "iosid": "com.buyu.jjby.coinCard006"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard0012",
+                "name": "电玩捕鱼钻石礼包",
+                "price": 120,
+                "iosid": "com.buyu.jjby.coinCard0012"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard0028",
+                "name": "电玩捕鱼钻石礼包",
+                "price": 280,
+                "iosid": "com.buyu.jjby.coinCard0028"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard050",
+                "name": "电玩捕鱼钻石礼包",
+                "price": 500,
+                "iosid": "com.buyu.jjby.coinCard050"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard0108",
+                "name": "电玩捕鱼钻石礼包",
+                "price": 1080,
+                "iosid": "com.buyu.jjby.coinCard0108"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard000328",
+                "name": "电玩捕鱼钻石礼包",
+                "price": 3280,
+                "iosid": "com.buyu.jjby.coinCard000328"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard000028",
+                "name": "电玩捕鱼贵族礼包",
+                "price": 280,
+                "iosid": "com.buyu.jjby.coinCard000028"
+            },
+
+
+			{
+                "tyid": "com.buyu.jjby.coinCard01_dw",
+                "name": "电玩捕鱼首冲礼包",
+                "price": 10,
+                "iosid": "com.buyu.jjby.coinCard01_dw"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard06_dw",
+                "name": "电玩捕鱼金币礼包",
+                "price": 60,
+                "iosid": "com.buyu.jjby.coinCard06_dw"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard012_dw",
+                "name": "电玩捕鱼金币礼包",
+                "price": 120,
+                "iosid": "com.buyu.jjby.coinCard012_dw"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard028_dw",
+                "name": "电玩捕鱼金币礼包",
+                "price": 280,
+                "iosid": "com.buyu.jjby.coinCard028_dw"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard50_dw",
+                "name": "电玩捕鱼金币礼包",
+                "price": 500,
+                "iosid": "com.buyu.jjby.coinCard50_dw"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard108_dw",
+                "name": "电玩捕鱼金币礼包",
+                "price": 1080,
+                "iosid": "com.buyu.jjby.coinCard108_dw"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard00328_dw",
+                "name": "电玩捕鱼金币礼包",
+                "price": 3280,
+                "iosid": "com.buyu.jjby.coinCard00328_dw"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard0618_dw",
+                "name": "电玩捕鱼金币礼包",
+                "price": 6180,
+                "iosid": "com.buyu.jjby.coinCard0618_dw"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard006_dw",
+                "name": "电玩捕鱼钻石礼包",
+                "price": 60,
+                "iosid": "com.buyu.jjby.coinCard006_dw"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard0012_dw",
+                "name": "电玩捕鱼钻石礼包",
+                "price": 120,
+                "iosid": "com.buyu.jjby.coinCard0012_dw"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard0028_dw",
+                "name": "电玩捕鱼钻石礼包",
+                "price": 280,
+                "iosid": "com.buyu.jjby.coinCard0028_dw"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard050_dw",
+                "name": "电玩捕鱼钻石礼包",
+                "price": 500,
+                "iosid": "com.buyu.jjby.coinCard050_dw"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard0108_dw",
+                "name": "电玩捕鱼钻石礼包",
+                "price": 1080,
+                "iosid": "com.buyu.jjby.coinCard0108_dw"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard000328_dw",
+                "name": "电玩捕鱼钻石礼包",
+                "price": 3280,
+                "iosid": "com.buyu.jjby.coinCard000328_dw"
+            },
+            {
+                "tyid": "com.buyu.jjby.coinCard000028_dw",
+                "name": "电玩捕鱼贵族礼包",
+                "price": 280,
+                "iosid": "com.buyu.jjby.coinCard000028_dw"
+            }
+        ]
+    }
+]

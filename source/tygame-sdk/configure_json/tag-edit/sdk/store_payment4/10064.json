@@ -1,0 +1,16 @@
+{
+    "*": [
+        {
+            "name": "支付宝",
+            "paytype": "alipaywap",
+            "tips": "支付宝安全支付",
+            "specialTips": "极速支付"
+        },
+        {
+            "name": "微信支付",
+            "paytype": "weixin",
+            "tips": "微信安全支付",
+            "collapsed": "1"
+        }
+    ]
+}

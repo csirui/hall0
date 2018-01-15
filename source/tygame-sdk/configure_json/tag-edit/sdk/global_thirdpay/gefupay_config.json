@@ -1,0 +1,11 @@
+{"32": {
+    "chinaMobile": "http://pay.imread.com:8083/cmcc/sms",
+    "chinaTelecom": "http://pay.imread.com:8081/union/sms",
+    "chinaUnion": "http://pay.imread.com:8081/cnet/sms",
+    "md5key": "ljziuzpg4dqvnlb"
+}, "43": {
+    "chinaMobile": "http://pay.imread.com:8081/cmcc/sms",
+    "chinaTelecom": "http://pay.imread.com:8081/union/sms",
+    "chinaUnion": "http://pay.imread.com:8081/cnet/sms",
+    "md5key": "ljziuzpg4dqvnlb"
+}}

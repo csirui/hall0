@@ -1,0 +1,15 @@
+{
+    "*": [
+        {
+            "name": "话费支付",
+            "paytype": "yisdkpay",
+            "tips": "360安全支付",
+            "isDefault": "5"
+        },
+        {
+            "name": "支付宝",
+            "paytype": "tuyou.ali",
+            "isDefault": "4"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "com.tuyoo.doudizhu.papa":{
+        "game":{
+            "package":"com.tuyoo.doudizhu.papa",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6597\u5730\u4e3b"
+        },
+        "papa":{
+            "name":"papa",
+            "papa_app_key":"16000073",
+            "papa_private_key":"b47387d2b01c16b7",
+            "papa_secret":"3a0bbcfd94c0e7d821a3e041a2fc77cc1b95f46991dfbb1cdd2121358e5e0523"
+        }
+    }
+}

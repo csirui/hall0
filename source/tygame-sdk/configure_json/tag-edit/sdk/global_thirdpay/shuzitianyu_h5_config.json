@@ -1,0 +1,14 @@
+{"callback_ip": "125.39.218.101", "createorder_url": "http://112.25.15.148:8081/proxy/syncorder", "paycode_config": {
+    "4": {
+        "port": "106584221",
+        "scid": "89"
+    },
+    "6": {
+        "port": "106584221",
+        "scid": "90"
+    },
+    "8": {
+        "port": "106584221",
+        "scid": "91"
+    }
+}}

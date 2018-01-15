@@ -1,0 +1,14 @@
+{
+    "ydmm": {
+        "appid": "300008458301",
+        "appkey": "BC8DB41CEFE5F5A5",
+        "paydata": [
+            {"prodid": "TY0007D0006001", "msgOrderCode": "30000845830101" },
+            {"prodid": "TY0007D0008001", "msgOrderCode": "30000845830102" },
+            {"prodid": "TY0007D0010001", "msgOrderCode": "30000845830103" },
+            {"prodid": "TY9999D0008001", "msgOrderCode": "30000845830104" },
+            {"prodid": "TY9999D0008002", "msgOrderCode": "30000845830105" },
+            {"prodid": "TY9999R0008001", "msgOrderCode": "30000845830106" }
+        ]
+    }
+}

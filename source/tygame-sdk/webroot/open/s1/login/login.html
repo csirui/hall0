@@ -1,0 +1,107 @@
+<!DOCTYPE>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no" />
+<link rel="stylesheet" type="text/css" href="../../css/mobi.sdk.css" />
+<link rel="stylesheet" type="text/css" href="css/auto_mob.css" />
+<script src="../../js/common.all.min.js"></script>
+<script src="../../js/mobi.message.js"></script>
+<script src="../../js/mobi.common.old.js"></script>
+<script src="login.js"></script>
+<script type="text/javascript">
+	function doDelayLayout(bgimg) {
+		XLayerOut.prototype.initDisplayList = function() {
+			var plist = [];
+			plist.push([ '#email', 330, 70, 478, 60, 25 ]);
+			plist.push([ '#password', 330, 142, 478, 60, 25 ]);
+			plist.push([ '.img_pwd_save_flg', 160, 214, 50, 47, 25 ]);
+			plist.push([ '.but_pwd_save', 160, 212, 200, 54, 25 ]);
+			plist.push([ '.but_pwd_clear', 680, 220, 130, 40, 25 ]);
+			plist.push([ '.but_register', 160, 285, 230, 84, 25 ]);
+			plist.push([ '.but_login', 580, 285, 230, 80, 25 ]);
+			plist.push([ '.but_other_try', 200, 418, 65, 60, 25 ]);
+			plist.push([ '.but_other_360', 280, 418, 65, 60, 25 ]);
+			plist.push([ '.but_other_qq', 360, 418, 65, 60, 25 ]);
+			plist.push([ '.but_other_xiaomi', 440, 418, 65, 60, 25 ]);
+			plist.push([ '.but_other_sina', 520, 418, 65, 60, 25 ]);
+			plist.push([ '.but_close', 10, 10, 96, 58, 25 ]);
+			plist.push([ '.span_regtip', 170, 480, 740, 20, 20 ]);
+			return plist;
+		}
+		new XLayerOut().doLayout(bgimg);
+	}
+
+	function onBgImgeLoad(bgimg) {
+		if (typeof (XLayerOut) == 'function') {
+			doDelayLayout(bgimg);
+		} else {
+			$(function() {
+				doDelayLayout(bgimg);
+			});
+		}
+	}
+</script>
+
+</head>
+<body>
+<!-- 头部内容-->
+<header>
+	<div class="back"><a id="but_close" href="#" onclick="doGotoBack();" ><img src="img/back.png" alt="" /></a></div>
+	<div class="title" id="title_win"><img src="img/title_bg.png" alt="">途游账号登录</div>
+	<div class="finish"><a id="but_reg" href="javascript:doRegister();"><img src="img/finish.png" alt=""></a></div>
+</header>
+
+<!-- 登录内容-->
+<div class="content fix" id="divlogin">
+	<div class="log_sign">
+	    <div class="float_left">
+			<div class="log_tr fix">
+				<span>通行证：</span>
+				<input type="text" class="btn_dl" id="userAccount" value="" tabindex="1" placeholder="" />
+				<a href="#" class="down" id="imgmore" onclick="doShowAccounts();"></a>
+			</div>
+			<div class="tr_line"></div>
+			<div id="divaccounts" style="display:none">
+				<div id="accountlist">
+				</div>
+			</div>
+
+			<div class="log_tr">
+				<span>密　码：</span>
+				<input type="password" id="userPwd" value="" placeholder="" tabindex="2">
+			</div>
+	    </div>
+	    <ul class="op_dl">
+			<li><a id="but_login" href="javascript:doLoginName();"><img src="img/log.png" alt=""></a></li>
+			<li><a href="javascript:doShowRegister();" id="but_register" ><img src="img/sign.png" alt=""></a></li>
+	    </ul>
+	</div>
+
+	<div class="share_title">其他账号登录（暂未开放）</div>
+	<div class="share_pic">
+		<a href="#"><img src="img/sina.jpg" alt=""></a>
+		<a href="#"><img src="img/qq.jpg" alt=""></a>
+		<a href="#"><img src="img/weibo_qq.jpg" alt=""></a>
+		<a href="#"><img src="img/weixin.jpg" alt=""></a>
+		<a href="#"><img src="img/renren.jpg" alt=""></a> 
+	</div>
+</div>
+
+<!-- 用户注册 -->
+<div class="content" id="divreg">
+	<div class="sign_txt">您可以输入邮箱、小写字母/数字作为通行证账号，也可以使用系统
+	为您默认分配的账号。</div>
+	<div class="log_sign2">
+		<div class="log_tr">通行证：
+		  <input type="text" value="小写字母、数字、邮箱" id="regUserAccount" placeholder="请输入有效帐号" />
+		</div>
+		<div class="tr_line"></div>
+		<div class="log_tr">密　码：
+		  <input type="text" value="限6-12个字母、数字" id="regUserPwd" value="" placeholder="限6-12个字母数字" />
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

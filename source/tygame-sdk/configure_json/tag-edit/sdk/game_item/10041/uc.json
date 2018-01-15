@@ -1,0 +1,16 @@
+{
+    "com.tencent.tmgp.tuyoo.yh.uc":{
+        "game":{
+            "package":"com.tencent.tmgp.tuyoo.yh.uc",
+            "tuyoo_appId":"10041",
+            "name":"game",
+            "app_name":"\u6c38\u6052"
+        },
+        "uc":{
+            "uc_appId":"614371",
+            "uc_cpId":"30574",
+            "apiKey":"290d690a15d40c5b11867e7a8623eaf5",
+            "name":"uc"
+        }
+    }
+}

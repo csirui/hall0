@@ -1,0 +1,136 @@
+{
+  "payment": {
+    "more_categories": "CAT_LIST_TUYOU_WEIXIN",
+    "default_category": [
+      {
+        "category": "CAT_ALIPAY",
+        "paytype": "tuyou.ali",
+        "id": "TY9999R0000101",
+        "is_diamond": 1
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "id": "TY9999D0001003",
+        "paytype": "tuyou.ali"
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "id": "TY9999D0002001",
+        "paytype": "tuyou.ali"
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "id": "TY9999D0005003",
+        "paytype": "tuyou.ali"
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "id": "TY9999D0006016",
+        "paytype": "tuyou.ali"
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "id": "TY9999D0008005",
+        "paytype": "tuyou.ali"
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "paytype": "tuyou.ali",
+        "id": "TY9999R0008005",
+        "is_diamond": 1
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "id": "TY9999D0008001",
+        "paytype": "tuyou.ali"
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "id": "TY9999D0008025",
+        "paytype": "tuyou.ali"
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "id": "TY9999D0008026",
+        "paytype": "tuyou.ali"
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "id": "TY9999D0010001",
+        "paytype": "tuyou.ali"
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "id": "TY9999D0030001",
+        "paytype": "tuyou.ali"
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "id": "TY9999D0050001",
+        "paytype": "tuyou.ali"
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "id": "TY9999D0100001",
+        "paytype": "tuyou.ali"
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "id": "TY9999D0300001",
+        "paytype": "tuyou.ali"
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "id": "TY9999D1000001",
+        "paytype": "tuyou.ali"
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "paytype": "tuyou.ali",
+        "id": "TY9999R0050001",
+        "is_diamond": 1
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "id": "TY9999D5000001",
+        "paytype": "tuyou.ali"
+      },
+      {
+        "category": "CAT_ALIPAY",
+        "id": "TY9999D0100019",
+        "paytype": "tuyou.ali"
+      }
+,
+            {
+                "id": "TY9999D0008038",
+                "category": "CAT_ALIPAY",
+                "paytype": "tuyou.ali"
+            },
+            {
+                "id": "TY9999D0030024",
+                "category": "CAT_ALIPAY",
+                "paytype": "tuyou.ali"
+            },
+            {
+                "id": "TY9999D0050011",
+                "category": "CAT_ALIPAY",
+                "paytype": "tuyou.ali"
+            },
+            {
+                "id": "TY9999D0100021",
+                "category": "CAT_ALIPAY",
+                "paytype": "tuyou.ali"
+            },
+            {
+                "id": "TY9999D0300004",
+                "category": "CAT_ALIPAY",
+                "paytype": "tuyou.ali"
+            },
+            {
+                "id": "TY9999D1000012",
+                "category": "CAT_ALIPAY",
+                "paytype": "tuyou.ali"
+            }
+    ]
+  }
+}

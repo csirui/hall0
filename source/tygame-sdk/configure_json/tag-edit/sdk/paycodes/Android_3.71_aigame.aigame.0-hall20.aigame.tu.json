@@ -1,0 +1,11 @@
+{
+    "aigame": {
+        "appid": "5074757",
+        "appkey": "b59831907883d64f09fbe9a5895d152a",
+        "paydata": [
+            {"prodid": "TY9999D0006001", "msgOrderCode": "30000920805201" },
+            {"prodid": "TY9999R0008001", "msgOrderCode": "30000920805202" },
+            {"prodid": "TY9999D0008001", "msgOrderCode": "30000920805203" }
+    ]
+    }
+}

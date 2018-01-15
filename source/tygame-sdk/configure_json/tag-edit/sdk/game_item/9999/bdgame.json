@@ -1,0 +1,16 @@
+{
+    "com.tuyoo.doudizhu.main":{
+        "game":{
+            "package":"com.tuyoo.doudizhu.main",
+            "tuyoo_appId":"9999",
+            "name":"game",
+            "app_name":"\u9014\u6e38\u6597\u5730\u4e3b"
+        },
+        "bdgame":{
+            "name":"bdgame",
+            "bdgame_appId":"8169647",
+            "bdgame_appKey":"fLElXmPcrV3yqvsd9vUIqCdr",
+            "bdgame_secretKey":"szwjleCzE2OytO5y0IOo1FEumPHVoG9R"
+        }
+    }
+}

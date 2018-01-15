@@ -1,0 +1,10 @@
+{
+    "*": [
+        {
+            "name": "小米支付",
+            "paytype": "xiaomi.common",
+            "tips": "小米安全支付",
+            "isDefault": "1"
+        }
+    ]
+}
